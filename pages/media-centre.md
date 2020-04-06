@@ -27,4 +27,3 @@ permalink: /media-centre/
 |COS 2020 | (MOM) Minister Josephine Teo's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0226-speech-by-minister-for-manpower-mrs-josephine-teo-at-budget-2020-debate) |
 |COS 2020 | (MOM) Senior Parliamentary Secretary Low Yen Ling's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0303-speech-by-sps-low-yen-ling-at-mom-committee-of-supply-2020) |
 
-### Features
