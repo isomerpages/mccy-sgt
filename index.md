@@ -9,7 +9,7 @@ sections:
         title: Singapore Together
         subtitle: We can emerge stronger for our Singapore.
         background: /images/Banner.jpg
-        button: What We Do!
+        button: What We Do
         url: /who-we-are/
         key_highlights:
             - title: Who We Are
