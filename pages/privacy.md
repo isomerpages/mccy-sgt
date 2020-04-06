@@ -20,6 +20,6 @@ permalink: /privacy/
 
 - This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-- Please contact the MCCY Partnerships Project Office (PPO) if you:
+- Please contact the MCCY if you:
   - have any enquiries or feedback on our data protection policies and procedures,
   - need more information on or access to data which you have provided to us in the past.
