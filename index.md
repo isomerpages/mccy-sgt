@@ -1,14 +1,14 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Singapore Together
+description: The official site  for Singapore Together
 image: /images/isomer-logo.svg
-permalink: /
+permalink: /sgtogether
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Singapore Together
+        subtitle: We can emerge stronger for our Singapore.
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
