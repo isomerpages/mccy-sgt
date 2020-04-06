@@ -15,16 +15,16 @@ sections:
         key_highlights:
             - title: Who We Are
               description: 
-              url: https://google.com
+              url: /who-we-are/
             - title: Media Centre
               description: 
               url: /media-centre/
             - title: Resources
               description:
-              url: /privacy/
+              url: /resources/
             - title: Connect
               description: 
-              url: /privacy/
+              url: /connect/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
