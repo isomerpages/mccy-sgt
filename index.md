@@ -18,7 +18,7 @@ sections:
               url: https://google.com
             - title: Media Centre
               description: 
-              url: https://gmail.com
+              url: /media-centre/
             - title: Resources
               description:
               url: /privacy/
