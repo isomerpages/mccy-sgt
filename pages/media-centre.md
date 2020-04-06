@@ -31,6 +31,14 @@ COS 2020 | (MSF) Minister of State Sam Tan's [COS  speech](https://www.msf.gov.s
 
 COS 2020 | (MSF) Senior Parliamentary Secretary Muhammad Faishal Ibrahim's [COS  speech](https://www.msf.gov.sg/media-room/Pages/Speech-by-Assoc-Prof-Dr-Muhammad-Faishal-Ibrahim-at-the-Committee-of-Supply-2020.aspx) 
 
+COS 2020 | (MCCY) Minister Grace Fu's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/building-a-home-that-provides-opportunities-for-all) 
+
+COS 2020 | (MCCY) Senior Minister of State's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/partnering-singaporeans-to-build-a-caring-democracy-of-deeds) 
+
+COS 2020 | (MCCY) Senior Parliamentary Secretary Baey Yam Keng's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/nurturing-a-strong-arts-heritage-and-sports-ecosystem) 
+
+COS 2020 | (MCCY) Minister Masagos Zulkifli's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/investing-in-our-community-of-success)
+
 COS 2020 | (MHA) Minister K Shanmugam's [COS  speech](https://www.mha.gov.sg/newsroom/in-parliament/parliamentary-speeches/news/committee-of-supply-debate-2020-on-a-strong-home-team-for-a-safe-and-secure-home-speech-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law) 
 
 COS 2020 | (MHA) Senior Parliamentary Secretary Amrin Amin's [COS  speech](https://www.mha.gov.sg/newsroom/in-parliament/parliamentary-speeches/news/committee-of-supply-debate-2020-on-combating-drug-abuse-and-strengthening-rehabilitation-together-speech-by-mr-amrin-amin-senior-parliamentary-secretary-ministry-of-home-affairs-and-ministry-of-health) 
@@ -43,7 +51,29 @@ COS 2020 | (MCI) Minister S Iswaran's [COS  speech](https://www.mci.gov.sg/press
 
 COS 2020 | (MOM) Minister Josephine Teo's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0226-speech-by-minister-for-manpower-mrs-josephine-teo-at-budget-2020-debate) 
 
+COS 2020 | (MOM) Minister of State Zaqy Mohamad's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0303-speech-by-minister-of-state-for-manpower-mr-zaqy-mohamad-at-mom-committee-of-supply-2020) 
+
 COS 2020 | (MOM) Senior Parliamentary Secretary Low Yen Ling's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0303-speech-by-sps-low-yen-ling-at-mom-committee-of-supply-2020) 
+
+COS 2020 | (MEWR) Minister Masagos Zulkifli's [COS  speech](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-committee-of-supply-debate--4-march-2020) 
+
+COS 2020 | (MEWR) Senior Minister of State Amy Khor's [COS  speech](https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-committee-of-supply-debate--4-march-2020) 
+
+COS 2020 | (MOH) Minister Gan Kim Yong's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-gan-kim-yong-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) 
+
+COS 2020 | (MOH) Senior Minister of State Amy Khor's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-dr-amy-khor-senior-minister-of-state-for-health-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) 
+
+COS 2020 | (MOH) Senior Minister of State Lam Pin Min's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-dr-lam-pin-min-senior-minister-of-state-ministry-of-transport-and-ministry-of-health-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) 
+
+COS 2020 | (MOH) Senior Parliamentary Secretary Amrin Amin's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-amrin-amin-senior-parliamentary-secretary-ministry-of-health-and-ministry-of-home-affairs-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) 
+
+COS 2020 | (MOT) Senior Minister of State Lam Pin Min's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-dr-lam-pin-min-senior-minister-of-state-ministry-of-transport-and-ministry-of-health-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) 
+
+COS 2020 | (MOT) Senior Minister of State Janil Puthucheary's [COS  speech](https://www.mot.gov.sg/news-centre/news/Detail/speech-by-dr-janil-puthucheary-senior-minister-of-state-for-transport-and-communications-and-information-at-the-ministry-of-transport-s-committee-of-supply-debate-2020-on-towards-a-future-ready-land-transport-system/) 
+
+COS 2020 | (MOT) Senior Parliamentary Secretary Baey Yam Keng's [COS  speech](https://www.mot.gov.sg/news-centre/news/Detail/speech-by-senior-parliamentary-secretary-for-transport-and-culture-community-and-youth-baey-yam-keng-at-the-ministry-of-transport-s-committee-of-supply-debate-2020-on-towards-a-safe-and-inclusive-transport-for-all/) 
+
+
 
 
 
