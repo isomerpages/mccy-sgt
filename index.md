@@ -17,7 +17,7 @@ sections:
               url: /who-we-are/
             - title: Media Centre
               description: 
-              url: /media-centre/
+              url: /media-centre-1/
             - title: Resources
               description:
               url: /resources/
