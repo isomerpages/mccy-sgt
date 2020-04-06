@@ -8,7 +8,7 @@ sections:
     - hero:
         title: Singapore Together
         subtitle: We can emerge stronger for our Singapore.
-        background: /images/hero-banner.png
+        background: /images/Banner.jpg
         button: What We Do!
         url: /who-we-are/
         key_highlights:
