@@ -1,9 +1,9 @@
 ---
 layout: homepage
 title: Singapore Together
-description: The official site  for Singapore Together
+description: The official site for Singapore Together
 image: /images/isomer-logo.svg
-permalink: /sgtogether
+permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
