@@ -25,11 +25,11 @@ sections:
               description: 
               url: /connect/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        title: SG Together
+        subtitle: Building a Singapore that present and future generations of Singaporeans will be proud of
+        description: Singapore Together is about the Government working with Singaporeans, and Singaporeans working with one another, to build our future Singapore. 
+        button: Who We Are!
+        url: /who-we-are/
     - resources:
         title: Media
         subtitle: Learn more
