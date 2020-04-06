@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /resource-page/
+permalink: /media-centre/
 ---
 
 ### Speeches
