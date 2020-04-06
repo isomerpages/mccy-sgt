@@ -7,4 +7,4 @@ As we reach a critical point in the battle against COVID-19, it is important for
 
 Singapore can pull through this only if we do it together! [Click here](https://form.gov.sg/#!/5e3b868988573300116ca38a) if you would like to contribute an idea or an intiative to help others. Thank you for stepping forward. 
 
-#SingaporeTogether  #SGUnited #stayathomeforSG
+#SingaporeTogether  #SGUnited   #StayHomeForSG
