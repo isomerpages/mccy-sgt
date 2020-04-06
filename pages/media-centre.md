@@ -73,8 +73,14 @@ COS 2020 | (MOT) Senior Minister of State Janil Puthucheary's [COS  speech](http
 
 COS 2020 | (MOT) Senior Parliamentary Secretary Baey Yam Keng's [COS  speech](https://www.mot.gov.sg/news-centre/news/Detail/speech-by-senior-parliamentary-secretary-for-transport-and-culture-community-and-youth-baey-yam-keng-at-the-ministry-of-transport-s-committee-of-supply-debate-2020-on-towards-a-safe-and-inclusive-transport-for-all/) 
 
-
-
-
-
 ### Features
+
+15 June 2019 | DPM Heng Swee Keat | REACH-CNA “Building Our Future Singapore Together” Dialogue [On Singapore Together](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-Building-Our-Future-Singapore-Together-Dialogue)
+
+17 July 2019 | Minister Masagos Zulkifli | Partners for the Environment Forum [On climate change](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-partners-for-the-environment-forum-on-10-july-2018)
+
+
+REACH-CNA “Building Our Future Singapore Together” Dialogue [On Singapore Together](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-Building-Our-Future-Singapore-Together-Dialogue)
+
+
+
