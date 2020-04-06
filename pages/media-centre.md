@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Media Centre
 permalink: /media-centre/
 ---
 
