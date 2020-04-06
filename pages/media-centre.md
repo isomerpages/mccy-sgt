@@ -5,11 +5,11 @@ permalink: /media-centre/
 
 ### Speeches
 
-- Read DPM Heng's speech on [SG Together](http://www.sgunited.gov.sg) here.
-
-First Header | Second Header
+Budget 2020  | 
 ------------ | -------------
-Content cell 1 | Content cell 2
+Budget 2020  | DPM Heng Swee Keat's [budget speech] (https://www.singaporebudget.gov.sg/budget_2020/budget-speech/e-partnering-singaporeans-to-build-singapore-together#pa) 
+DPM Heng Swee Keat's [round-up  speech] (https://www.singaporebudget.gov.sg/budget_2020/budget-debate-round-up-speech) 
+
 Content column 1 | Content column 2
 
 
