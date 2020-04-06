@@ -4,7 +4,6 @@ title: Singapore Together
 description: The official site for Singapore Together
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Singapore Together
