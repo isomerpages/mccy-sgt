@@ -20,7 +20,7 @@ Thank you for visiting Singapore Together Website (“Website”). By accessing 
 
 **PRIVACY POLICY**
 
-- Click [here](/privacy/) to review this Website’s Privacy Statement
+- Click [here](https://www.mccy.gov.sg/privacy-policy) to review this Website’s Privacy Statement
 
 **RESTRICTIONS ON USE OF CONTENTS**
 
