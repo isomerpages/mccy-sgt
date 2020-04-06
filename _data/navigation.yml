@@ -10,8 +10,8 @@ links:
   - title: Who We Are
     url: /contact-us/
   - title: Media Centre
-    url: /who-we-are/
-  - title: Resources
-    collection: resources
-  - title: Connect
     resource_room: true
+  - title: Resources
+    url: /resources/
+  - title: Connect
+    url: /who-we-are/
