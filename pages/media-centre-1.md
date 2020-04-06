@@ -1,6 +1,6 @@
 ---
 title: Media Centre
-permalink: /media-centre/
+permalink: /media-centre-1/
 ---
 
 ### Speeches
