@@ -1,5 +1,5 @@
 ---
-title: What is Singapore Together
+title: Singapore Together
 permalink: /who-we-are/
 ---
 
