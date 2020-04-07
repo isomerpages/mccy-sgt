@@ -32,6 +32,8 @@ permalink: /media-center/speeches/
 |COS 2020 | (MOH) Senior Minister of State Amy Khor's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-dr-amy-khor-senior-minister-of-state-for-health-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) |
 |COS 2020 | (MOH) Senior Minister of State Lam Pin Min's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-dr-lam-pin-min-senior-minister-of-state-ministry-of-transport-and-ministry-of-health-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) |
 |COS 2020 | (MOH) Senior Parliamentary Secretary Amrin Amin's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-amrin-amin-senior-parliamentary-secretary-ministry-of-health-and-ministry-of-home-affairs-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) |
-
+|COS 2020 | (MOT) Senior Minister of State Lam Pin Min's [COS  speech](https://www.mot.gov.sg/news-centre/news/Detail/speech-by-senior-minister-of-state-for-transport-and-health-lam-pin-min-at-the-ministry-of-transport-s-committee-of-supply-debate-2020-sustainable-competitive-industries-and-sustainable-environment-with-a-focus-on-aviation-maritime-and-active-mobility/) |
+|COS 2020 | (MOT) Senior Minister of State Janil Puthucheary's [COS  speech](https://www.mot.gov.sg/news-centre/news/Detail/speech-by-dr-janil-puthucheary-senior-minister-of-state-for-transport-and-communications-and-information-at-the-ministry-of-transport-s-committee-of-supply-debate-2020-on-towards-a-future-ready-land-transport-system/) |
+|COS 2020 | (MOT) Senior Parliamentary Secretary Baey Yam Keng's [COS  speech](https://www.mot.gov.sg/news-centre/news/Detail/speech-by-senior-parliamentary-secretary-for-transport-and-culture-community-and-youth-baey-yam-keng-at-the-ministry-of-transport-s-committee-of-supply-debate-2020-on-towards-a-safe-and-inclusive-transport-for-all/) |
 
 
