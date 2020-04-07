@@ -1,9 +1,9 @@
 ---
-title: Who We Are
+title: What is Singapore Together?
 permalink: /who-we-are/
 ---
 
-### Who We Are
+### What is Singapore Together?
 
 The **Singapore Together** movement started in June 2019. It is about the government and Singaporeans working in partnership to address complex challenges and build our future Singapore.
 
