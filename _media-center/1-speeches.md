@@ -51,7 +51,7 @@ permalink: /media-center/speeches/
 |13 Sep 2019 | Early Childhood Conference: Minister Desmond Lee [on early childhood education](https://www.msf.gov.sg/media-room/Pages/ECC-2019-Speech.aspx) |
 |27 Jul 2019 | Adapt & Grow Appreciation Event: Minister Josephine Teo [on career mobility](https://www.mom.gov.sg/newsroom/speeches/2019/0727-speech-by-minister-josephine-teo-at-ag-appreciation-event) |
 |18 Jul 2019 | NUS’ Social Service Research Conference: Minister Indranee Rajah [on lifelong meritocracy](https://www.moe.gov.sg/news/speeches/nus-social-service-research-centre-conference-working-with-low-income-families-through-the-life-course--challenges-to-social-services-keynote-speech-by-second-minister-for-education--ms-indranee-rajah) |
-|17 Jul 2019 | Partners for the Environment Forum: Minister Masagos Zulkifli [on climate change ](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-partners-for-the-environment-forum-on-10-july-2018) |
+|17 Jul 2019 | Partners for the Environment Forum: Minister Masagos Zulkifli [on climate change ](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-partners-for-the-environment-forum--17-july-2019) 
 |15 Jun 2019 | REACH-CNA “Building Our Future Singapore Together” Dialogue: DPM Heng Swee Keat [on Singapore Together](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-Building-Our-Future-Singapore-Together-Dialogue) |
 
 
