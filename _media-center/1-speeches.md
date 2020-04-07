@@ -47,3 +47,11 @@ permalink: /media-center/speeches/
 |7 Nov 2019 | Asia House Global Trade Dialogue: Minister S Iswaran [on the digital economy](https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2019/11/keynote-address-by-mr-s-iswaran-at-the-asia-house-global-trade-dialogue-on-7-nov-2019) |
 |15 Oct 2019 | NTUC National Delegates’ Conference: Minister Ng Chee Meng [on tripartism and NTUC’s way forward](https://ntuc.org.sg/wps/portal/up2/home/news/speeches/speechesdetails?WCM_GLOBAL_CONTEXT=/Content_Library/ntuc/home/about%20ntuc/newsroom/speeches/b4e09a42-2c09-464a-9c3a-87a9ebbca860) |
 |11 Oct 2019 | MND Huddle: Minister Lawrence Wong [on partnerships in infrastructure planning](https://www.sgpc.gov.sg/sgpcmedia/media_releases/mnd/speech/S-20191011-1/attachment/Delivered%20final%20-%20Speech%20by%20Minister%20Lawrence%20Wong%20at%20MND%20Huddle%202019.pdf) |
+|20 Sep 2019 | Singapore Summit 2019: DPM Heng Swee Keat [on the social compact](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Singapore-Summit-2019) |
+|13 Sep 2019 | Early Childhood Conference: Minister Desmond Lee [on early childhood education](https://www.msf.gov.sg/media-room/Pages/ECC-2019-Speech.aspx) |
+|27 Jul 2019 | Adapt & Grow Appreciation Event: Minister Josephine Teo [on career mobility](https://www.mom.gov.sg/newsroom/speeches/2019/0727-speech-by-minister-josephine-teo-at-ag-appreciation-event) |
+|18 Jul 2019 | NUS’ Social Service Research Conference: Minister Indranee Rajah [on lifelong meritocracy](https://www.moe.gov.sg/news/speeches/nus-social-service-research-centre-conference-working-with-low-income-families-through-the-life-course--challenges-to-social-services-keynote-speech-by-second-minister-for-education--ms-indranee-rajah) |
+|17 Jul 2019 | Partners for the Environment Forum: Minister Masagos Zulkifli [on climate change ](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-partners-for-the-environment-forum-on-10-july-2018) |
+|15 Jun 2019 | REACH-CNA “Building Our Future Singapore Together” Dialogue: DPM Heng Swee Keat [on Singapore Together](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-Building-Our-Future-Singapore-Together-Dialogue) |
+
+
