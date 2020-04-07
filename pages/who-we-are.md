@@ -5,7 +5,7 @@ permalink: /who-we-are/
 
 ### Who We Are
 
-Started in June 2019, the **Singapore Together** movement is about the Government working with Singaporeans, and Singaporeans working with one another, to build our future Singapore
+Started in June 2019, the **Singapore Together** movement is about the Government working with Singaporeans, and Singaporeans working with one another, to build our future Singapore.
 
 Our robust SG United response to the current COVID-19 situation epitomises what Singapore Together is about. We will only be able to overcome this threat if all of us – the Government, Singaporeans, businesses, community groups – work together.
 
