@@ -10,7 +10,7 @@ links:
   - title: Who We Are
     url: /who-we-are/
   - title: Media Centre
-    resource_room: true
+    collection: media-center
   - title: Resources
     url: /resources/
   - title: Connect
