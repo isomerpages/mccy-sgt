@@ -6,6 +6,8 @@ permalink: /media-centre/features/MrDarrenTan
 ### Mr Darren Tan
 ### Youth Action Challenge (Environment)
 
+![Darren Tan](/images/features/Social_Darren.jpg)
+
 “If life can be better for all of us, then why not?” 
   
 Instead of letting our urban spaces remain underused, we started Singapore’s first rooftop farm to produce vegetables for local consumption. We also provide meaningful work for persons with disabilities (PwDs), engage the community, and partner with schools to raise awareness on issues like food security and sustainability. 
@@ -21,7 +23,5 @@ Sustainability has been and will always be core to our survival, which is why we
 Singapore is first in the world for many things, even though we’re such a small country. So why can’t we be the first in working together to achieve our common goals? Let’s show the world how it can be done. 
 
 –– Mr Darren Tan, Mentor for Youth Action Challenge (Environment) by the MCCY and NYC
-
-![Darren Tan](/images/features/Social_Darren.jpg)
 
 Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
