@@ -30,8 +30,4 @@ sections:
         description: The Government working with Singaporeans, and Singaporeans working with one another, to build our future Singapore. 
         button: Who We Are!
         url: /who-we-are/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
 ---
