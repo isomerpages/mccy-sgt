@@ -26,8 +26,8 @@ sections:
               url: /connect/
     - infobar:
         title: "#SingaporeTogether"
-        subtitle: Building a Singapore that present and future generations of Singaporeans will be proud of
-        description: The Government working with Singaporeans, and Singaporeans working with one another, to build our future Singapore. 
+        subtitle: Only by working together can we create a Singapore that we all want, regardless of how diverse our ideas and opinions are. After all, it will take this entire nation to build our nation. 
+        description: The Government is working with Singaporeans, and Singaporeans are working with one another, to build our future Singapore. 
         button: Who We Are!
         url: /who-we-are/
 ---
