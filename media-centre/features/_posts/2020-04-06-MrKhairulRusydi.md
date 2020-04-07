@@ -24,6 +24,6 @@ The next time you disagree with something, bring your opinion and an open mind. 
 
 — Khairul Rusydi, SG Youth Action Plan Panel Member. SG YAP is an initiative by the MCCY and NYC. 
  
- Learn how we can all work together to make more happen: [www.sg](www.sg) #SingaporeTogether
+ Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
 
 

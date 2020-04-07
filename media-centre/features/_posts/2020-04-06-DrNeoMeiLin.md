@@ -20,4 +20,4 @@ We’ve learnt that holistic and inclusive actions work well. Just like in the c
  
 –– Dr Neo Mei Lin, Mentor for Youth Action Challenge (Environment) by MCCY and the NYC. 
  
- Learn how we can all work together to make more happen: [www.sg](www.sg) #SingaporeTogether
+ Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether

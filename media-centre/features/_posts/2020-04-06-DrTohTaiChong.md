@@ -32,5 +32,5 @@ All in all, this has been an empowering experience.
 
 — Dr Toh Tai Chong, who was a member of the WorkLife Harmony Citizens’ Panel (NPTD,  MOM and MSF) 
  
- Learn how we can all work together to make more happen: [www.sg](www.sg) #SingaporeTogether
+ Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
   			

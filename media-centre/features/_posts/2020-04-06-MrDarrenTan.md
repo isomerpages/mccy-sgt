@@ -24,4 +24,4 @@ Singapore is first in the world for many things, even though we’re such a smal
 
 ![Darren Tan](/images/features/Social_Darren.jpg)
 
-Learn how we can all work together to make more happen: [www.sg](www.sg) #SingaporeTogether
+Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
