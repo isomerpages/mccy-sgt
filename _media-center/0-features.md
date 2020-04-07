@@ -19,11 +19,11 @@ permalink: /media-center/features
 "Making a difference needn't be a solo effort". Read more about Dr Neo Mei Lin's experience [here](/media-centre/features/DrNeoMeiLin).
 
 
-### Enabling Masterplan
+### Enabling Masterplan 
 
 "Inclusivity is about involving not just some of us, but all of us". Read more about Mr Chong Kwek Bin's experience [here](/media-centre/features/MrChongKwekBin).
 
 
-### #Recycle Right 
+### #RecycleRight Citizens' Workgroup 
 
 "This is about us speaking up for a greener environment, but with our actions too". Read more about Mr David Lau's experience [here](/media-centre/features/MrDavidLau).
