@@ -26,5 +26,12 @@ permalink: /media-center/speeches/
 |COS 2020 | (MCI) Minister S Iswaran's [COS  speech](https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2020/3/speech-by-mr-s-iswaran-at-the-mci-committee-of-supply-debate-2020-on-3-mar-2020https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2020/3/speech-by-ms-sim-ann-at-the-mci-committee-of-supply-debate-2020-on-3-mar-2020) |
 |COS 2020 | (MOM) Minister Josephine Teo's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0226-speech-by-minister-for-manpower-mrs-josephine-teo-at-budget-2020-debate) |
 |COS 2020 | (MOM) Senior Parliamentary Secretary Low Yen Ling's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0303-speech-by-sps-low-yen-ling-at-mom-committee-of-supply-2020) |
+|COS 2020 | (MEWR) Minister Masagos Zulkifli's [COS  speech](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-committee-of-supply-debate--4-march-2020) |
+|COS 2020 | (MEWR) Senior Minister of State Amy Khor's [COS  speech](https://www.mewr.gov.sg/news/speech-by-dr-amy-khor--senior-minister-of-state-for-the-environment-and-water-resources--at-the-committee-of-supply-debate--4-march-2020) |
+|COS 2020 | (MOH) Minister Gan Kim Yong's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-gan-kim-yong-minister-for-health-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) |
+|COS 2020 | (MOH) Senior Minister of State Amy Khor's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-dr-amy-khor-senior-minister-of-state-for-health-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) |
+|COS 2020 | (MOH) Senior Minister of State Lam Pin Min's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-dr-lam-pin-min-senior-minister-of-state-ministry-of-transport-and-ministry-of-health-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) |
+|COS 2020 | (MOH) Senior Parliamentary Secretary Amrin Amin's [COS  speech](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-amrin-amin-senior-parliamentary-secretary-ministry-of-health-and-ministry-of-home-affairs-at-the-ministry-of-health-committee-of-supply-debate-2020-on-thursday-5-march-2020) |
+
 
 
