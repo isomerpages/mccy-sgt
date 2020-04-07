@@ -39,3 +39,6 @@ permalink: /media-center/speeches/
 |COS 2020 | (MCCY) Senior Minister of State Sim Ann's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/partnering-singaporeans-to-build-a-caring-democracy-of-deeds) |
 |COS 2020 | (MCCY) Senior Parliamentary Secretary Baey Yam Keng's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/nurturing-a-strong-arts-heritage-and-sports-ecosystem) |
 |COS 2020 | (MCCY) Minister Masagos Zulkifli's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/investing-in-our-community-of-success) |
+|22 Jan 2020 | MOE’s In Context Series: Minister Vivian Balakrishnan [on our enduring foreign policy principles](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2020/01/22012020-SGT) |
+|20 Jan 2020 | IPS Singapore Perspectives 2020: DPM Heng Swee Keat [on Singapore Together](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Singapore-Perspectives-Conference-2020) |
+|18 Jan 2020 | Pre-Budget Engagement: Minister Grace Fu [on identity, values and community building](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/jan/working-with-singaporeans-as-partners) |
