@@ -23,6 +23,8 @@ collections:
     output: true
   media-center:
     output: true
+    
+ google_analytics: UA-162964173-1
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
