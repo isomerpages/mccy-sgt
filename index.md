@@ -9,7 +9,6 @@ sections:
         title: Singapore Together
         subtitle: Together, we will emerge stronger. We will go further. For our Singapore.
         background: /images/Banner.jpg
-        button: Singapore Together movement
         url: /who-we-are/
         key_highlights:
             - title: Who We Are
