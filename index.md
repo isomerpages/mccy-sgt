@@ -11,7 +11,7 @@ sections:
         background: /images/Banner.jpg
         url: /who-we-are/
         key_highlights:
-            - title: What is Singapore Together
+            - title: Singapore Together
               description: 
               url: /who-we-are/
             - title: Media Centre
@@ -27,6 +27,6 @@ sections:
         title: "#SingaporeTogether"
         subtitle: Only by working together can we create a Singapore that we all want, regardless of how diverse our ideas and opinions are. After all, it will take this entire nation to build our nation. 
         description: Singapore Together is about the Government working with Singaporeans, and Singaporeans working with one another, to build our future Singapore. 
-        button: Click here to find out more
+        button: Click here for more
         url: /who-we-are/
 ---

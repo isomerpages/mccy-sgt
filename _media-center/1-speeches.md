@@ -22,8 +22,9 @@ permalink: /media-center/speeches/
 |COS 2020 | (MHA) Minister K Shanmugam's [COS  speech](https://www.mha.gov.sg/newsroom/in-parliament/parliamentary-speeches/news/committee-of-supply-debate-2020-on-a-strong-home-team-for-a-safe-and-secure-home-speech-by-mr-k-shanmugam-minister-for-home-affairs-and-minister-for-law) |
 |COS 2020 | (MHA) Senior Parliamentary Secretary Amrin Amin's [COS  speech](https://www.mha.gov.sg/newsroom/in-parliament/parliamentary-speeches/news/committee-of-supply-debate-2020-on-combating-drug-abuse-and-strengthening-rehabilitation-together-speech-by-mr-amrin-amin-senior-parliamentary-secretary-ministry-of-home-affairs-and-ministry-of-health) |
 |COS 2020 | (MINDEF) Senior Minister of State Maliki Osman's [COS  speech](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2020/March/02mar20_speech3) |
-|COS 2020 | (MTI) Minister Chan Chun Sing's [COS  speech](https://www.mti.gov.sg/Newsroom/Speeches/2020/03/Speech-by-Minister-Chan-Chun-Sing-at-COS-debate) |
-|COS 2020 | (MCI) Minister S Iswaran's [COS  speech](https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2020/3/speech-by-mr-s-iswaran-at-the-mci-committee-of-supply-debate-2020-on-3-mar-2020https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2020/3/speech-by-ms-sim-ann-at-the-mci-committee-of-supply-debate-2020-on-3-mar-2020) |
+|COS 2020 | (MTI) Minister Chan Chun Sing's [COS  speech](https://www.mti.gov.sg/Newsroom/Speeches/2020/03/Speech-by-Minister-Chan-Chun-Sing-at-MTI-COS-debate) |
+|COS 2020 | (MCI) Minister S Iswaran's [COS  speech](https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2020/3/speech-by-mr-s-iswaran-at-the-mci-committee-of-supply-debate-2020-on-3-mar-2020) 
+|COS 2020 | (MCI) Senior Minister of State Sim Ann's [COS  speech] (https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2020/3/speech-by-ms-sim-ann-at-the-mci-committee-of-supply-debate-2020-on-3-mar-2020) |
 |COS 2020 | (MOM) Minister Josephine Teo's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0226-speech-by-minister-for-manpower-mrs-josephine-teo-at-budget-2020-debate) |
 |COS 2020 | (MOM) Senior Parliamentary Secretary Low Yen Ling's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0303-speech-by-sps-low-yen-ling-at-mom-committee-of-supply-2020) |
 |COS 2020 | (MEWR) Minister Masagos Zulkifli's [COS  speech](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-committee-of-supply-debate--4-march-2020) |
@@ -51,7 +52,7 @@ permalink: /media-center/speeches/
 |13 Sep 2019 | Early Childhood Conference: Minister Desmond Lee [on early childhood education](https://www.msf.gov.sg/media-room/Pages/ECC-2019-Speech.aspx) |
 |27 Jul 2019 | Adapt & Grow Appreciation Event: Minister Josephine Teo [on career mobility](https://www.mom.gov.sg/newsroom/speeches/2019/0727-speech-by-minister-josephine-teo-at-ag-appreciation-event) |
 |18 Jul 2019 | NUS’ Social Service Research Conference: Minister Indranee Rajah [on lifelong meritocracy](https://www.moe.gov.sg/news/speeches/nus-social-service-research-centre-conference-working-with-low-income-families-through-the-life-course--challenges-to-social-services-keynote-speech-by-second-minister-for-education--ms-indranee-rajah) |
-|17 Jul 2019 | Partners for the Environment Forum: Minister Masagos Zulkifli [on climate change ](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-partners-for-the-environment-forum-on-10-july-2018) |
+|17 Jul 2019 | Partners for the Environment Forum: Minister Masagos Zulkifli [on climate change ](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-partners-for-the-environment-forum--17-july-2019) 
 |15 Jun 2019 | REACH-CNA “Building Our Future Singapore Together” Dialogue: DPM Heng Swee Keat [on Singapore Together](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-Building-Our-Future-Singapore-Together-Dialogue) |
 
 
