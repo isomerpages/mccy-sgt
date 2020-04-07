@@ -21,7 +21,8 @@ colors:
 collections:
   resources:
     output: true
-resources_name: media-centre
+  media-center:
+    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
