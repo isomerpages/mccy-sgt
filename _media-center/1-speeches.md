@@ -3,10 +3,6 @@ title: Speeches
 permalink: /media-center/speeches/
 ---
 
-title:   Speeches
-permalink: /media-centre/speeches
----
-
 ### Speeches
 
 | --- | :--- |
