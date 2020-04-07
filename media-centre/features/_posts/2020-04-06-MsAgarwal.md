@@ -6,6 +6,8 @@ permalink: /media-centre/features/MsAgarwal
 ### Ms Agarwal  
 ### Citizens’ Panel on Work Life Harmony 
 
+![Ms Agarwal](/images/features/Social_Kopal.jpg)
+
 “I want to see that what I have to juggle today won’t need to be juggled by my daughter in the future.” 
  
 As a mother, I feel strongly about work-life harmony. I’ve worked for about 19 years and have an 11-yearold daughter. I’ve worked on formal flexible working hours, but I learnt that not many know how they can utilise such arrangements. 
