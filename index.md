@@ -1,35 +1,32 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Singapore Together
+description: The official Singapore Together site
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: Singapore Together
+        subtitle: Together, we will emerge stronger. We will go further. For our Singapore.
+        background: /images/Banner.jpg
+        url: /who-we-are/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: What is Singapore Together
+              description: 
+              url: /who-we-are/
+            - title: Media Centre
+              description: 
+              url: /media-center/features/
+            - title: Resources
+              description:
+              url: /resources/
+            - title: Connect
+              description: 
+              url: /connect/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        title: "#SingaporeTogether"
+        subtitle: Only by working together can we create a Singapore that we all want, regardless of how diverse our ideas and opinions are. After all, it will take this entire nation to build our nation. 
+        description: Singapore Together is about the Government working with Singaporeans, and Singaporeans working with one another, to build our future Singapore. 
+        button: Click here to find out more
+        url: /who-we-are/
 ---

@@ -1,7 +1,9 @@
 ---
-layout: resources-alt
 title: Media Centre
+permalink: /media-centre-1/
 ---
+
+### Speeches
 
 | --- | :--- |
 |Budget 2020 | DPM Heng Swee Keat's [budget speech](https://www.singaporebudget.gov.sg/budget_2020/budget-speech/e-partnering-singaporeans-to-build-singapore-together#pa)|

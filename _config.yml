@@ -1,28 +1,28 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+title: Singapore Together
+url: "https://www.singaporetogether.gov.sg" 
+favicon: /images/SG.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#e61a3a'
+  secondary-color: '#e61a3a'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#e61a3a'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#4372d6'
     - title: media-color-three
-      color: '#00838f'
+      color: '#e61a3a'
     - title: media-color-four
-      color: '#00838f'
+      color: '#e61a3a'
     - title: media-color-five
-      color: '#00838f'
-
+      color: '#e61a3a'
 
 collections:
   resources:
     output: true
-resources_name: media-centre
+  media-center:
+    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

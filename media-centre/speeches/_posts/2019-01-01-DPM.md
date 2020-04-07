@@ -1,7 +1,8 @@
+title:   Speeches
+permalink: /media-centre/speeches
 ---
-layout: resources-alt
-title: Media Centre
----
+
+### Speeches
 
 | --- | :--- |
 |Budget 2020 | DPM Heng Swee Keat's [budget speech](https://www.singaporebudget.gov.sg/budget_2020/budget-speech/e-partnering-singaporeans-to-build-singapore-together#pa)|
@@ -24,3 +25,4 @@ title: Media Centre
 |COS 2020 | (MCI) Minister S Iswaran's [COS  speech](https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2020/3/speech-by-mr-s-iswaran-at-the-mci-committee-of-supply-debate-2020-on-3-mar-2020https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2020/3/speech-by-ms-sim-ann-at-the-mci-committee-of-supply-debate-2020-on-3-mar-2020) |
 |COS 2020 | (MOM) Minister Josephine Teo's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0226-speech-by-minister-for-manpower-mrs-josephine-teo-at-budget-2020-debate) |
 |COS 2020 | (MOM) Senior Parliamentary Secretary Low Yen Ling's [COS  speech](https://www.mom.gov.sg/newsroom/speeches/2020/0303-speech-by-sps-low-yen-ling-at-mom-committee-of-supply-2020) |
+
