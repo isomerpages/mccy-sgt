@@ -35,5 +35,7 @@ permalink: /media-center/speeches/
 |COS 2020 | (MOT) Senior Minister of State Lam Pin Min's [COS  speech](https://www.mot.gov.sg/news-centre/news/Detail/speech-by-senior-minister-of-state-for-transport-and-health-lam-pin-min-at-the-ministry-of-transport-s-committee-of-supply-debate-2020-sustainable-competitive-industries-and-sustainable-environment-with-a-focus-on-aviation-maritime-and-active-mobility/) |
 |COS 2020 | (MOT) Senior Minister of State Janil Puthucheary's [COS  speech](https://www.mot.gov.sg/news-centre/news/Detail/speech-by-dr-janil-puthucheary-senior-minister-of-state-for-transport-and-communications-and-information-at-the-ministry-of-transport-s-committee-of-supply-debate-2020-on-towards-a-future-ready-land-transport-system/) |
 |COS 2020 | (MOT) Senior Parliamentary Secretary Baey Yam Keng's [COS  speech](https://www.mot.gov.sg/news-centre/news/Detail/speech-by-senior-parliamentary-secretary-for-transport-and-culture-community-and-youth-baey-yam-keng-at-the-ministry-of-transport-s-committee-of-supply-debate-2020-on-towards-a-safe-and-inclusive-transport-for-all/) |
-
-
+|COS 2020 | (MCCY) Minister Grace Fu's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/building-a-home-that-provides-opportunities-for-all) |
+|COS 2020 | (MCCY) Senior Minister of State Sim Ann's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/partnering-singaporeans-to-build-a-caring-democracy-of-deeds) |
+|COS 2020 | (MCCY) Senior Parliamentary Secretary Baey Yam Keng's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/nurturing-a-strong-arts-heritage-and-sports-ecosystem) |
+|COS 2020 | (MCCY) Minister Masagos Zulkifli's [COS  speech](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2020/mar/investing-in-our-community-of-success) |
