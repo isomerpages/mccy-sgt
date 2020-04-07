@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Together
-description: The official site for Singapore Together
+description: The official Singapore Together site
 image: /images/isomer-logo.svg
 permalink: /
 sections:
