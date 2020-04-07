@@ -11,7 +11,7 @@ sections:
         background: /images/Banner.jpg
         url: /who-we-are/
         key_highlights:
-            - title: What is Singapore Together
+            - title: Singapore Together
               description: 
               url: /who-we-are/
             - title: Media Centre
