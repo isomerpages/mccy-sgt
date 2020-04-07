@@ -6,7 +6,7 @@ permalink: /media-centre/features/MsAgarwal
 ### Ms Agarwal  
 ### Citizens’ Panel on Work Life Harmony 
 
-![Ms Agarwal](/images/features/Social_Kopal.jpg)
+![Agarwal](/images/features/Social_Kopal.jpg)
 
 “I want to see that what I have to juggle today won’t need to be juggled by my daughter in the future.” 
  
