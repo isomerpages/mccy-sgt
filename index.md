@@ -9,8 +9,8 @@ sections:
         title: Singapore Together
         subtitle: Together, we will emerge stronger. We will go further. For our Singapore.
         background: /images/Banner.jpg
+        button: Stay Home for Singapore Portal!
         url: "https://www.sgunited.gov.sg/stay-engaged/"
-        button: Stay Home for Singapore!
         key_highlights:
             - title: Singapore Together
               description: 
