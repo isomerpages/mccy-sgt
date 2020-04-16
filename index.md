@@ -24,9 +24,6 @@ sections:
             - title: Connect
               description: 
               url: /connect/
-            - title: Dawn Test
-              description: 
-              url: /connect/
     - infobar:
         title: "#SingaporeTogether"
         subtitle: Only by working together can we create a Singapore that we all want, regardless of how diverse our ideas and opinions are. After all, it will take this entire nation to build our nation. 
