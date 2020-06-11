@@ -1,6 +1,6 @@
 ---
-title: Singapore Together
-permalink: /who-we-are/
+title: About us
+permalink: /about-us/
 ---
 
 ### What is Singapore Together
