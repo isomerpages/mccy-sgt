@@ -7,6 +7,8 @@ permalink: /reflect/
 
 COVID-19 has changed the way we live, work, play, and communicate. Singaporeans have come forward to share their experiences and what they learned during this time of reflection. Some of their lives were forever changed by the kindness of strangers. Frontliners who went beyond their duty. Ordinary people who took extraordinary steps to help the community. We have heard their stories, and we want to listen to yours too. 
 
+<iframe id="iframe" src="https://form.gov.sg/5ee0469c6459920011f9f0c3" style="width:100%;height:5000px"></iframe>
+
 ### Collect your experiences 
 
 The **COVID-19** pandemic is a defining period in Singapore’s history. **The National Library Board (NLB) and National Museum of Singapore (NMS)** would like to collect your objects, stories and experiences of living in Singapore during this critical juncture. 
