@@ -23,6 +23,8 @@ collections:
     output: true
   media-center:
     output: true
+  get-help:
+    output: true
     
 google_analytics: UA-162964173-1
 
