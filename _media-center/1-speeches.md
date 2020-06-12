@@ -1,6 +1,6 @@
 ---
 title: Speeches
-permalink: /media-center/speeches/
+permalink: /media-center/speeches
 ---
 
 ### Speeches
