@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Together
-description: Singapore Together is about the government working with Singaporeans, and Singaporeans working with one another, to build our future Singapore. Come join in, and play your part.
+description: Singapore Together is a movement for Singaporeans to partner with the government, and with one another, to own, shape, and act on our shared future together.
 image: /images/isomer-logo.svg
 permalink: /
 sections:

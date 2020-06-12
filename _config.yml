@@ -27,6 +27,7 @@ collections:
     output: true
     
 resources_name: get-help
+shareicon: /images/sg-together-600x600.jpg
 google_analytics: UA-162964173-1
 
 ##################################################################################################################
