@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SG Together: Partnering Singaporeans To Build Our Future Singapore"
+description: Connect with each other and see how you can help, or get help as we recover from COVID-19. Find resources.
 permalink: /get-help/resources/sg-together
 ---
 

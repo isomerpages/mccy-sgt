@@ -1,5 +1,6 @@
 ---
 title: Featured Stories
+description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-center/features
 ---
 

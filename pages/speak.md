@@ -1,5 +1,6 @@
 ---
 title: Speak
+description: Join Singaporeans from all walks of life as they share their views on national issues. Register now to participate.
 permalink: /speak/
 ---
 

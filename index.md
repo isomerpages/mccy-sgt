@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Together
-description: The official Singapore Together site
+description: Singapore Together is about the government working with Singaporeans, and Singaporeans working with one another, to build our future Singapore. Come join in, and play your part.
 image: /images/isomer-logo.svg
 permalink: /
 sections:

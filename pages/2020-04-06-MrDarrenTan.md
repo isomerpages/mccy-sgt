@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Mr Darren Tan (Youth Action Challenge, Environment)
+description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/features/MrDarrenTan
 ---
 ### Mr Darren Tan

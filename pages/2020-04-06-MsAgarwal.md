@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Ms Agarwal (Citizens' Panel on Work Life Harmony)
+description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/features/MsAgarwal
 ---
 ### Ms Agarwal  

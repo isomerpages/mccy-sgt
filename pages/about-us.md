@@ -1,5 +1,6 @@
 ---
 title: About us
+description: We are a movement that aims to partner Singaporeans in creating our shared future together. Come join us.
 permalink: /about-us/
 ---
 

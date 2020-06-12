@@ -1,5 +1,6 @@
 ---
 title: Speeches
+description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-center/speeches
 ---
 

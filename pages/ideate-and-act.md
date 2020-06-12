@@ -1,5 +1,6 @@
 ---
 title: Ideate and Act
+description: Got a great idea for a community project? Join our workshops, interact with our team, and create solutions together. Find out more.
 permalink: /ideate-and-act/
 ---
 
