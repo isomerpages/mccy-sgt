@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SG Together: Partnering Singaporeans To Build Our Future Singapore
+title: "SG Together: Partnering Singaporeans To Build Our Future Singapore"
 permalink: /get-help/resources/sg-together
 ---
 
