@@ -23,7 +23,7 @@ Have an idea for a community initiative? Or want to start one? Share your ideas 
 ### Get funding
 
 Our Singapore Fund is setup by MCCY to support meaningful projects by passionate Singaporeans to meet social and community needs. Funding is capped at 80%, up to $20,000 of project expenditure.  
-[Apply now](https://www.sg/oursingaporefund/getting-started?){:target="_blank"}
+[Apply now](https://www.sg/oursingaporefund/getting-started){:target="_blank"}
 
 ### Help others go digital
 
