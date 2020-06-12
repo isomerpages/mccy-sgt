@@ -14,5 +14,5 @@ When I found out that there were workgroups for me to develop nationwide initiat
  
  — David Lau, Member of the Ministry of the Environment and Water Resources’ #RecycleRight Citizens’ Workgroup 
  
-  Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
+  Learn how we can all work together to make more happen: [www.sg](https://www.sg){:target="_blank"} #SingaporeTogether
 

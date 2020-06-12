@@ -24,4 +24,4 @@ Singapore is first in the world for many things, even though we’re such a smal
 
 –– Mr Darren Tan, Mentor for Youth Action Challenge (Environment) by the MCCY and NYC
 
-Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
+Learn how we can all work together to make more happen: [www.sg](https://www.sg){:target="_blank"} #SingaporeTogether
