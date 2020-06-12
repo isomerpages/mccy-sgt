@@ -11,7 +11,7 @@ sections:
         background: /images/Banner.jpg
         key_highlights:
             - title: Singapore Together
-              description: Working together to build our future.
+              description: Working together to build our future Singapore.
               url: /about-us/
             - title: Reflect
               description: Learn from each other’s experience with COVID-19.
@@ -44,7 +44,7 @@ sections:
     - infopic:
         title: Ideate and Act
         subtitle: Share Ideas
-        description: Do you have a question about the post-COVID-19 measures? Share your thoughts or pose a challenge for us to solve. Together, we can make things happen for the benefit of all.
+        description: Do you have a question about the post-COVID-19 measures? Share your thoughts or pose a challenge that you would like to solve. Together, we can make things happen for the benefit of all.
         button: Let's Go
         url: /ideate-and-act/
         image: /images/homepage-image-3.jpg
