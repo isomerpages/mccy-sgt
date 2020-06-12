@@ -4,19 +4,19 @@ favicon: /images/SG.ico
 
 # Site colors
 colors:
-  primary-color: '#e61a3a'
-  secondary-color: '#e61a3a'
+  primary-color: '#de3c4b'
+  secondary-color: '#38415c'
   media-colors:
     - title: media-color-one
-      color: '#e61a3a'
+      color: '#de3c4b'
     - title: media-color-two
-      color: '#4372d6'
+      color: '#38415c'
     - title: media-color-three
-      color: '#e61a3a'
+      color: '#de3c4b'
     - title: media-color-four
-      color: '#e61a3a'
+      color: '#de3c4b'
     - title: media-color-five
-      color: '#e61a3a'
+      color: '#de3c4b'
 
 collections:
   resources:
@@ -26,6 +26,7 @@ collections:
   get-help:
     output: true
     
+resources_name: get-help
 google_analytics: UA-162964173-1
 
 ##################################################################################################################
