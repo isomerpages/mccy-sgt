@@ -14,7 +14,7 @@ sections:
               description: We can go further together.
               url: /about-us/
             - title: Reflect
-              description: Learn from each other’s experience with COVID-19.
+              description: Learn from each other’s experience with COVID-19. Together, we will emerge stronger.
               url: /reflect/
             - title: Speak
               description: Be actively involved in discussions on national issues.
@@ -28,29 +28,29 @@ sections:
     - infopic:
         title: Reflect!
         subtitle: Encourage Each Other
-        description: Read stories of how Singaporeans found hope, resilience, and kindness amid the challenges faced during COVID-19. Reflect on your own experience and share your learnings to encourage each other.
+        description: Share your stories of finding hope, resilience, and kindness amid the challenges faced during COVID-19. Reflect on your own experience and share your learnings to encourage each other.
         button: Read More
         url: /reflect/
-        image: https://via.placeholder.com/500x300.png
-        alt: Members of the Ministry of ABC in suits
+        image: /images/homepage-image-1.jpg
+        alt: Reflect!
     - infopic:
         title: Speak!
         subtitle: Get Involved
         description: We want to hear your voice. Join Singaporeans from all walks of life to discuss national policies and community issues. Together, we can better understand one another and solve issues together.
         button: Sign Up
         url: /speak/
-        image: https://via.placeholder.com/500x300.png
-        alt: Members of the Ministry of ABC in suits
+        image: /images/homepage-image-2.jpg
+        alt: Speak!
     - infopic:
         title: Ideate and Act!
         subtitle: Share Ideas
         description: Do you have a question about the post-COVID-19 measures? Share your thoughts or pose a challenge for the community to solve. Together, we can make things happen for the benefit of all.
         button: Let's Go
         url: /connect/
-        image: https://via.placeholder.com/500x300.png
-        alt: Members of the Ministry of ABC in suits
+        image: /images/homepage-image-3.jpg
+        alt: Ideate and Act!
     - resources:
         title: Get help
-        subtitle: Life will be different fas we adopt new norms. Here are some ways we can help each other cope with the new normal.
+        subtitle: Life will be different as we adopt new norms. Here are some ways we can help each other cope with the new normal.
         button: FIND MORE HELP
 ---
