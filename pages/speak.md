@@ -15,7 +15,9 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 ### "The next few years will be a disruptive and difficult time for all of us. But despite these immense challenges, I say to you: Do not fear, do not lose heart. Singapore will not falter in its onward march." PM Lee
 
-<iframe width="859" height="483" src="https://www.youtube.com/embed/rAhuD368Ij0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-responsive" style="padding-bottom: 56.228%;">
+  <iframe width="859" height="483" src="https://www.youtube.com/embed/rAhuD368Ij0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### What you need to know
 
