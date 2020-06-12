@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Featured Stories
 permalink: /media-center/features
 ---
 

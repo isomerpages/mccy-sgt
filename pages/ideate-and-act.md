@@ -1,6 +1,6 @@
 ---
 title: Ideate & Act
-permalink: /connect/
+permalink: /ideate-and-act/
 ---
 
 ![Turn conversations into action](/images/ideate-act-header-1.jpg)
