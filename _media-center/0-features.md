@@ -1,6 +1,6 @@
 ---
 title: Featured Stories
-description: Find out more from the experiences of Singaporeans who are working together to create solutions for the community.
+description: Learn from the experiences of Singaporeans who are working together to create solutions for the community. Read more.
 permalink: /media-center/featured-stories
 ---
 
