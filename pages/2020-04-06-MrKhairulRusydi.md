@@ -2,7 +2,7 @@
 layout: post
 title:  Mr Khairul Rusydi (SG Youth Action Plan)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
-permalink: /media-centre/features/MrKhairulRusydi
+permalink: /media-centre/featured-stories/MrKhairulRusydi
 ---
 ### Mr Khairul Rusydi 
 ### SG Youth Action Plan 

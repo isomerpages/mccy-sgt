@@ -2,7 +2,7 @@
 layout: post
 title:  Dr Toh Tai Chong (Citizens’ Panel on Work-Life Harmony)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
-permalink: /media-centre/features/DrTohTaiChong
+permalink: /media-centre/featured-stories/DrTohTaiChong
 ---
 
 ### Dr Toh Tai Chong 

@@ -2,7 +2,7 @@
 layout: post
 title:  Mr Chong Kwek Bin (Enabling Masterplan)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
-permalink: /media-centre/features/MrChongKwekBin
+permalink: /media-centre/featured-stories/MrChongKwekBin
 ---
 ### Mr Chong Kwek Bin 
 ### Enabling Masterplan 

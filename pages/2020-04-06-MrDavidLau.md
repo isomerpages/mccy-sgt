@@ -2,7 +2,7 @@
 layout: post
 title:  Mr David Lau (#Recycle Right Citizens’ Workgroup)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
-permalink: /media-centre/features/MrDavidLau
+permalink: /media-centre/featured-stories/MrDavidLau
 ---
 ### Mr David Lau 
 ### #Recycle Right Citizens’ Workgroup 
