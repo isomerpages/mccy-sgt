@@ -1,11 +1,15 @@
 ---
 title: Speeches
-permalink: /media-center/speeches/
+description: One-stop resource for news, press releases, articles, commentary and speeches.
+permalink: /media-center/speeches
 ---
 
 ### Speeches
 
 | --- | :--- |
+|Budget 2020 | [Resilience Budget](https://www.singaporebudget.gov.sg/budget_2020/resilience-budget/supplementary-budget-statement)|
+|Budget 2020 | [Fortitude Budget](https://www.singaporebudget.gov.sg/budget_2020/fortitude-budget/fortitude-budget-statement)|
+|Budget 2020 | [Fortitude Budget Debate Round-Up Speech](https://www.singaporebudget.gov.sg/budget_2020/fortitude-budget/fortitude-budget-debate-round-up-speech)|
 |Budget 2020 | DPM Heng Swee Keat's [Budget speech](https://www.singaporebudget.gov.sg/budget_2020/budget-speech/e-partnering-singaporeans-to-build-singapore-together#pa)|
 |Budget 2020 | DPM Heng Swee Keat's [Budget Round-up  speech](https://www.singaporebudget.gov.sg/budget_2020/budget-debate-round-up-speech)|
 |Committee of Supply 2020 (COS 2020) | (PMO) Senior Minister Teo Chee Hean's [COS  speech](https://www.pmo.gov.sg/Newsroom/Speech-by-SM-Teo-Chee-Hean-at-the-PMO-Committee-of-Supply-2020)|

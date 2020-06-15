@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Dr Neo Mei Lin (Youth Action Challenge, Environment)
-permalink: /media-centre/features/DrNeoMeiLin
+description: One-stop resource for news, press releases, articles, commentary and speeches.
+permalink: /media-centre/featured-stories/DrNeoMeiLin 
 ---
 ### Dr Neo Mei Lin 
 ### Youth Action Challenge (Environment) 
@@ -20,4 +21,4 @@ We’ve learnt that holistic and inclusive actions work well. Just like in the c
  
 –– Dr Neo Mei Lin, Mentor for Youth Action Challenge (Environment) by MCCY and the NYC. 
  
- Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
+ Learn how we can all work together to make more happen: [www.sg](https://www.sg){:target="_blank"} #SingaporeTogether

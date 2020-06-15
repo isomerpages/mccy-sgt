@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Mr David Lau (#Recycle Right Citizens’ Workgroup)
-permalink: /media-centre/features/MrDavidLau
+description: One-stop resource for news, press releases, articles, commentary and speeches.
+permalink: /media-centre/featured-stories/MrDavidLau
 ---
 ### Mr David Lau 
 ### #Recycle Right Citizens’ Workgroup 
@@ -14,5 +15,5 @@ When I found out that there were workgroups for me to develop nationwide initiat
  
  — David Lau, Member of the Ministry of the Environment and Water Resources’ #RecycleRight Citizens’ Workgroup 
  
-  Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
+  Learn how we can all work together to make more happen: [www.sg](https://www.sg){:target="_blank"} #SingaporeTogether
 

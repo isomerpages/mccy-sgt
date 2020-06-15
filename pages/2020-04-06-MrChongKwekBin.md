@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Mr Chong Kwek Bin (Enabling Masterplan)
-permalink: /media-centre/features/MrChongKwekBin
+description: One-stop resource for news, press releases, articles, commentary and speeches.
+permalink: /media-centre/featured-stories/MrChongKwekBin
 ---
 ### Mr Chong Kwek Bin 
 ### Enabling Masterplan 
@@ -19,4 +20,4 @@ I’m encouraged by the greater commitment to inclusivity these days, and there�
 This people-government partnership is needed if we want Singapore to embrace inclusivity in all areas of our lives. And it’s happening right now. Our mindset is changing to one where everyone is starting to understand that PwDs can integrate into mainstream society. Now, more than ever, we need more people to share their ideas on how we can accomplish this, and be prepared to make it happen. Everyone’s opinions count. I didn’t expect mine to, but I’m excited to witness our collective ideas materialise and improve the lives of everyone.  
  — Mr Chong Kwek Bin, Member of the Enabling Masterplan Steering Committee and Workgroups  
 
- Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
+ Learn how we can all work together to make more happen: [www.sg](https://www.sg){:target="_blank"} #SingaporeTogether

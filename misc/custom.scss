@@ -172,6 +172,11 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+.bp-section.bg-primary, 
+.bp-section.bg-secondary {
+  background-color: $primary !important;
+}
+
 .bp-section.bp-section-pagetitle {
   background-color: $primary !important;
 }
@@ -216,39 +221,39 @@ $desktop: 960px + (2 * $gap) !default;
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $secondary;
+            border-bottom:2px solid $primary; //secondary;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
+    border-bottom: 1px solid $primary; //secondary;
+    border-left: 1px solid $primary; //secondary;
   }
 
   .navbar-item{
     .sub-link.is-active{
-      color:$secondary;
+      color:$primary; //secondary;
     }
 
     .selector{
       &.active{
-        background-color:$secondary;
+        background-color:$primary; //secondary;
       }
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $secondary;
+        border-bottom:1px solid $primary; //secondary;
       }
     }
   }
 .navbar-item:hover {
   a {
-    color:$secondary;
+    color:$primary; //secondary;
   }
   .selector {
-      background-color:$secondary;
+      background-color:$primary; //secondary;
     }
   }
 }
@@ -270,6 +275,27 @@ $desktop: 960px + (2 * $gap) !default;
 	blockquote > ul {
 		color: $secondary;
 	}
+  a {
+    color: $primary;
+    &:hover {
+      color: $primary;
+    }
+  }
+  .img-responsive {
+    max-width: 100%;
+    width: auto;
+    margin: 0;
+  }
+  .video-responsive {
+    position: relative;
+    padding-bottom: percentage(9/16);
+
+    iframe {
+      position: absolute;
+      top: 0; right: 0; bottom: 0; left: 0;
+      width: 100%; height: 100%;
+    }
+  }
 }
 
 // Media category buttons - not used now but will be used in the future

@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Ms Agarwal (Citizens' Panel on Work Life Harmony)
-permalink: /media-centre/features/MsAgarwal
+description: One-stop resource for news, press releases, articles, commentary and speeches.
+permalink: /media-centre/featured-stories/MsAgarwal
 ---
 ### Ms Agarwal  
 ### Citizens’ Panel on Work Life Harmony 
@@ -34,4 +35,4 @@ It’s really about a mindset and cultural change. Individuals like us have to d
 
 – Ms Agarwal, who was a member of the Work-Life Harmony Citizens’ Panel (NPTD, MOM and MSF).
 
-Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
+Learn how we can all work together to make more happen: [www.sg](https://www.sg){:target="_blank"} #SingaporeTogether

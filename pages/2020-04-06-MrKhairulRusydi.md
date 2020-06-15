@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Mr Khairul Rusydi (SG Youth Action Plan)
-permalink: /media-centre/features/MrKhairulRusydi
+description: One-stop resource for news, press releases, articles, commentary and speeches.
+permalink: /media-centre/featured-stories/MrKhairulRusydi
 ---
 ### Mr Khairul Rusydi 
 ### SG Youth Action Plan 
@@ -24,6 +25,6 @@ The next time you disagree with something, bring your opinion and an open mind. 
 
 — Khairul Rusydi, SG Youth Action Plan Panel Member. SG YAP is an initiative by the MCCY and NYC. 
  
- Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
+ Learn how we can all work together to make more happen: [www.sg](https://www.sg){:target="_blank"} #SingaporeTogether
 
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Dr Toh Tai Chong (Citizens’ Panel on Work-Life Harmony)
-permalink: /media-centre/features/DrTohTaiChong
+description: One-stop resource for news, press releases, articles, commentary and speeches.
+permalink: /media-centre/featured-stories/DrTohTaiChong
 ---
 
 ### Dr Toh Tai Chong 
@@ -32,5 +33,5 @@ All in all, this has been an empowering experience.
 
 — Dr Toh Tai Chong, who was a member of the WorkLife Harmony Citizens’ Panel (NPTD,  MOM and MSF) 
  
- Learn how we can all work together to make more happen: [www.sg](https://www.sg) #SingaporeTogether
+ Learn how we can all work together to make more happen: [www.sg](https://www.sg){:target="_blank"} #SingaporeTogether
   			
