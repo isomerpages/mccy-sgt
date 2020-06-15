@@ -11,13 +11,7 @@ Your ideas and opinions, regardless of how diverse, are essential to our nationâ
 
 ![Trending conversations](/images/speak-header-2.jpg)
 
-To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can tribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
-
-### "The next few years will be a disruptive and difficult time for all of us. But despite these immense challenges, I say to you: Do not fear, do not lose heart. Singapore will not falter in its onward march." PM Lee
-
-<div class="video-responsive" style="padding-bottom: 56.228%;">
-  <iframe width="859" height="483" src="https://www.youtube.com/embed/rAhuD368Ij0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
 
 ### What you need to know
 
@@ -56,7 +50,7 @@ Share your views on national policies on REACH Chinese WhatsApp Chat Group. Now 
 
 ![Give your feedback](/images/speak-header-5.jpg)
 
-**Singapore Food Agency** is seeking feedback from the food industry (local food manufacturers and importers, as well as interested parties) on the draft Food (Amendment No. X) Regulations 2020, which is targeted to come into effect in the second half of 2020.   
-[Learn more](https://www.reach.gov.sg/participate/public-consultation/singapore-food-agency/consultation-on-draft-food-amendment-no-x-regulations-2020){:target="_blank"}  
-[Submit your feedback](mailto:leong_ai_ling@sfa.gov.sg;cheng_chee_seng@sfa.gov.sg){:target="_blank"}  
+The National Library Board is conducting a public consultation for our Libraries and Archives Plan 2021-2025. Your views will help shape our plans, allow us to serve your needs better, and enable us to create the libraries and archives of tomorrow. Share your views by 11 July 2020.  
+[Submit](https://form.gov.sg/#!/5ed4a28c3468470012daa661){:target="_blank"}  
+[Learn more](https://www.reach.gov.sg/participate/public-consultation/national-library-board/public-consultation-on-the-libraries-and-archives-plan-2021-2025){:target="_blank"}  
 [View all public consultations](https://www.reach.gov.sg/participate/public-consultation){:target="_blank"}
