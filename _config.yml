@@ -21,7 +21,7 @@ colors:
 collections:
   resources:
     output: true
-  media-center:
+  media-centre:
     output: true
   get-help:
     output: true
