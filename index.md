@@ -20,7 +20,7 @@ sections:
               url: /speak/
             - title: Ideate and Act
               description: Contribute and participate in more community initiatives.
-              url: /connect/
+              url: /ideate-and-act/
     - infobar:
         title: "Let's learn from each other to emerge stronger!"
         description: "We have now moved to the next phase of the COVID-19 crisis: recovery. It’s time to turn our attention to the ways we can recover from the disruption to our lives and prepare for a new normal."
@@ -50,6 +50,6 @@ sections:
         alt: Ideate and Act
     - resources:
         title: Get help
-        subtitle: Life will be different as we adopt new norms. Here are some ways we can help each other cope with the new normal.
+        subtitle: Life will be different as we adopt new norms. Here are some ways we can help each other cope better.
         button: FIND MORE HELP
 ---
