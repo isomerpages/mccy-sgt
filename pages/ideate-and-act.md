@@ -42,3 +42,8 @@ To be a truly inclusive society, we need to integrate persons with disabilities 
 
 We want to build a more inclusive society where persons with disabilities are empowered and enabled to realise their true potential. Join us on this journey.  
 [Read more](https://www.sgenable.sg/Pages/Home.aspx){:target="_blank"}
+
+### Volunteer for various causes
+
+There are many ways you can do good to make a difference to others. Discover opportunities that are most dear to you to kickstart your volunteering journey.  
+[Read more](https://volunteer.sg){:target="_blank"}

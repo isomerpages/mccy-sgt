@@ -9,6 +9,12 @@ permalink: /speak/
 Your ideas and opinions, regardless of how diverse, are essential to our nation’s growth. Join Singaporeans from all walks of life as we share our views on national issues, participate in polls, and give timely feedback. With better understanding of each other's needs, we can create better solutions together.  
 [Join us](https://www.reach.gov.sg/){:target="_blank"}
 
+
+### Emerging Stronger Conversations
+
+The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect. Join us for a series of conversations from July 2020 to share your hopes for a resilient, post-COVID Singapore society, and how the Government can work with citizens and we can work with one another to create a better Singapore. These conversations are open to all Singaporeans.  
+[Register early for the Emerging Stronger Conversations](https://go.gov.sg/ESconversations/){:target="_blank"}
+
 ![Trending conversations](/images/speak-header-2.jpg)
 
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
