@@ -15,6 +15,8 @@ Your ideas and opinions, regardless of how diverse, are essential to our nation�
 The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect. Join us for a series of conversations from July 2020 to share your hopes for a resilient, post-COVID Singapore society, and how the Government can work with citizens and we can work with one another to create a better Singapore. These conversations are open to all Singaporeans.  
 [Register early for the Emerging Stronger Conversations](https://go.gov.sg/ESconversations/){:target="_blank"}
 
+&nbsp;
+
 ![Trending conversations](/images/speak-header-2.jpg)
 
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
@@ -41,6 +43,13 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 **Safe Re-Opening of More Customer Services in the Financial Sector.**  
 [Read more](https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector){:target="_blank"}
+
+![What we can do together](/images/speak-header-3.jpg)
+
+### Start a meaningful conversation
+
+What kind of Singapore do we want to have post-COVID? Reflect on the changes you and your family are experiencing. Share your thoughts to help each other adapt to new norms. Use the thought-starters in this digital deck to get started. Let's talk.  
+[Coming soon!]
 
 ![Chat with us](/images/speak-header-4.jpg)
 
