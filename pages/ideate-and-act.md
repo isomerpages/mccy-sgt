@@ -9,6 +9,8 @@ permalink: /ideate-and-act/
 Do you have ideas for post-COVID-19 community activities? Are you eager to contribute to discussions on Singapore’s growth? We welcome you to join our virtual workshops, interact with our team, and create solutions that can positively impact lives. Together, we can expand the limits of our imagination.  
 [Learn more](https://www.ideas.gov.sg/home){:target="_blank"}
 
+&nbsp;
+
 ![What we can do together](/images/ideate-act-header-2.jpg)
 
 ### Share your thoughts
