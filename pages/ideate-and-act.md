@@ -33,7 +33,7 @@ Our Singapore Fund is setup by MCCY to support meaningful projects by passionate
 All Singaporeans need to have access to technology and know-how to use it to help our daily lives. No one will be left behind. Learn how to be digitally ready or help someone go digital.  
 [Learn more](https://www.mci.gov.sg/en/portfolios/digital-readiness/get-digitally-ready){:target="_blank"} about being digitally ready.  
 [Get involved](https://www.mci.gov.sg/en/portfolios/digital-readiness/get-involved){:target="_blank"} and help each other.  
-[Read more](https://www.gov.sg/article/how-to-help-the-seniors-in-your-family-go-digital){:target="_blank"} on how to help Seniors go digital.
+[Read more](https://www.gov.sg/article/how-to-help-the-seniors-in-your-family-go-digital){:target="_blank"} on how to help seniors go digital.
 
 ### Be an inclusive employer
 
