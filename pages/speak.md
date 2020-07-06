@@ -8,8 +8,8 @@ permalink: /speak/
 
 ### Emerging Stronger Conversations
 
-The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect. Join us for a series of conversations from July 2020 to share your hopes for a resilient, post-COVID Singapore society, and how the Government can work with citizens and we can work with one another to create a better Singapore. These conversations are open to all Singaporeans.  
-[Register early for the Emerging Stronger Conversations](https://go.gov.sg/ESconversations/){:target="_blank"}
+The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience. Join us for a series of conversations to share your hopes for a resilient, post-COVID Singapore society, and how we can work together to create a better future. These conversations are open to all Singapore Citizens and PRs.  
+[Register for the Emerging Stronger Conversations](https://go.gov.sg/ESconversations/){:target="_blank"}
 
 &nbsp;
 
@@ -67,7 +67,7 @@ Share your views on national policies on REACH Chinese WhatsApp Chat Group. Now 
 
 ![Give your feedback](/images/speak-header-5.jpg)
 
-The National Library Board is conducting a public consultation for our Libraries and Archives Plan 2021-2025. Your views will help shape our plans, allow us to serve your needs better, and enable us to create the libraries and archives of tomorrow. Share your views by 11 July 2020.  
+The National Library Board is conducting a public consultation for our Libraries and Archives Plan 2021-2025. Your views will help shape our plans, allow us to serve your needs better, and enable us to create the libraries and archives of tomorrow. Share your views by 31 July 2020.  
 [Submit](https://form.gov.sg/#!/5ed4a28c3468470012daa661){:target="_blank"}  
 [Learn more](https://www.reach.gov.sg/participate/public-consultation/national-library-board/public-consultation-on-the-libraries-and-archives-plan-2021-2025){:target="_blank"}  
 [View all public consultations](https://www.reach.gov.sg/participate/public-consultation){:target="_blank"}
