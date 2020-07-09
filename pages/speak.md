@@ -71,3 +71,23 @@ The National Library Board is conducting a public consultation for our Libraries
 [Submit](https://form.gov.sg/#!/5ed4a28c3468470012daa661){:target="_blank"}  
 [Learn more](https://www.reach.gov.sg/participate/public-consultation/national-library-board/public-consultation-on-the-libraries-and-archives-plan-2021-2025){:target="_blank"}  
 [View all public consultations](https://www.reach.gov.sg/participate/public-consultation){:target="_blank"}
+
+## Pillars
+
+### Learning New Tech Has No Age Barrier
+
+**Making Connections**  
+You are never too old to acquire a new skill — that’s Madam Varalackshmi Hariharan’s philosophy in life. At 63, this retired educator learnt new ways to stay connected with her loved ones by going digital. Get inspired by her journey to becoming tech-savvy and start your own today!  
+Source: [gov.sg | Talk Of The Town](https://www.gov.sg/article/learning-new-tech-has-no-age-barrier){:target="_blank"}
+
+### Can You Really #DoWhatYouLove? We Speak to 2 Singaporeans Who Made A Mid-Career Switch
+
+**Finding Support: Jobs**  
+Trying out a new career path can be intimidating, but those who have, like these two Singaporeans, found fulfilment and success. Learn how they overcame challenges to make the switch and find out how you can too!  
+Source: [MoneySmart](https://blog.moneysmart.sg/career/professional-conversion-programme/){:target="_blank"}
+
+### 6 Ways to Develop Resilience for Better Mental Health
+
+**Finding Support: Well-being**  
+Everyone experiences varying levels of stress. Whether you have a disagreement with your partner or are feeling overworked, how do you press on and bounce back from life’s challenges? Discover how you can develop mental health resilience with HealthHub’s tips!  
+Source: [HealthHub](https://www.healthhub.sg/live-healthy/575/mentalhealth_resilience){:target="_blank"}

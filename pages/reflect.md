@@ -10,4 +10,7 @@ COVID-19 has changed the way we live, work, play, and communicate. Some of our l
 
 We welcome you to share your experiences and what you learned during this time of reflection. Share your stories with others, to inspire and encourage each other in these trying times.
 
+[Story 1](/reflect/story1){:target="_blank"}  
+[Story 2](/reflect/story2){:target="_blank"}  
+
 <iframe id="iframe" src="https://form.gov.sg/5ee0469c6459920011f9f0c3" style="width:100%;height:4150px"></iframe>
