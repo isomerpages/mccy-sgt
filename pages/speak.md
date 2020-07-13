@@ -17,28 +17,20 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
 
-### What you need to know
+<div class="heading-pillar">Making Connections</div> 
+#### Learning New Tech Has No Age Barrier 
+You are never too old to acquire a new skill — that’s Madam Varalackshmi Hariharan’s philosophy in life. At 63, this retired educator learnt new ways to stay connected with her loved ones by going digital. Get inspired by her journey to becoming tech-savvy and start your own today!  
+Source: [gov.sg | Talk Of The Town](https://www.gov.sg/article/learning-new-tech-has-no-age-barrier){:target="_blank"}
 
-**Updates on the COVID-19 situation in Singapore.**  
-[Read more](https://www.gov.sg/features/covid-19){:target="_blank"}
+<div class="heading-pillar">Finding Support: Jobs</div>  
+#### Can You Really #DoWhatYouLove? We Speak to 2 Singaporeans Who Made A Mid-Career Switch
+Trying out a new career path can be intimidating, but those who have, like these two Singaporeans, found fulfilment and success. Learn how they overcame challenges to make the switch and find out how you can too!  
+Source: [MoneySmart](https://blog.moneysmart.sg/career/professional-conversion-programme/){:target="_blank"}
 
-**How the Fortitude Budget 2020 will support Singapore's workers.**  
-[Read more](https://www.gov.sg/article/how-the-fortitude-budget-2020-will-support-singapores-workers){:target="_blank"}
-
-**How graduating youths feel about landing jobs amidst COVID-19.**  
-[Read more](https://www.youth.sg/Our-Voice/Opinions/2020/6/How-graduating-youths-feel-about-landing-jobs-amidst-COVID-19){:target="_blank"}
-
-**Safe Re-opening: How Singapore will resume activities after the circuit breaker.**  
-[Read more](https://www.gov.sg/article/safe-re-opening-how-singapore-will-resume-activities-after-the-circuit-breaker){:target="_blank"}
-
-**Advisory to employers on Safe Living measures for foreign worker dormitories.**  
-[Read more](https://www.mom.gov.sg/covid-19/advisory-to-employers-on-safe-living-for-foreign-worker-dormitories){:target="_blank"}
-
-**Tips for Staying Cyber-Safe While Telecommuting.**  
-[Read more](https://www.csa.gov.sg/singcert/advisories/ad-2020-001){:target="_blank"}
-
-**Safe Re-Opening of More Customer Services in the Financial Sector.**  
-[Read more](https://www.mas.gov.sg/news/media-releases/2020/safe-re-opening-of-more-customer-services-in-the-financial-sector){:target="_blank"}
+<div class="heading-pillar">Finding Support: Well-being</div>  
+#### 6 Ways to Develop Resilience for Better Mental Health
+Everyone experiences varying levels of stress. Whether you have a disagreement with your partner or are feeling overworked, how do you press on and bounce back from life’s challenges? Discover how you can develop mental health resilience with HealthHub’s tips!  
+Source: [HealthHub](https://www.healthhub.sg/live-healthy/575/mentalhealth_resilience){:target="_blank"}
 
 &nbsp;
 
@@ -71,3 +63,6 @@ The National Library Board is conducting a public consultation for our Libraries
 [Submit](https://form.gov.sg/#!/5ed4a28c3468470012daa661){:target="_blank"}  
 [Learn more](https://www.reach.gov.sg/participate/public-consultation/national-library-board/public-consultation-on-the-libraries-and-archives-plan-2021-2025){:target="_blank"}  
 [View all public consultations](https://www.reach.gov.sg/participate/public-consultation){:target="_blank"}
+
+'Stay Strong Singapore' campaign is a ground-up initiative by the Happiness Initiative in partnership with MCCY to offer encouragement beyond the circuit breaker. You can also check out the Telegram sticker pack!  
+[Discover more](https://happinessinitiative.sg/stay-strong-sg){:target="_blank"}

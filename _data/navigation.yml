@@ -11,6 +11,7 @@ links:
     url: /about-us/
   - title: Reflect
     url: /reflect/
+    collection: reflect
   - title: Speak
     url: /speak/
   - title: Ideate and Act
