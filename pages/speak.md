@@ -64,5 +64,5 @@ The National Library Board is conducting a public consultation for our Libraries
 [Learn more](https://www.reach.gov.sg/participate/public-consultation/national-library-board/public-consultation-on-the-libraries-and-archives-plan-2021-2025){:target="_blank"}  
 [View all public consultations](https://www.reach.gov.sg/participate/public-consultation){:target="_blank"}
 
-Stay Strong Singapore' campaign is a ground-up initiative by the Happiness Initiative in partnership with MCCY to offer encouragement beyond the circuit breaker. You can also check out the Telegram sticker pack!  
+'Stay Strong Singapore' campaign is a ground-up initiative by the Happiness Initiative in partnership with MCCY to offer encouragement beyond the circuit breaker. You can also check out the Telegram sticker pack!  
 [Discover more](https://happinessinitiative.sg/stay-strong-sg){:target="_blank"}
