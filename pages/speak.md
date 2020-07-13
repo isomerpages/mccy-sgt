@@ -17,8 +17,6 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
 
-### What you need to know
-
 <div class="heading-pillar">Making Connections</div> 
 #### Learning New Tech Has No Age Barrier 
 You are never too old to acquire a new skill — that’s Madam Varalackshmi Hariharan’s philosophy in life. At 63, this retired educator learnt new ways to stay connected with her loved ones by going digital. Get inspired by her journey to becoming tech-savvy and start your own today!  
