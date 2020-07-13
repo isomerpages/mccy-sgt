@@ -371,3 +371,12 @@ a.link-icon-block[href$=".pdf"] {
     font-size: 1.5rem;
   }
 }
+
+.heading-pillar {
+ font-weight: bold;
+ margin-top: 3.75rem;
+}
+ 
+.heading-pillar + h4 {
+ margin-top: 0;
+}

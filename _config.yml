@@ -25,6 +25,8 @@ collections:
     output: true
   get-help:
     output: true
+  reflect:
+    output: true
     
 resources_name: get-help
 shareicon: /images/sg-together-600x600.jpg
