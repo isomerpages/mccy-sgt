@@ -28,3 +28,11 @@ permalink: /media-centre/featured-stories
 ### #RecycleRight Citizens' Workgroup 
 
 "This is about us speaking up for a greener environment, but with our actions too". Read more about Mr David Lau's experience [here](/media-centre/featured-stories/MrDavidLau).
+
+### SG Strong Box
+
+"Everyone is talented in his or her own way." Read more about Ms Faith Lum’s initiative on staying engaged [here](/media-centre/featured-stories/MsFaithLum).
+
+### Masks for all SG
+
+"Wear it because you care." Read more about Ms Von Leong’s initiative on staying safe [here](/media-centre/featured-stories/MsVonLeong).
