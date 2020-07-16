@@ -16,4 +16,4 @@ With a simple message for Singaporeans to "Wear it because you care”, the move
 
 It hopes to empower more people to incorporate mask wearing into their everyday hygiene practices – even after the pandemic period – as long as one feels unwell.
 
-Have an idea to empower others? Get your project supported by Our Singapore Fund today – a movement dedicated to new community-led initiatives for a stronger, more united Singapore. Visit [https://www.sg/oursingaporefund](https://www.sg/oursingaporefund) for application details. #SingaporeTogether
+Have an idea to empower others? Get your project supported by Our Singapore Fund today – a movement dedicated to new community-led initiatives for a stronger, more united Singapore. Visit [https://www.sg/oursingaporefund](https://www.sg/oursingaporefund){:target="_blank"} for application details. #SingaporeTogether

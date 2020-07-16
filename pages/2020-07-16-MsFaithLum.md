@@ -16,4 +16,4 @@ Working with the support from Our Singapore Fund, Faith (founder of social enter
  
 Covering wellness and enrichment topics such as eating well, botany, humanities and personal hygiene, each kit comes with a curriculum and clear visual guide. Zoom training sessions are also available for caregivers and volunteers – as well as the beneficiaries to provide more social interactions – along with live crafting sessions. 
  
-Have an idea to empower others? Get your project supported by Our Singapore Fund today – a movement dedicated to new community-led initiatives for a stronger, more united Singapore. Apply for Our Singapore Fund at [https://www.sg/oursingaporefund/getting-started](https://www.sg/oursingaporefund/getting-started) today. #SingaporeTogether
+Have an idea to empower others? Get your project supported by Our Singapore Fund today – a movement dedicated to new community-led initiatives for a stronger, more united Singapore. Apply for Our Singapore Fund at [https://www.sg/oursingaporefund/getting-started](https://www.sg/oursingaporefund/getting-started){:target="_blank"} today. #SingaporeTogether
