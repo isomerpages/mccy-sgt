@@ -6,7 +6,7 @@ permalink: /reflect/stories
 
 These are stories from Singaporeans who sent us their COVID-19 reflections. Share your stories [here](/reflect).
 
-*contributed by Wan Yi, 32, Teacher*
+*Contributed by Wan Yi, 32, Teacher:*
 
 During home-based learning, I had to teach from my own bedroom... as much as I felt vulnerable, my students must have felt the same way. This is a good experience for empathy-building and growing a shared experience.   
    
@@ -16,7 +16,7 @@ I hope that no child should feel ashamed of his/her room or house.
 
 &nbsp;
 
-*contributed by Michelle, 18, Student*
+*Contributed by Michelle, 18, Student:*
 
 I realised that in the midst of the trying times, many of us do try to extend a helping hand, while looking out for each other. It makes me learn the impact one can make, even by a small simple gesture of checking up on others, of standing in solidarity with those in need by donating, all these can make a huge impact on how strong we can stand as a community.   
      
