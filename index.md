@@ -7,6 +7,8 @@ sections:
     - hero:
         title: Singapore Together
         subtitle: Together, we will emerge stronger. 
+        button: Sign up for emerging stronger conversations
+        url: https://form.gov.sg/#!/5ef88706ef922700113f577a
         background: /images/Banner.jpg
         key_highlights:
             - title: Singapore Together
