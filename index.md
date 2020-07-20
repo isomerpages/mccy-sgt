@@ -24,6 +24,10 @@ sections:
     - infobar:
         title: "Let's learn from each other to emerge stronger!"
         description: "We have now moved to the next phase of the COVID-19 crisis: recovery. It’s time to turn our attention to the ways we can recover from the disruption to our lives and prepare for a new normal."
+    - infobar:
+        description: "Join us for the Emerging Stronger Conversations to share your hopes for a resilient, post-COVID Singapore society."
+        button: Register here
+        url: https://form.gov.sg/#!/5ef88706ef922700113f577a
     - infopic:
         title: Reflect
         subtitle: Encourage Each Other
