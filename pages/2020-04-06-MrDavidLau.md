@@ -6,7 +6,9 @@ permalink: /media-centre/featured-stories/MrDavidLau
 ---
 ### Mr David Lau 
 ### #Recycle Right Citizens’ Workgroup 
- 
+
+![David](/images/features/Social_David.jpg)
+
 “The government is not made of superheroes, but I’m not one myself either.” That said, it doesn’t mean you can’t dress up as one! I did — to get people to care more for the environment, for Singapore. But that’s not how it began. About a year ago, I noticed trash building up along the footpaths, carparks, and landing areas of my estate, Jalan Bukit Merah. Instead of waiting for the cleaners, I decided to pick up the trash. After all, change starts with the small things. This led me to pick up trash when I went for walks and jogs. After some time, I started to keep tongs, clippers and trash bags in my car so I could pick up trash wherever I was. 
  
 Soon, I was doing this with my company’s staff when we were in HDB estates for work. I even got my children involved — it’s important that I not only tell them to take care of our Earth, but also show them how. No action is insignificant. Every action can contribute to a larger cause. 

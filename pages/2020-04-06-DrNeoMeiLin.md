@@ -7,6 +7,8 @@ permalink: /media-centre/featured-stories/DrNeoMeiLin
 ### Dr Neo Mei Lin 
 ### Youth Action Challenge (Environment) 
  
+![Neo Mei Lin](/images/features/Social_Neo.jpg)
+
 “Can the government do more to save our environment?” 
  
 Instead of waiting for government-led initiatives, I decided to take action and do something. In the past two decades, many wild places in Singapore have lost their natural beauty due to urbanisation. I was worried: how many of our plants and animals will still be around for my children? Once we lose the opportunity to connect with nature, we lose the chance to educate our children on choosing a sustainable future. 

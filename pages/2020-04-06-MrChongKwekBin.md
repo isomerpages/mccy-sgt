@@ -7,6 +7,8 @@ permalink: /media-centre/featured-stories/MrChongKwekBin
 ### Mr Chong Kwek Bin 
 ### Enabling Masterplan 
  
+![Chong Kwek Bin](/images/features/Social_Chong.jpg)
+
 “Being partially blind helps me see the challenges and the potential of people like myself.” 
   
 The visually impaired have tools to help us navigate everyday life and do things most people take for granted. Something as simple as crossing the road or using a smartphone is a challenge. As an IT Trainer in the Singapore Association of the Visually 
