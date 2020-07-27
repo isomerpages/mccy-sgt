@@ -17,49 +17,30 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
 
-<div class="heading-pillar">Building Our Community</div> 
-#### Siblings sew and donate over 300 masks to the needy 
-When student Beatrice Wong read about a shortage of disposable masks when the COVID-19 pandemic hit, she put the sewing skills she picked up from her grandmother to good use and made reusable cloth masks from scratch. Discover how you can give back to the community in your own way!  
-Source: [gov.sg](https://www.gov.sg/article/siblings-sew-and-donate-over-300-masks-to-the-needy){:target="_blank"}
+<div class="heading-pillar">Finding Support: Well-being</div> 
+#### Braving the storm together: Supporting our children emotionally through COVID-19 
+Fear. Anxiety. Loneliness. Children are affected by the COVID-19 pandemic in many ways. As parents, how can you help your child understand and grow from their emotions during this crisis? Here are some ways you can help your young ones navigate their feelings while trying to maintain a sense of normalcy.  
+Source: [Singapore Children's Society](https://www.childrensociety.org.sg/resources/ck/files/covid19_parentips.pdf){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs</div> 
+#### Versatility to overcome life’s obstacles 
+At 25, Muhammad Nurhisham is the sole breadwinner of his family of four. When he lost his job due to the COVID-19 pandemic, he had to find a way to support them. Learn about how he was able to overcome this obstacle through the SGUnited Jobs initiative.  
+Source: [gov.sg](https://www.gov.sg/article/versatility-to-overcome-lifes-obstacles){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div> 
-#### NTU student volunteers to help hawkers move online 
-From basil pork rice to fish and chips, feast your eyes on Sherry Yap’s delicious images of hawker fare! This digital film student snapped photos and made videos for three hawkers to boost their social media presence and get people talking about their food. Here’s her story of how and why she did it.  
-Source: [Soapbox.sg](http://soapbox.sg/2020/06/29/ntu-student-help-hawkers/){:target="_blank"}
+#### Commentary: Covid-19 has shown that we can be gracious. How do we make it last? 
+From starting ground-up movements to making donations, Singaporeans are fighting the COVID-19 pandemic with kindness. Get tips on how to make positive changes and how we can ensure that our society remains united and compassionate in this new normal.  
+Source: [CNA](https://www.channelnewsasia.com/news/commentary/covid-19-singapore-gracious-society-kindess-ground-up-12808722?cid=h3_referral_inarticlelinks_24082018_cna){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div> 
-#### Learning New Tech Has No Age Barrier 
-You are never too old to acquire a new skill — that’s Madam Varalackshmi Hariharan’s philosophy in life. At 63, this retired educator learnt new ways to stay connected with her loved ones by going digital. Get inspired by her journey to becoming tech-savvy and start your own today!  
-Source: [gov.sg | Talk Of The Town](https://www.gov.sg/article/learning-new-tech-has-no-age-barrier){:target="_blank"}
+<div class="heading-pillar">Building Our Community</div>
+#### S’pore man sets aside 3 days a week to be a swabber on COVID-19 frontline, as work slowed since CB period 
+As a swabber, Stanley Fong gets a first-hand look at how Singaporeans have stepped up to fight the virus together. The business owner is among many who responded to the call for volunteers by the Singapore Healthcare Corps. Want to chip in too? Find out how you can reimagine our future by taking part in Singapore Together’s “Emerging Stronger Conversations”.  
+Source: [Mothership](https://mothership.sg/2020/07/volunteer-swabber-covid-19-singapore-together/){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div>
-#### New skills for the new normal: How to upskill for now and beyond 
-The COVID-19 pandemic has shown us that while companies need to be agile and transform quickly, workers too need to adapt to cope with new ways of working. Check out how you can upskill and be ready to take on new challenges.  
-Source: [MyCareersFuture](https://content.mycareersfuture.sg/new-skills-new-normal-upskill-now-beyond/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs</div>  
-#### Can You Really #DoWhatYouLove? We Speak to 2 Singaporeans Who Made A Mid-Career Switch
-Trying out a new career path can be intimidating, but those who have, like these two Singaporeans, found fulfilment and success. Learn how they overcame challenges to make the switch and find out how you can too!  
-Source: [MoneySmart](https://blog.moneysmart.sg/career/professional-conversion-programme/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-#### Juggling WFH while managing the kids? Here’s help. 
-Working from home presents a new set of challenges for parents. Besides managing their workload, they might have to teach, manage or entertain their children too. Here are some tips for parents to find balance between getting work done and keeping your home under control.  
-Source: [gov.sg](https://www.gov.sg/article/juggling-wfh-while-managing-the-kids-heres-help){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>  
-#### 6 Ways to Develop Resilience for Better Mental Health
-Everyone experiences varying levels of stress. Whether you have a disagreement with your partner or are feeling overworked, how do you press on and bounce back from life’s challenges? Discover how you can develop mental health resilience with HealthHub’s tips!  
-Source: [HealthHub](https://www.healthhub.sg/live-healthy/575/mentalhealth_resilience){:target="_blank"}
-
-&nbsp;
-
-![What we can do together](/images/speak-header-3.jpg)
-
-### Start a meaningful conversation
-
-What kind of Singapore do we want to have post-COVID? Reflect on the changes you and your family are experiencing. Share your thoughts to help each other adapt to new norms. Use the thought-starters in this digital deck to get started. Let's talk.  
-[Coming soon!]
+<div class="heading-pillar">Building Our Community</div>  
+#### ‘The little moments matter’: S’porean, 26, helps at-risk youths through mentorship & sports  
+Inspired by his time working at the Singapore Boys’ Hostel, Joshua Tay wanted to be there for these youths after they left the hostel. Together with his friends, he founded Impart, a non-profit organisation that helps at-risk youth reintegrate into society. If you have an idea to start something like Joshua, tap on the Our Singapore Fund to make your ground-up initiative come alive!  
+Source: [Mothership](https://mothership.sg/2020/07/joshua-tay-impart-singapore-together/){:target="_blank"}
 
 &nbsp;
 

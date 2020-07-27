@@ -7,6 +7,8 @@ permalink: /media-centre/featured-stories/MrKhairulRusydi
 ### Mr Khairul Rusydi 
 ### SG Youth Action Plan 
  
+![Khairul](/images/features/Social_Khairul.jpg)
+
 “Being comfortable with extreme levels of uncertainty is key to success in the future.” 
  
 In schools, we are often taught causal reasoning, where one plus one gives you a predictable and definitive answer. What I do is to enable youths to use effectual reasoning, where the outcome is a goal, and the journey is determined by them. 

@@ -8,6 +8,8 @@ permalink: /media-centre/featured-stories/DrTohTaiChong
 ### Dr Toh Tai Chong 
 ### Citizens’ Panel on Work-Life Harmony 
 
+![Toh Tai Chong](/images/features/Social_Toh.jpg)
+
 “We had a lot of autonomy in deciding what problems to address and what solutions to choose.” 
  
 As part of the ‘sandwich generation’, I’m keen to share more about the challenges of being a caregiver for both young children and aging parents. I’m also interested to learn about different initiatives that can be implemented in my workplace. 

@@ -7,6 +7,7 @@ permalink: /media-centre/speeches
 ### Speeches
 
 | --- | :--- |
+|20 Jun 2020 | DPM Heng Swee Keat - [Emerging Stronger Together](https://www.pmo.gov.sg/Newsroom/National-Broadcast-by-DPM-Heng-Swee-Keat-on-20-June-2020)|
 |Budget 2020 | [Resilience Budget](https://www.singaporebudget.gov.sg/budget_2020/resilience-budget/supplementary-budget-statement)|
 |Budget 2020 | [Fortitude Budget](https://www.singaporebudget.gov.sg/budget_2020/fortitude-budget/fortitude-budget-statement)|
 |Budget 2020 | [Fortitude Budget Debate Round-Up Speech](https://www.singaporebudget.gov.sg/budget_2020/fortitude-budget/fortitude-budget-debate-round-up-speech)|
