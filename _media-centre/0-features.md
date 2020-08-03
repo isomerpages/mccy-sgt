@@ -4,6 +4,8 @@ description: Learn from the experiences of Singaporeans who are working together
 permalink: /media-centre/featured-stories
 ---
 
+![In the Spotlight](/images/featured-stories-header-1.jpg)
+
 ### SG Strong Box
 
 "Everyone is talented in his or her own way." Read more about Ms Faith Lum’s initiative on staying engaged [here](/media-centre/featured-stories/MsFaithLum).

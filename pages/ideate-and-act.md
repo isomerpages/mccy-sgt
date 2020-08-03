@@ -15,6 +15,8 @@ Do you have ideas for post-COVID-19 community activities? Are you eager to contr
 
 ### Share your thoughts
 
+![SmolTok](/images/smoltok.png){: .img-responsive}
+
 Have a meaningful conversation with family and friends using the SGTogether x SmolTok digital deck about your COVID-19 experience, and share your thoughts and ideas on how we may emerge stronger!   
 [Reflect and share here!](https://www.ideas.gov.sg/public/SGTogether_x_SmolTok__Reflect_and_Share){:target="_blank"}
 
