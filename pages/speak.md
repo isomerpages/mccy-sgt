@@ -80,10 +80,5 @@ Share your views on national policies on REACH Chinese WhatsApp Chat Group. Now 
 
 ![Give your feedback](/images/speak-header-5.jpg)
 
-The National Library Board is conducting a public consultation for our Libraries and Archives Plan 2021-2025. Your views will help shape our plans, allow us to serve your needs better, and enable us to create the libraries and archives of tomorrow. Share your views by 31 July 2020.  
-[Submit](https://form.gov.sg/#!/5ed4a28c3468470012daa661){:target="_blank"}  
-[Learn more](https://www.reach.gov.sg/participate/public-consultation/national-library-board/public-consultation-on-the-libraries-and-archives-plan-2021-2025){:target="_blank"}  
-[View all public consultations](https://www.reach.gov.sg/participate/public-consultation){:target="_blank"}
-
 'Stay Strong Singapore' campaign is a ground-up initiative by the Happiness Initiative in partnership with MCCY to offer encouragement beyond the circuit breaker. You can also check out the Telegram sticker pack!  
 [Discover more](https://happinessinitiative.sg/stay-strong-sg){:target="_blank"}

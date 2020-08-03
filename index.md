@@ -2,7 +2,6 @@
 layout: homepage
 title: Singapore Together
 description: Singapore Together is a movement for all Singaporeans to work together to build our shared future. Join us.
-notification: Collect your Singapore Together Pack by 2 August! Search for collection centres <a href="https://sgtogetherpack.gowhere.gov.sg/" target="_blank">here</a>.
 permalink: /
 sections:
     - hero:
