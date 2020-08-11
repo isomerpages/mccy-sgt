@@ -17,35 +17,20 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
 
-<div class="heading-pillar">Finding Support: Well-being</div> 
-#### 6 tips on coping with worries, fears, anxiety  
-In times of crisis, you might feel anxious, worried or stressed. How do you ensure that you stay calm amid the challenges you may face in your life? Take care of your mental health today with these tips on how you can manage your emotions and stay positive.  
-Source: [HealthHub](https://www.healthhub.sg/sites/assets/Assets/Programs/stay-well/phase-3/pdfs/Stay_Positive/6_Tips_To_Cope_With_Anxiety.pdf){:target="_blank"}
+<div class="heading-pillar">Finding Support: Well-being</div>
+#### Why we reach for nostalgia in times of crisis or a global pandemic  
+Have you been watching reruns of old sitcoms, humming along to classic oldies or trying to reconnect with long-lost friends? A clinical psychologist dissects the craving for the good ol’ days before COVID-19, but reminds us to have self-awareness.  
+Source: [CNA](https://cnalifestyle.channelnewsasia.com/wellness/why-we-reach-for-nostalgia-in-crisis-covid-19-psychology-12975612){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div> 
-#### Braving the storm together: Supporting our children emotionally through COVID-19 
-Fear. Anxiety. Loneliness. Children are affected by the COVID-19 pandemic in many ways. As parents, how can you help your child understand and grow from their emotions during this crisis? Here are some ways you can help your young ones navigate their feelings while trying to maintain a sense of normalcy.  
-Source: [Singapore Children's Society](https://www.childrensociety.org.sg/resources/ck/files/covid19_parentips.pdf){:target="_blank"}
+<div class="heading-pillar">Finding Support: Jobs</div>
+#### Networking 101 for Singaporean Jobseekers over 40  
+Work opportunities don't always come from job portals or newspaper ads. Networking can also be an important part of the job hunt. For starters, set clear goals about what you want to achieve. Check out this article and get more tips about how you can reach out and make an impression on potential employers.  
+Source: [MyCareersFuture](https://content.mycareersfuture.sg/networking-101-singaporean-jobseekers-40/){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div> 
-#### Adjusting back to work in the office in the new normal 
-As we gradually return to our workplaces, we will have to change how we work to remain safe and healthy. Learn more about how you can make the transition back to your desk a smooth one.  
-Source: [Public Service Division](https://www.psd.gov.sg/challenge/ideas/work-better/public-service-future-workplace-new-normal){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs</div> 
-#### Versatility to overcome life’s obstacles 
-At 25, Muhammad Nurhisham is the sole breadwinner of his family of four. When he lost his job due to the COVID-19 pandemic, he had to find a way to support them. Learn about how he was able to overcome this obstacle through the SGUnited Jobs initiative.  
-Source: [gov.sg](https://www.gov.sg/article/versatility-to-overcome-lifes-obstacles){:target="_blank"}
-
-<div class="heading-pillar">Making Connections</div> 
-#### How to help the seniors in your family go digital 
-From purchasing groceries to making bank transactions, our older family members and friends can stay safe from COVID-19 by going online. Find out how we can do our part to help our seniors stay connected and carry out their daily activities digitally.  
-Source: [gov.sg](https://www.gov.sg/article/how-to-help-the-seniors-in-your-family-go-digital){:target="_blank"}
-
-<div class="heading-pillar">Making Connections</div> 
-#### Commentary: Covid-19 has shown that we can be gracious. How do we make it last? 
-From starting ground-up movements to making donations, Singaporeans are fighting the COVID-19 pandemic with kindness. Get tips on how to make positive changes and how we can ensure that our society remains united and compassionate in this new normal.  
-Source: [CNA](https://www.channelnewsasia.com/news/commentary/covid-19-singapore-gracious-society-kindess-ground-up-12808722?cid=h3_referral_inarticlelinks_24082018_cna){:target="_blank"}
+<div class="heading-pillar">Making Connections</div>
+#### Gov.sg How-Tos: How to keep safe when you dine out 
+Have plans to dine out with family and friends? Besides wearing a mask, everyone should follow these guidelines when eating out. Keep yourself protected while satisfying your food cravings!  
+Source: [gov.sg](https://www.gov.sg/article/how-to-keep-safe-when-you-dine-out){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>
 #### This S’porean, 23, aims to get viewers saying ‘WTS’ with videos exploring social issues  
