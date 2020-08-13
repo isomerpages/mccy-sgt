@@ -4,9 +4,6 @@ title:  Dr Neo Mei Lin (Youth Action Challenge, Environment)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/featured-stories/DrNeoMeiLin 
 ---
-### Dr Neo Mei Lin 
-### Youth Action Challenge (Environment) 
- 
 ![Neo Mei Lin](/images/features/Social_Neo.jpg)
 
 “Can the government do more to save our environment?” 

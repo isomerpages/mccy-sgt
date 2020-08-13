@@ -4,10 +4,6 @@ title:  Ms Faith Lum (SG Strong Box)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/featured-stories/MsFaithLum
 ---
-
-### Ms Faith Lum 
-### SG Strong Box
-
 ![Faith](/images/features/Social_Faith.jpg)
 
 With the pause on activities and visits prior to the circuit breaker, Faith saw a growing need for newer ways to stay engaged – especially among the elderly and people with disabilities (PWDs). 

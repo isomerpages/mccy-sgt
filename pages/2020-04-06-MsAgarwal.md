@@ -4,9 +4,6 @@ title:  Ms Agarwal (Citizens' Panel on Work Life Harmony)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/featured-stories/MsAgarwal
 ---
-### Ms Agarwal  
-### Citizens’ Panel on Work Life Harmony 
-
 ![Agarwal](/images/features/Social_Kopal.jpg)
 
 “I want to see that what I have to juggle today won’t need to be juggled by my daughter in the future.” 

@@ -4,10 +4,6 @@ title:  Dr Toh Tai Chong (Citizens’ Panel on Work-Life Harmony)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/featured-stories/DrTohTaiChong
 ---
-
-### Dr Toh Tai Chong 
-### Citizens’ Panel on Work-Life Harmony 
-
 ![Toh Tai Chong](/images/features/Social_Toh.jpg)
 
 “We had a lot of autonomy in deciding what problems to address and what solutions to choose.” 
