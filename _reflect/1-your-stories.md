@@ -60,6 +60,6 @@ During the Circuit Breaker period, I got to spend more time decluttering, to ref
 
 I saw a video online on raising money for the Straits Times School Pocket Money Fund and was inclined to donate to give my support. I felt that even a small donation from what I saved can make a difference to the community who are struggling to make ends meet. But it would be an impactful gesture if everyone can play their part to donate if they can.
 
-**<span class="has-text-secondary">One hope I have for Singapore is:</span>** For SIngaporeans to be gracious to serve others no matter the cost. I hope to help by donating and volunteering with like-minded people to stir up the Singaporean spirit."
+**<span class="has-text-secondary">One hope I have for Singapore is:</span>** For Singaporeans to be gracious to serve others no matter the cost. I hope to help by donating and volunteering with like-minded people to stir up the Singaporean spirit.
 
 &nbsp;
