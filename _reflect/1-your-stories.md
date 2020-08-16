@@ -6,24 +6,6 @@ permalink: /reflect/stories
 
 These are stories from Singaporeans who sent us their COVID-19 reflections. Share your stories [here](/reflect).
 
-*Contributed by Wan Yi, 32, Teacher:*
-
-During home-based learning, I had to teach from my own bedroom... as much as I felt vulnerable, my students must have felt the same way. This is a good experience for empathy-building and growing a shared experience.   
-   
-I hope that no child should feel ashamed of his/her room or house.   
-   
-**<span class="has-text-secondary">One thing I hope to do is:</span>** opening up conversations about social inequality, social mobility and empowering my students to come on board with me to be champions of change through our community projects.
-
-&nbsp;
-
-*Contributed by Michelle, 18, Student:*
-
-I realised that in the midst of the trying times, many of us do try to extend a helping hand, while looking out for each other. It makes me learn the impact one can make, even by a small simple gesture of checking up on others, of standing in solidarity with those in need by donating, all these can make a huge impact on how strong we can stand as a community.   
-     
-**<span class="has-text-secondary">One thing I hope to do is:</span>** Having tough, difficult conversations with friends and family to discuss how we can help the vulnerable, using that as a platform to encourage others to donate, to volunteer, can eventually send out shockwaves, that incentivize everyone to help each other out and leave a lasting impact.
-
-&nbsp;
-
 *Contributed by Ramli Bin Puteh, 66, self-employed:*
 
 The Covid-19 has made an impact on the lives of many seniors. Unlike other Singaporeans who can turn to video conferencing, e-commerce and other forms of online entertainment, many senior citizens are feeling lonely, isolated and neglected.
@@ -36,7 +18,7 @@ The Covid-19 has made an impact on the lives of many seniors. Unlike other Singa
 
 As a volunteer to a family of an 89-year-old man and his 58-year-old mentally disabled son, I helped to inform the town council about their leaking kitchen basin. The town council contractor not only assisted this family to fix the issue, he even gave them two face masks and bought them lunch. I felt so touched that there are such warm-hearted people in Singapore.
 
-**<span class="has-text-secondary">One hope I have for Singapore is:</span>** For us to take action to help each other to build a cohesive society. And for the government to help citizens as its first priority."
+**<span class="has-text-secondary">One hope I have for Singapore is:</span>** For us to take action to help each other to build a cohesive society. And for the government to help citizens as its first priority.
 
 &nbsp;
 
@@ -61,5 +43,23 @@ During the Circuit Breaker period, I got to spend more time decluttering, to ref
 I saw a video online on raising money for the Straits Times School Pocket Money Fund and was inclined to donate to give my support. I felt that even a small donation from what I saved can make a difference to the community who are struggling to make ends meet. But it would be an impactful gesture if everyone can play their part to donate if they can.
 
 **<span class="has-text-secondary">One hope I have for Singapore is:</span>** For Singaporeans to be gracious to serve others no matter the cost. I hope to help by donating and volunteering with like-minded people to stir up the Singaporean spirit.
+
+&nbsp;
+
+*Contributed by Wan Yi, 32, Teacher:*
+
+During home-based learning, I had to teach from my own bedroom... as much as I felt vulnerable, my students must have felt the same way. This is a good experience for empathy-building and growing a shared experience.   
+   
+I hope that no child should feel ashamed of his/her room or house.   
+   
+**<span class="has-text-secondary">One thing I hope to do is:</span>** opening up conversations about social inequality, social mobility and empowering my students to come on board with me to be champions of change through our community projects.
+
+&nbsp;
+
+*Contributed by Michelle, 18, Student:*
+
+I realised that in the midst of the trying times, many of us do try to extend a helping hand, while looking out for each other. It makes me learn the impact one can make, even by a small simple gesture of checking up on others, of standing in solidarity with those in need by donating, all these can make a huge impact on how strong we can stand as a community.   
+     
+**<span class="has-text-secondary">One thing I hope to do is:</span>** Having tough, difficult conversations with friends and family to discuss how we can help the vulnerable, using that as a platform to encourage others to donate, to volunteer, can eventually send out shockwaves, that incentivize everyone to help each other out and leave a lasting impact.
 
 &nbsp;
