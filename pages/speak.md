@@ -9,7 +9,7 @@ permalink: /speak/
 ### Emerging Stronger Conversations
 
 The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience. Join us for a series of conversations to share your hopes for a resilient, post-COVID Singapore society, and how we can work together to create a better future. These conversations are open to all Singapore Citizens and PRs.  
-[Register for the Emerging Stronger Conversations](https://go.gov.sg/ESconversations/){:target="_blank"}
+[Register for the Emerging Stronger Conversations](https://go.gov.sg/esconversations/){:target="_blank"}
 
 &nbsp;
 
