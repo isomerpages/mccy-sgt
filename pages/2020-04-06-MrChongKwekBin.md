@@ -4,9 +4,6 @@ title:  Mr Chong Kwek Bin (Enabling Masterplan)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/featured-stories/MrChongKwekBin
 ---
-### Mr Chong Kwek Bin 
-### Enabling Masterplan 
- 
 ![Chong Kwek Bin](/images/features/Social_Chong.jpg)
 
 “Being partially blind helps me see the challenges and the potential of people like myself.” 

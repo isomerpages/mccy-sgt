@@ -6,6 +6,10 @@ permalink: /media-centre/featured-stories
 
 ![In the Spotlight](/images/featured-stories-header-1.jpg)
 
+### Singapore Together Emerging Stronger Conversations
+
+Read more about some Singaporeans' experiences with the Singapore Together Emerging Stronger Conversations [here](/media-centre/featured-stories/SGTESC).
+
 ### SG Strong Box
 
 "Everyone is talented in his or her own way." Read more about Ms Faith Lum’s initiative on staying engaged [here](/media-centre/featured-stories/MsFaithLum).

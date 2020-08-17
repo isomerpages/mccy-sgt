@@ -18,9 +18,19 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
 
 <div class="heading-pillar">Finding Support: Well-being</div>
+#### 10 proven ways to achieve mental wellness  
+Even as we adjust to the new normal, it is important that we continue to improve our mental wellness by nourishing our mind, body and soul. Follow these useful tips so you can stay physically and mentally fit!  
+Source: [Healthxchange](https://www.healthxchange.sg/wellness/mental-health/ten-ways-achieve-mental-wellness){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
 #### Why we reach for nostalgia in times of crisis or a global pandemic  
 Have you been watching reruns of old sitcoms, humming along to classic oldies or trying to reconnect with long-lost friends? A clinical psychologist dissects the craving for the good ol’ days before COVID-19, but reminds us to have self-awareness.  
 Source: [CNA](https://cnalifestyle.channelnewsasia.com/wellness/why-we-reach-for-nostalgia-in-crisis-covid-19-psychology-12975612){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs</div>
+#### In a pandemic, how should you behave in business or social settings?  
+Navigating social etiquette in a post-COVID-19 world can be tricky, but all you really need is to show compassion and respect for others. These social etiquette experts share simple ways you can remain approachable while maintaining hygiene and safety.  
+Source: [CNA](https://cnaluxury.channelnewsasia.com/experiences/business-social-etiquette-in-a-pandemic-12972248){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 #### Networking 101 for Singaporean Jobseekers over 40  
@@ -28,9 +38,19 @@ Work opportunities don't always come from job portals or newspaper ads. Networki
 Source: [MyCareersFuture](https://content.mycareersfuture.sg/networking-101-singaporean-jobseekers-40/){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
+#### Entertaining guests at home? Here’s how to do it safely and responsibly 
+Gatherings might still be limited to groups of five for now, but that doesn’t have to stop you from hosting an unforgettable get-together. Check out this article on how to create a meaningful experience with the right safe distancing precautions in place.  
+Source: [CNA](https://cnaluxury.channelnewsasia.com/experiences/how-to-entertain-guests-at-home-during-a-pandemic-12975892){:target="_blank"}
+
+<div class="heading-pillar">Making Connections</div>
 #### Gov.sg How-Tos: How to keep safe when you dine out 
 Have plans to dine out with family and friends? Besides wearing a mask, everyone should follow these guidelines when eating out. Keep yourself protected while satisfying your food cravings!  
 Source: [gov.sg](https://www.gov.sg/article/how-to-keep-safe-when-you-dine-out){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>
+#### University graduates brought cheer to children during circuit breaker through their non-profit initiative  
+Jaslyn Pang and Amanda Bambby Cheuk are the workshop elves behind Project Yay Santa, a non-profit initiative that supports underprivileged children. Find out how they sparked joy with their Zoom workout sessions and fundraising efforts!  
+Source: [Youth.sg](https://www.youth.sg/Spotted/People/2020/7/University-graduates-brought-cheer-to-children-during-circuit-breaker-through-their-non-profit){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>
 #### This S’porean, 23, aims to get viewers saying ‘WTS’ with videos exploring social issues  

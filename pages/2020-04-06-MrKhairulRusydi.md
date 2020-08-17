@@ -4,9 +4,6 @@ title:  Mr Khairul Rusydi (SG Youth Action Plan)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/featured-stories/MrKhairulRusydi
 ---
-### Mr Khairul Rusydi 
-### SG Youth Action Plan 
- 
 ![Khairul](/images/features/Social_Khairul.jpg)
 
 “Being comfortable with extreme levels of uncertainty is key to success in the future.” 
