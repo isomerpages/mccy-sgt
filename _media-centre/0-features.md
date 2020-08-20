@@ -6,9 +6,13 @@ permalink: /media-centre/featured-stories
 
 ![In the Spotlight](/images/featured-stories-header-1.jpg)
 
-### Singapore Together Emerging Stronger Conversations
+### Singapore Together Emerging Stronger Conversations - 1 Aug 2020
 
-Read more about some Singaporeans' experiences with the Singapore Together Emerging Stronger Conversations [here](/media-centre/featured-stories/SGTESC).
+“How might we emerge from Covid-19 a more caring, cohesive and resilient society?” Let’s hear what some participants of the Singapore Together Emerging Stronger Conversations say here. [here](/media-centre/featured-stories/SGTESC).
+
+### Singapore Together Emerging Stronger Conversations – 5 Aug 2020
+
+“What can we do to foster togetherness and co-create a better Singapore society for you and me?” Ideas poured in from participants at the Singapore Together Emerging Stronger Conversations. Read what some of those ideas are [here](/media-centre/featured-stories/SGTESC2).
 
 ### SG Strong Box
 
