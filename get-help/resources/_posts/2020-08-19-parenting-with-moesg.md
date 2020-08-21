@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Parenting with MOE’SG"
-description: Parenting with MOE’SG
-permalink: /get-help/resources/parenting-with-moesg
+title: "Parenting with MOE"
+description: Parenting with MOE
+permalink: /get-help/resources/parenting-with-moe
 ---
 
 Connect, share, celebrate and grow together with the new Parenting with MOE’s IG page 

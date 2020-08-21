@@ -1,10 +1,10 @@
 ---
-title: Factsheet
+title: Factsheets
 description: One-stop resource for news, press releases, articles, commentary and speeches.
-permalink: /media-centre/factsheet
+permalink: /media-centre/factsheets
 ---
 
-### Factsheet
+### Factsheets
 
 | --- | :--- |
 |15 Aug 2020 | [Singapore Together Emerging Stronger Conversations – Building A Caring, Cohesive And Resilient Singapore Society](/files/Factsheet_Singapore_Together_Emerging_Stronger_Conversations_Building_a_Caring_Cohesive_and_Resilient_Singapore_Society.pdf){:target="_blank" .link-icon-block}|

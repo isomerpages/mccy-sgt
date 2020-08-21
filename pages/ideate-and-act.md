@@ -4,7 +4,15 @@ description: Got a great idea for a community project? Join our workshops, inter
 permalink: /ideate-and-act/
 ---
 
-	
+![Turn conversations into action](/images/ideate-act-header-1.jpg)
+
+Do you have ideas for post-COVID-19 community activities? Are you eager to contribute to discussions on Singapore’s growth? We welcome you to join our virtual workshops, interact with our team, and create solutions that can positively impact lives. Together, we can expand the limits of our imagination.  
+[Learn more](https://www.ideas.gov.sg/home){:target="_blank"}
+
+&nbsp;
+
+![What we can do together](/images/ideate-act-header-2.jpg)
+
 ### Join our webinar series
 
 ![What we can do together](/images/loveable-sg-webinar.jpg)
@@ -17,15 +25,6 @@ What do we love about Singapore and how can we love our country more? In this tw
 [Register now](https://www.eventbrite.sg/e/to-our-city-with-love-tickets-117484311739){:target="_blank"}
 
 &nbsp;
-
-![Turn conversations into action](/images/ideate-act-header-1.jpg)
-
-Do you have ideas for post-COVID-19 community activities? Are you eager to contribute to discussions on Singapore’s growth? We welcome you to join our virtual workshops, interact with our team, and create solutions that can positively impact lives. Together, we can expand the limits of our imagination.  
-[Learn more](https://www.ideas.gov.sg/home){:target="_blank"}
-
-&nbsp;
-
-![What we can do together](/images/ideate-act-header-2.jpg)
 
 ### Share your thoughts
 
