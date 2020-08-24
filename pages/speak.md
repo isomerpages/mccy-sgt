@@ -88,5 +88,11 @@ Share your views on national policies on REACH Chinese WhatsApp Chat Group. Now 
 
 ![Give your feedback](/images/speak-header-5.jpg)
 
+The National Wages Council welcomes the public to share their views on wage and employment-related issues and provide suggestions on the guidelines before it reconvenes. Share your views by 28 August 2020.
+
+[Submit](https://form.gov.sg/#!/5f2cffdc56f4f20011a34596){:target="_blank"} &nbsp;
+[Learn more](https://www.reach.gov.sg/participate/public-consultation/ministry-of-manpower/manpower-planning-and-policy-division/national-wages-council-to-reconvene-in-august-2020){:target="_blank"} &nbsp;
+[View all public consultations](https://www.reach.gov.sg/participate/public-consultation){:target="_blank"}
+
 'Stay Strong Singapore' campaign is a ground-up initiative by the Happiness Initiative in partnership with MCCY to offer encouragement beyond the circuit breaker. You can also check out the Telegram sticker pack!  
 [Discover more](https://happinessinitiative.sg/stay-strong-sg){:target="_blank"}
