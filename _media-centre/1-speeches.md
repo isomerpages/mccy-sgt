@@ -7,6 +7,7 @@ permalink: /media-centre/speeches
 ### Speeches
 
 | --- | :--- |
+|17 Aug 2020 | DPM Heng Swee Keat's Ministerial Statement on [Continued Support for Workers and Jobs](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-Ministerial-Statement-on-Continued-Support-for-Workers-And-Jobs)|
 |27 Jul 2020 | President Halimah Yacob [at the Swearing-in Ceremony of the New Cabinet](https://www.istana.gov.sg/Newsroom/Speeches/2020/07/27/Speech-by-President-Halimah-Yacob-at-the-Swearing-in-Ceremony-of-the-New-Cabinet)|
 |27 Jul 2020 | PM Lee Hsien Loong [at the Swearing-in Ceremony of the New Cabinet](https://www.pmo.gov.sg/Newsroom/Speech-by-PM-Lee-at-the-Swearing-In-Ceremony)|
 |20 Jun 2020 | DPM Heng Swee Keat - [Emerging Stronger Together](https://www.pmo.gov.sg/Newsroom/National-Broadcast-by-DPM-Heng-Swee-Keat-on-20-June-2020)|

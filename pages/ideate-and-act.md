@@ -13,6 +13,19 @@ Do you have ideas for post-COVID-19 community activities? Are you eager to contr
 
 ![What we can do together](/images/ideate-act-header-2.jpg)
 
+### Join our webinar series
+
+![What we can do together](/images/loveable-sg-webinar.jpg)
+
+What do we love about Singapore and how can we love our country more? In this two-part webinar series, policy and community practitioners deliberate how we experience cities and neighbourhoods. And with the concept of lovability, how it can transform our nation into a more innovative and resilient home for all.
+
+- Part One is on Monday, 31 Aug 2020, 6:00pm—7:30pm
+- Part Two is on Wednesday, 30 Sep 2020, 6:00pm—7:30pm
+
+[Register now](https://www.eventbrite.sg/e/to-our-city-with-love-tickets-117484311739){:target="_blank"}
+
+&nbsp;
+
 ### Share your thoughts
 
 ![SmolTok](/images/smoltok.png){: .img-responsive}

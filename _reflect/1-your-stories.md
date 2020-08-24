@@ -6,6 +6,14 @@ permalink: /reflect/stories
 
 These are stories from Singaporeans who sent us their COVID-19 reflections. Share your stories [here](/reflect).
 
+*Contributed by Tang Chong Nam Kenneth, 48:*
+ 
+During the early days of COVID-19, I was afraid that I would not see my family again if anyone of us was infected. Rather than giving in to hopelessness, I learnt programming and built a digital health software to make precise medicine happen faster. I believe it is our best way to tackle future pandemics and the growing healthcare crisis caused by our aging population.
+ 
+**<span class="has-text-secondary">One hope I have for Singapore is:</span>** To create a more robust and sustainable economic model by seizing new opportunities.
+
+&nbsp;
+
 *Contributed by Ramli Bin Puteh, 66, self-employed:*
 
 The Covid-19 has made an impact on the lives of many seniors. Unlike other Singaporeans who can turn to video conferencing, e-commerce and other forms of online entertainment, many senior citizens are feeling lonely, isolated and neglected.
@@ -63,3 +71,4 @@ I realised that in the midst of the trying times, many of us do try to extend a 
 **<span class="has-text-secondary">One thing I hope to do is:</span>** Having tough, difficult conversations with friends and family to discuss how we can help the vulnerable, using that as a platform to encourage others to donate, to volunteer, can eventually send out shockwaves, that incentivize everyone to help each other out and leave a lasting impact.
 
 &nbsp;
+
