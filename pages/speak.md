@@ -59,7 +59,7 @@ Source: [MyCareersFuture](https://content.mycareersfuture.sg/podcast-how-turn-ho
 #### It’s okay to be an imperfect eco-warrior in the new normal 
 You don’t have to be a green activist like Greta Thunberg to save the environment. Even small steps can make a big difference, as long as you keep trying. Check out tips here on how you can do your part to be eco-friendly. 
 
-Source: [The Pride || Singapore Kindness Movement](https://pride.kindness.sg/eco-friendly-new-normal/){:target="_blank"}
+Source: [The Pride \| Singapore Kindness Movement](https://pride.kindness.sg/eco-friendly-new-normal/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>
 
