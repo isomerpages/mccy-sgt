@@ -13,9 +13,33 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 &nbsp;
 
+### Participate in our survey
+
+<div class="video-responsive" style="padding-bottom: 56.228%;">
+  <iframe width="859" height="483" src="https://www.youtube.com/embed/YjE5iFgJNAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+![ESC Survey Poster](/images/ESC-survey-poster.jpg)
+
+How has COVID-19 affected you? What kind of Singapore do you hope to see as we forge ahead to emerge from this crisis? Your views can help shape our shared future – a future that we can collectively own and strive towards in this new normal. Download the OneService app and participate in the Singapore Together Emerging Stronger Conversation survey today. You can also join our virtual Singapore Together Emerging Stronger Conversations to engage with others and discuss on topics together. Sign up here.
+
+Download the OneService app
+![Play Store](/images/playstore-esc-survey.png){: .img-responsive} ![Apple Store](/images/appstore-esc-survey.png){: .img-responsive}  
+[Play Store](https://go.gov.sg/mnd-osa){:target="_blank"}  
+[Apple Store](https://go.gov.sg/mnd-osi){:target="_blank"}  
+&nbsp;
+
 ![Trending conversations](/images/speak-header-2.jpg)
 
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
+#### Do you have ‘mask breath’? How to fix it or find out if it’s something more serious 
+
+Now that we are wearing our face masks for prolonged periods, some of us might be more acutely aware of our breath — bad breath, that is. Health experts weigh in on why donning a mask might affect your breath, and give tips on how you can remedy it! 
+
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/face-mask-bad-breath-halitosis-12925246){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
@@ -41,6 +65,14 @@ Source: [SG United](https://www.sgunited.gov.sg/stay-strong/){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
+#### The Art of Being a Better Co-worker: Ways to Improve Relationships at Work 
+
+Having good relationships at work can increase our job satisfaction and overall well-being. From checking in with our teammates to showing appreciation, here are some ways we can be better co-workers and create a positive work environment! 
+
+Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/art-being-better-co-worker-ways-improve-relationships-work/){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs </div>
+
 #### Worried About Your Job? Here Are Some Helpful Insights & Advice from A Seasoned Career Coach 
 
 Pay cuts, no-pay leave and a lack of job vacancies. These are some factors that have made Singaporeans more anxious in the workplace as the pandemic rages on. Career coach Asher Liew answers questions on how to navigate this difficult time and come out stronger. 
@@ -56,10 +88,26 @@ Source: [MyCareersFuture](https://content.mycareersfuture.sg/podcast-how-turn-ho
 
 <div class="heading-pillar">Making Connections </div>
 
+#### 7 Helpful Strategies to Support Seniors  
+Those above 60 might face a tougher time riding out this pandemic, especially if they have health problems or are socially isolated. Here are seven steps you can take to support and engage seniors who might need a helping hand. 
+
+Source: [Stay Prepared](https://stayprepared.sg/mymentalhealth/articles/7-helpful-strategies-to-support-seniors/){:target="_blank"}
+
+<div class="heading-pillar">Making Connections </div>
+
 #### It’s okay to be an imperfect eco-warrior in the new normal 
 You don’t have to be a green activist like Greta Thunberg to save the environment. Even small steps can make a big difference, as long as you keep trying. Check out tips here on how you can do your part to be eco-friendly. 
 
 Source: [The Pride \| Singapore Kindness Movement](https://pride.kindness.sg/eco-friendly-new-normal/){:target="_blank"}
+
+
+<div class="heading-pillar">Building Our Community</div>
+
+#### Building a kampung of trust: Women helping women with a win-win childcare solution 
+
+Daughters of Tomorrow, a charity that helps women from low-income families find employment, came up with a babysitting programme so that mothers can go to work with greater peace of mind. This heartwarming story shines a spotlight on the people who made the Community Childminding Network a successful resource. 
+
+Source: [The Pride](https://pride.kindness.sg/a-win-win-childcare-solution/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>
 
@@ -118,12 +166,6 @@ Share your views on national policies on REACH Chinese WhatsApp Chat Group. Now 
 &nbsp;
 
 ![Give your feedback](/images/speak-header-5.jpg)
-
-The National Wages Council welcomes the public to share their views on wage and employment-related issues and provide suggestions on the guidelines before it reconvenes. Share your views by 28 August 2020.
-
-[Submit](https://form.gov.sg/#!/5f2cffdc56f4f20011a34596){:target="_blank"} &nbsp;
-[Learn more](https://www.reach.gov.sg/participate/public-consultation/ministry-of-manpower/manpower-planning-and-policy-division/national-wages-council-to-reconvene-in-august-2020){:target="_blank"} &nbsp;
-[View all public consultations](https://www.reach.gov.sg/participate/public-consultation){:target="_blank"}
 
 'Stay Strong Singapore' campaign is a ground-up initiative by the Happiness Initiative in partnership with MCCY to offer encouragement beyond the circuit breaker. You can also check out the Telegram sticker pack!  
 [Discover more](https://happinessinitiative.sg/stay-strong-sg){:target="_blank"}

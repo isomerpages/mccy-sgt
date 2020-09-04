@@ -4,7 +4,8 @@ title:  Ms Von Leong (Masks for all SG)
 description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/featured-stories/MsVonLeong
 ---
-![Von](/images/features/Social_Von.jpg)
+![Von](/images/features/Social_Von_1.gif)  
+![Von](/images/features/Social_Von_2.gif)  
 
 Concerned about the fast-escalating spread of COVID-19 and its asymptomatic infections, Von Leong, along with her 4 co-founders (Melissa Kwee, Dr Evelyn Wong, Dr Yeo Lay Hwee and June Tham), started Masks For All SG to advocate the importance of mask wearing for every Singaporean, a month before it was made mandatory nationwide.
 
