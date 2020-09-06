@@ -14,14 +14,6 @@ This crisis is the perfect foundation for a nation to emerge resilient and stron
 
 &nbsp;
 
-*Contributed by Han Phay, 30, start-up founder:*
- 
-This crisis is the perfect foundation for a nation to emerge resilient and strong, with innovation and daring. A entrepreneurial nation built not on traditional metrics of success, but citizens that dare to speak truth to power and try new things never done before. As a startup founder, having been in the entrepreneurial ecosystem has taught me lessons. These lessons showed up in our national crisis too. I see the parallels in our common story. The roadmap of a startup, emerging as our nation faces adversity and risk.
- 
-**<span class="has-text-secondary">One hope I have for Singapore is:</span>** to use this opportunity to grow as a nation towards an entrepreneurial culture that embraces failure, and celebrates creativity and innovation.
-
-&nbsp;
-
 *Contributed by Peony Tan, 56:*
  
 During the Circuit Breaker, people seem more aware and considerate because of a common enemy: the COVID-19 virus. I felt assurred that Singaporeans woke up from a self-centred lifestyle. I realised we need to learn how to start a conversation without getting on each other's nerves. The fast-paced lifestyle where we assume that everyone holds the same values as us should be reviewed. The misunderstanding, jibing and sarcasm hidden behind anonymous identities on social media is a widespread problem we need to address.

@@ -24,8 +24,9 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 How has COVID-19 affected you? What kind of Singapore do you hope to see as we forge ahead to emerge from this crisis? Your views can help shape our shared future – a future that we can collectively own and strive towards in this new normal. Download the OneService app and participate in the Singapore Together Emerging Stronger Conversation survey today. You can also join our virtual Singapore Together Emerging Stronger Conversations to engage with others and discuss on topics together. Sign up here.
 
 Download the OneService app
-![Play Store](/images/playstore-esc-survey.png){: .img-responsive} ![Apple Store](/images/appstore-esc-survey.png){: .img-responsive}  
+![Play Store](/images/playstore-esc-survey.png){: .img-responsive} 
 [Play Store](https://go.gov.sg/mnd-osa){:target="_blank"}  
+![Apple Store](/images/appstore-esc-survey.png){: .img-responsive}  
 [Apple Store](https://go.gov.sg/mnd-osi){:target="_blank"}  
 &nbsp;
 
