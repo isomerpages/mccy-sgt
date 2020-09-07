@@ -26,7 +26,7 @@ How has COVID-19 affected you? What kind of Singapore do you hope to see as we f
 Download the OneService app
 ![Play Store](/images/playstore-esc-survey.png){: .img-responsive} 
 [Play Store](https://go.gov.sg/mnd-osa){:target="_blank"}  
-![Apple Store](/images/appstore-esc-survey.png){: .img-responsive}  
+![Apple Store](/images/appstore-esc-survey.png){: .img-responsive} 
 [Apple Store](https://go.gov.sg/mnd-osi){:target="_blank"}  
 &nbsp;
 
