@@ -19,8 +19,6 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
   <iframe width="859" height="483" src="https://www.youtube.com/embed/YjE5iFgJNAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-![ESC Survey Poster](/images/ESC-survey-poster.jpg)
-
 How has COVID-19 affected you? What kind of Singapore do you hope to see as we forge ahead to emerge from this crisis? Your views can help shape our shared future – a future that we can collectively own and strive towards in this new normal. Download the OneService app and participate in the Singapore Together Emerging Stronger Conversation survey today. You can also join our virtual Singapore Together Emerging Stronger Conversations to engage with others and discuss on topics together. Sign up here.
 
 Download the OneService app
@@ -28,6 +26,13 @@ Download the OneService app
 [Play Store](https://go.gov.sg/mnd-osa){:target="_blank"}  
 ![Apple Store](/images/appstore-esc-survey.png){: .img-responsive} 
 [Apple Store](https://go.gov.sg/mnd-osi){:target="_blank"}  
+&nbsp;
+
+### What our Singapore Together Emerging Stronger Conversations participants say
+
+Interested to know what Singaporeans shared at the Singapore Together ESC sessions so far? Download the infographics to find out more.
+
+[SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf)  
 &nbsp;
 
 ![Trending conversations](/images/speak-header-2.jpg)
@@ -64,6 +69,13 @@ Source: [Stay Prepared](https://stayprepared.sg/mymentalhealth/articles/7-helpfu
 Daughters of Tomorrow, a charity that helps women from low-income families find employment, came up with a babysitting programme so that mothers can go to work with greater peace of mind. This heartwarming story shines a spotlight on the people who made the Community Childminding Network a successful resource. 
 
 Source: [The Pride](https://pride.kindness.sg/a-win-win-childcare-solution/){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### ‘The little moments matter’: S’porean, 26, helps at-risk youths through mentorship & sports  
+Inspired by his time working at the Singapore Boys’ Hostel, Joshua Tay wanted to be there for these youths after they left the hostel. Together with his friends, he founded Impart, a non-profit organisation that helps at-risk youth reintegrate into society. If you have an idea to start something like Joshua, tap on the Our Singapore Fund to make your ground-up initiative come alive!
+
+Source: [Mothership](https://mothership.sg/2020/07/joshua-tay-impart-singapore-together/){:target="_blank"}
 
 &nbsp;
 
