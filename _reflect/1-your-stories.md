@@ -6,11 +6,19 @@ permalink: /reflect/stories
 
 These are stories from Singaporeans who sent us their COVID-19 reflections. Share your stories [here](/reflect).
 
-*Contributed by Tang Chong Nam Kenneth, 48:*
+*Contributed by Han Phay, 30, start-up founder:*
  
-During the early days of COVID-19, I was afraid that I would not see my family again if anyone of us was infected. Rather than giving in to hopelessness, I learnt programming and built a digital health software to make precise medicine happen faster. I believe it is our best way to tackle future pandemics and the growing healthcare crisis caused by our aging population.
+This crisis is the perfect foundation for a nation to emerge resilient and strong, with innovation and daring. A entrepreneurial nation built not on traditional metrics of success, but citizens that dare to speak truth to power and try new things never done before. As a startup founder, having been in the entrepreneurial ecosystem has taught me lessons. These lessons showed up in our national crisis too. I see the parallels in our common story. The roadmap of a startup, emerging as our nation faces adversity and risk.
  
-**<span class="has-text-secondary">One hope I have for Singapore is:</span>** To create a more robust and sustainable economic model by seizing new opportunities.
+**<span class="has-text-secondary">One hope I have for Singapore is:</span>** to use this opportunity to grow as a nation towards an entrepreneurial culture that embraces failure, and celebrates creativity and innovation.
+
+&nbsp;
+
+*Contributed by Peony Tan, 56:*
+ 
+During the Circuit Breaker, people seem more aware and considerate because of a common enemy: the COVID-19 virus. I felt assurred that Singaporeans woke up from a self-centred lifestyle. I realised we need to learn how to start a conversation without getting on each other's nerves. The fast-paced lifestyle where we assume that everyone holds the same values as us should be reviewed. The misunderstanding, jibing and sarcasm hidden behind anonymous identities on social media is a widespread problem we need to address.
+ 
+**<span class="has-text-secondary">One hope I have for Singapore is:</span>** for people to know what a good conversation is and not to undermine one other. One thing I am doing to bring Singapore closer to my hope is to listen. Be gracious, it always works.
 
 &nbsp;
 
