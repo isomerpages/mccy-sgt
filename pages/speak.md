@@ -13,13 +13,21 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 &nbsp;
 
+### What our Singapore Together Emerging Stronger Conversations participants say
+
+Interested to know what Singaporeans shared at the Singapore Together ESC sessions so far? Download the infographics to find out more.
+
+[SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
+
+&nbsp;
+
 ### Participate in our survey
 
 <div class="video-responsive" style="padding-bottom: 56.228%;">
   <iframe width="859" height="483" src="https://www.youtube.com/embed/YjE5iFgJNAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-How has COVID-19 affected you? What kind of Singapore do you hope to see as we forge ahead to emerge from this crisis? Your views can help shape our shared future – a future that we can collectively own and strive towards in this new normal. Download the OneService app and participate in the Singapore Together Emerging Stronger Conversation survey today. You can also join our virtual Singapore Together Emerging Stronger Conversations to engage with others and discuss on topics together. Sign up here.
+How has COVID-19 affected you? What kind of Singapore do you hope to see as we forge ahead to emerge from this crisis? Your views can help shape our shared future – a future that we can collectively own and strive towards in this new normal. Download the OneService app and participate in the Singapore Together Emerging Stronger Conversation survey today. You can also join our virtual Singapore Together Emerging Stronger Conversations to engage with others and discuss on topics together. Sign up [here](https://go.gov.sg/ESconversations){:target="_blank"}.
 
 Download the OneService app
 ![Play Store](/images/playstore-esc-survey.png){: .img-responsive} 
@@ -28,12 +36,6 @@ Download the OneService app
 [Apple Store](https://go.gov.sg/mnd-osi){:target="_blank"}  
 &nbsp;
 
-### What our Singapore Together Emerging Stronger Conversations participants say
-
-Interested to know what Singaporeans shared at the Singapore Together ESC sessions so far? Download the infographics to find out more.
-
-[SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf)  
-&nbsp;
 
 ![Trending conversations](/images/speak-header-2.jpg)
 
