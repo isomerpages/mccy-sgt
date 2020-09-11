@@ -29,6 +29,7 @@ collections:
     output: true
     
 resources_name: get-help
+future: true
 shareicon: /images/sg-together-600x600.jpg
 google-tag-manager: GTM-T7BHXPN
 
