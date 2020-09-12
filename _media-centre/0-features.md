@@ -8,11 +8,11 @@ permalink: /media-centre/featured-stories
 
 ### Singapore Together Emerging Stronger Conversations
 
-**22 Aug 2020:** “How can we lend our support to build a better Singapore for all?”. [Read on](/media-centre/featured-stories/SGTESC5) for more excerpts from the participants at the Singapore Together Emerging Stronger Conversations about their visions towards a better Singapore.
+**22 Aug 2020:** “How can we lend our support to build a better Singapore for all?” [Read on](/media-centre/featured-stories/SGTESC5) for more excerpts from the participants at the Singapore Together Emerging Stronger Conversations about their visions towards a better Singapore.
 
-**15 Aug 2020:** “How can we bounce back stronger and work better together?”. Views may differ, but they all strive towards a common goal. Hear the voices of participants at the ESC session [here](/media-centre/featured-stories/SGTESC4).
+**15 Aug 2020:** “How can we bounce back stronger and work better together?” Views may differ, but they all strive towards a common goal. Hear the voices of participants at the ESC session [here](/media-centre/featured-stories/SGTESC4).
 
-**12 Aug 2020:** “How can you and I play a part to build a more inclusive and compassionate society for us all?”. Read about the views participants at the Singapore Together Emerging Stronger Conversations shared [here](/media-centre/featured-stories/SGTESC3).
+**12 Aug 2020:** “How can you and I play a part to build a more inclusive and compassionate society for us all?” Read about the views participants at the Singapore Together Emerging Stronger Conversations shared [here](/media-centre/featured-stories/SGTESC3).
 
 **5 Aug 2020:** “What can we do to foster togetherness and co-create a better Singapore society for you and me?” Ideas poured in from participants at the Singapore Together Emerging Stronger Conversations. Read what some of those ideas are [here](/media-centre/featured-stories/SGTESC2).
 
