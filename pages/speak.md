@@ -17,6 +17,7 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 Interested to know what Singaporeans shared at the Singapore Together ESC sessions so far? Download the infographics to find out more.
 
+[SG Together ESC sessions (11 - 22 August 2020)](/files/Singapore_Together_Infographics_Series_2.pdf){:target="_blank"}  
 [SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
 
 &nbsp;
