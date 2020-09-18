@@ -22,21 +22,6 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 
 &nbsp;
 
-### Participate in our survey
-
-<div class="video-responsive" style="padding-bottom: 56.228%;">
-  <iframe width="859" height="483" src="https://www.youtube.com/embed/YjE5iFgJNAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-How has COVID-19 affected you? What kind of Singapore do you hope to see as we forge ahead to emerge from this crisis? Your views can help shape our shared future – a future that we can collectively own and strive towards in this new normal. Download the OneService app and participate in the Singapore Together Emerging Stronger Conversation survey today. You can also join our virtual Singapore Together Emerging Stronger Conversations to engage with others and discuss on topics together. Sign up [here](https://go.gov.sg/ESconversations){:target="_blank"}.
-
-Download the OneService app
-![Play Store](/images/playstore-esc-survey.png){: .img-responsive} 
-[Play Store](https://go.gov.sg/mnd-osa){:target="_blank"}  
-![Apple Store](/images/appstore-esc-survey.png){: .img-responsive} 
-[Apple Store](https://go.gov.sg/mnd-osi){:target="_blank"}  
-&nbsp;
-
 ### Ministry of Home Affairs' Emerging Stronger Conversations x Yellow Ribbon SG - Beyond Second Chances on 29 Sep 2020
 
 Covid-19 has changed the norms and brought about many challenges to our nation. There are many amongst us whose lives have been affected by this pandemic, and the ex-offenders are not spared from this. By supporting and encouraging the vulnerable in our midst, we will emerge stronger to become a more caring, cohesive and resilient society. The Emerging Stronger Conversations organised by Yellow Ribbon Singapore seeks to initiate conversations on the likely threats and opportunities when we reintegrate an ex-offender back into our fold. Embracing the ex-offenders back into our neighborhood and workplace are necessary steps to take in building a more inclusive and cohesive society.
@@ -51,67 +36,35 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
-#### Feeling like you're going out of your mind? Consider your mindset  
+#### The importance of celebrating small wins during COVID-19 times  
 
-A change in your mindset may be key in helping you learn from your mistakes. In an effort to understand how we can develop resilience through our setbacks, author Alina Tugend takes a look at what it means to foster a growth mindset and how it allows us to gain new skills and opportunities. 
+You might not think that reorganising a closet or finishing a book are things to shout about, but these are examples of progress we should pat ourselves on the back for. Find out how celebrating accomplishments, no matter how small, can impact our happiness, self-efficacy and productivity!
 
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/feeling-like-you-re-going-out-of-your-mind-consider-your-mindset-13018322){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### Do you have ‘mask breath’? How to fix it or find out if it’s something more serious 
-
-Now that we are wearing our face masks for prolonged periods, some of us might be more acutely aware of our breath — bad breath, that is. Health experts weigh in on why donning a mask might affect your breath, and give tips on how you can remedy it! 
-
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/face-mask-bad-breath-halitosis-12925246){:target="_blank"}
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/the-importance-of-celebrating-small-wins-during-covid-19-times-13030052){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
-#### They Survived Retrenchment, You Will Too  
+#### Here are some tips on job hunting in a downturn. First, reach out directly to the boss 
 
-Losing your job can be upsetting. In a time where uncertainty is the new normal, what are the steps you can take to emerge stronger from this setback? Find out from those who were retrenched about how they seized opportunities and turned things around. 
+For author Roger Phua, reaching out directly to head honchos of companies landed him jobs, even though he was searching for employment during difficult times. Learn from his experiences and pick up strategies on how to stand out when applying for your next role. 
 
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/they-survived-retrenchment-too/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs </div>
-
-#### The Art of Being a Better Co-worker: Ways to Improve Relationships at Work 
-
-Having good relationships at work can increase our job satisfaction and overall well-being. From checking in with our teammates to showing appreciation, here are some ways we can be better co-workers and create a positive work environment! 
-
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/art-being-better-co-worker-ways-improve-relationships-work/){:target="_blank"}
+Source: [Today](https://www.todayonline.com/commentary/here-are-some-job-hunting-tips-first-reach-out-boss-directly){:target="_blank"}
 
 <div class="heading-pillar">Making Connections </div>
 
-#### Gen Y Speaks: I am disabled but tech takes me to the world and brings the world to me    
+#### My friend, the frontliner     
 
-University student Jonathan Tiong isn’t letting spinal muscular atrophy stop him from going places. With the aid of technology, he is able to go to school, explore the world and make meaningful connections. He shares his story about navigating life and how he’s looking forward to new tech.  
+What’s it like for a doctor to care for COVID-19 patients? Writer Karun S’Baram checks in with his friend Dr Soma to find out how he has been coping since the virus disrupted our lives. The father of three, who had to stay away from home in the first few weeks of the Circuit Breaker period, shares how he handles the daily grind and what motivates him to press on.  
 
-Source: [Today](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-tech-brings-world-to-me){:target="_blank"}
-
-<div class="heading-pillar">Making Connections </div>
-
-#### 7 Helpful Strategies to Support Seniors  
-
-Those above 60 might face a tougher time riding out this pandemic, especially if they have health problems or are socially isolated. Here are seven steps you can take to support and engage seniors who might need a helping hand. 
-
-Source: [Stay Prepared](https://stayprepared.sg/mymentalhealth/articles/7-helpful-strategies-to-support-seniors/){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/my-friend-the-frontliner/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>
 
-#### Childhood cancer survivor works two jobs during Covid-19, volunteers to help the needy 
+#### Under-35 and jobless: S'poreans turn to side hustles, self-improvement while waiting to land a full-time job  
 
-Nazri Arshad believes the only way to conquer his problems is to face them head-on. At 23, he has dealt with challenges not many his age would have — battling leukaemia at 16 and now, he has taken on part-time jobs to support his family. Learn how he stays positive and finds time to help out others as well.  
+No job, no matter. Young Singaporeans are making the most of their time as they wait out the poor job market. From upgrading their skill sets to turning their hobbies into a business, many are adapting the best they can. Be inspired by their resilience and find out what recruiters have to say about settling for any job. 
 
-Source: [The Pride](https://pride.kindness.sg/childhood-cancer-survivor-works-two-jobs-and-volunteers/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>
-
-#### Building a kampung of trust: Women helping women with a win-win childcare solution 
-
-Daughters of Tomorrow, a charity that helps women from low-income families find employment, came up with a babysitting programme so that mothers can go to work with greater peace of mind. This heartwarming story shines a spotlight on the people who made the Community Childminding Network a successful resource. 
-
-Source: [The Pride](https://pride.kindness.sg/a-win-win-childcare-solution/){:target="_blank"}
+Source: [Today](https://www.todayonline.com/singapore/under-35-and-jobless-singaporeans-turn-side-hustles-self-improvement-while-waiting-land){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
