@@ -30,6 +30,14 @@ Join in our conversation, sign up [here](https://form.gov.sg/5f58b35d416cf100119
 
 &nbsp;
 
+### National Environment Agency's Citizens Workgroup on Reducing Excessive Consumption of Disposables
+
+“What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views or join in one of NEA's workgroup sessions to address this challenge statement.
+
+Connect with us [here](https://form.gov.sg/5f58b35d416cf100119772d0){:target="_blank"}!
+
+&nbsp;
+
 ![Trending conversations](/images/speak-header-2.jpg)
 
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
