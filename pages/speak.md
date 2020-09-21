@@ -17,6 +17,7 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 Interested to know what Singaporeans shared at the Singapore Together ESC sessions so far? Download the infographics to find out more.
 
+[SG Together ESC sessions (23 August - 5 September 2020)](/files/Singapore_Together_Infographics_Series_3.pdf){:target="_blank"}  
 [SG Together ESC sessions (7 - 22 August 2020)](/files/Singapore_Together_Infographics_Series_2.pdf){:target="_blank"}  
 [SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
 
@@ -34,7 +35,7 @@ Join in our conversation, sign up [here](https://form.gov.sg/5f58b35d416cf100119
 
 “What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views or join in one of NEA's workgroup sessions to address this challenge statement.
 
-Connect with us [here](https://form.gov.sg/5f58b35d416cf100119772d0){:target="_blank"}!
+Connect with us [here](https://www.cgs.gov.sg/citizensworkgroup/share-your-views){:target="_blank"}!
 
 &nbsp;
 
