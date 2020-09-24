@@ -8,7 +8,7 @@ sections:
         title: Singapore Together
         subtitle: Together, we will emerge stronger. 
         button: Join the Conversations
-        url: https://form.gov.sg/#!/5ef88706ef922700113f577a
+        url: https://go.gov.sg/esconversations
         background: /images/Banner.jpg
         key_highlights:
             - title: Singapore Together
