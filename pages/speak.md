@@ -45,11 +45,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Understanding Mental Health Treatments   
+
+Having to care for a loved one with a mental health condition might be overwhelming, so here’s a handy guide to help you prepare for the road ahead. Learn more about the treatment options available and how you can support them on their journey to recovery. 
+
+Source: [Stay Prepared](https://stayprepared.sg/mymentalhealth/articles/understanding-mental-health-treatments/){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### The importance of celebrating small wins during COVID-19 times  
 
 You might not think that reorganising a closet or finishing a book are things to shout about, but these are examples of progress we should pat ourselves on the back for. Find out how celebrating accomplishments, no matter how small, can impact our happiness, self-efficacy and productivity!
 
 Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/the-importance-of-celebrating-small-wins-during-covid-19-times-13030052){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs </div>
+
+#### Passion Vs Paycheque: These Singaporeans Ditched A Salary To Pursue Their Dreams 
+
+Can you get paid to do what you love? We don’t always have to choose between having a well-paying job or chasing our dreams. Find out how these three Singaporeans left the rat race and started thriving careers they love. 
+
+Source: [My Careers Future](https://content.mycareersfuture.gov.sg/passion-vs-paycheque-these-singaporeans-ditched-salary-pursue-dreams/){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
@@ -61,11 +77,27 @@ Source: [Today](https://www.todayonline.com/commentary/here-are-some-job-hunting
 
 <div class="heading-pillar">Making Connections </div>
 
+#### Digital ambassadors: A new job to make a difference      
+
+From helping seniors learn how to make e-payments to imparting digital skills to hawkers, these Digital Ambassadors are changing the lives of seniors. Check out how they are helping older folk make full use of their mobile devices under the Seniors Go Digital programme.  
+
+Source: [Gov.sg](https://www.gov.sg/article/digital-ambassadors---a-new-job-to-make-a-difference){:target="_blank"}
+
+<div class="heading-pillar">Making Connections </div>
+
 #### My friend, the frontliner     
 
 What’s it like for a doctor to care for COVID-19 patients? Writer Karun S’Baram checks in with his friend Dr Soma to find out how he has been coping since the virus disrupted our lives. The father of three, who had to stay away from home in the first few weeks of the Circuit Breaker period, shares how he handles the daily grind and what motivates him to press on.  
 
 Source: [The Pride](https://pride.kindness.sg/my-friend-the-frontliner/){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>
+
+#### These youths write personalised cards to remind the elderly that they are not alone, and so can you   
+
+With more seniors facing social isolation, Jaslyn Muk and Joanne Yep roped in four friends to raise awareness about this issue. Discover how their non-profit initiative, Hey, You Got Mail!, is spreading love to our elders through handwritten, personalised letters. Find out how you too can make someone’s day! 
+
+Source: [The Pride](https://pride.kindness.sg/youths-write-postcards-remind-elderly-they-are-not-alone-so-can-you/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>
 
