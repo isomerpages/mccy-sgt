@@ -6,6 +6,22 @@ permalink: /reflect/stories
 
 These are stories from Singaporeans who sent us their COVID-19 reflections. Share your stories [here](/reflect).
 
+*Contributed by Veen Seah, 35, homemaker:*
+ 
+During the Circuit Breaker period, wet market stallholders and hawkers were working, providing us with fresh groceries and cooked food. Many of them are older seniors. I am filled with respect towards them, and I admire their resilient spirit. Although many people were working from home, and the government guidelines were for seniors to stay home and stay safe, these elderly stallholders and hawkers were working long hours, toiling to earn a living, and to provide us with essential services - food!
+ 
+**<span class="has-text-secondary">I hope that</span>** we, as a society, are more appreciative - be prepared to pay higher prices and service fees for both raw and cooked food, so that market stallholders and hawkers can be fairly compensated for their work, and enjoy a decent wage/standard of living. I am doing my small part, by buying fresh food from the wet market and some hawker food on a weekly basis. 
+
+&nbsp;
+
+*Contributed by Oh Siew May, 49, writer of Scaling Walls - My Story, speaker and voice for the special needs:*
+ 
+Being born with cerebral palsy does not stop me from getting my dream come true. I published a book about my life journey. I hope to create more awareness for special needs. People always have the wrong impression of people with disabilities. They think if we are born disabled we are unable. I want them to know that we are otherwise. Given a chance, we can also contribute our part to society. I hope to bring hope to both my peers and their parents. I also took part in the vertical marathon together with the YMCA. As an ambassador of YMCA strong Inclusive vertical marathon was really a challenge for me due to my physical condition but this does not stop any of us. YMCA inclusive climbers made it last year. Each of us are different yet you guys made an effort to hear our individual story, understanding the difficulties we face out there. I was always being judged and mistaken for unsound (not being able to communicate, look like alien 👽). This is really a great platform to many who do not bother to understand us. I took part in Relay Majulah Run last year too. Relay Majulah Runners are from all walks of life. This inclusive relay is really all about dreams and supporting one another in many ways as one! Our goal is to raise funds for the 67 charities.
+ 
+**<span class="has-text-secondary">My hope is</span>** to create awareness and more job openings for the disabled. I want to do more to help normal people like yourself to understand us more, so that you all can accept us for who we are. Life is full of challenges but if we never give up, we will see light. Every one is different in a way but when we see beyond the disability you can see the beautiful sight too. No matter how hard life can be now, as long as we stay positive we can be happy when you help others.
+
+&nbsp;
+
 *Contributed by Han Phay, 30, start-up founder:*
  
 This crisis is the perfect foundation for a nation to emerge resilient and strong, with innovation and daring. A entrepreneurial nation built not on traditional metrics of success, but citizens that dare to speak truth to power and try new things never done before. As a startup founder, having been in the entrepreneurial ecosystem has taught me lessons. These lessons showed up in our national crisis too. I see the parallels in our common story. The roadmap of a startup, emerging as our nation faces adversity and risk.

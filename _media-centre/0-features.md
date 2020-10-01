@@ -8,6 +8,8 @@ permalink: /media-centre/featured-stories
 
 ### Singapore Together Emerging Stronger Conversations
 
+**5-9 Sep 2020:** “How can we foster greater inclusivity as a community and as a nation?”. This is the main theme brought up by the participants at the Singapore Together Emerging Stronger Conversations. Read more [here](/media-centre/featured-stories/SGTESC6).
+
 **22 Aug 2020:** “How can we lend our support to build a better Singapore for all?” [Read on](/media-centre/featured-stories/SGTESC5) for more excerpts from the participants at the Singapore Together Emerging Stronger Conversations about their visions towards a better Singapore.
 
 **15 Aug 2020:** “How can we bounce back stronger and work better together?” Views may differ, but they all strive towards a common goal. Hear the voices of participants at the ESC session [here](/media-centre/featured-stories/SGTESC4).
