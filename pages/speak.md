@@ -107,6 +107,30 @@ What’s it like for a doctor to care for COVID-19 patients? Writer Karun S’Ba
 
 Source: [The Pride](https://pride.kindness.sg/my-friend-the-frontliner/){:target="_blank"}
 
+<div class="heading-pillar">Building Our Community</div>  
+
+#### Emerging Stronger Conversations: Sessions in more languages soon, will include people with disabilities
+
+Our conversations will lead to action. We encourage Singaporeans to sign up for upcoming ESC sessions, which will be available in other languages, and include persons with disabilities. Everyone has a part to play in Singapore's future. Step forward today! Find out more here.
+
+Source: [The Straits Times](https://www.straitstimes.com/politics/sessions-in-more-languages-soon-will-include-people-with-disabilities){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### Emerging Stronger Conversations: Bringing together voices to build more resilient society
+
+Learn more here about the process and thinking behind the ESCs, that bring Singaporeans together amidst Covid-19, to talk about our collective hopes, reflections and ideas to build the Singapore we want to become.
+
+Source: [The Straits Times](https://www.straitstimes.com/politics/bringing-together-voices-to-build-more-resilient-society){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### What facilitators and participants say about Emerging Stronger Conversations
+
+Read more here about the experiences of an ESC facilitator and participants, what inspired them during the ESCs and what they uncovered about one another's dreams and hopes for Singapore as we forge ahead.
+
+Source: [The Straits Times](https://www.straitstimes.com/politics/what-facilitators-and-participants-say-about-esc){:target="_blank"}
+
 <div class="heading-pillar">Building Our Community</div>
 
 #### Singapore: The mums asking suicidal teens to ‘please stay’ 
@@ -137,32 +161,6 @@ Source: [Today](https://www.todayonline.com/singapore/under-35-and-jobless-singa
 Inspired by his time working at the Singapore Boys’ Hostel, Joshua Tay wanted to be there for these youths after they left the hostel. Together with his friends, he founded Impart, a non-profit organisation that helps at-risk youth reintegrate into society. If you have an idea to start something like Joshua, tap on the Our Singapore Fund to make your ground-up initiative come alive!
 
 Source: [Mothership](https://mothership.sg/2020/07/joshua-tay-impart-singapore-together/){:target="_blank"}
-
-&nbsp;
-
-#### Emerging Stronger Conversations: Sessions in more languages soon, will include people with disabilities
-
-Our conversations will lead to action. We encourage Singaporeans to sign up for upcoming ESC sessions, which will be available in other languages, and include persons with disabilities. Everyone has a part to play in Singapore's future. Step forward today! Find out more here.
-
-Source: [The Straits Times](https://www.straitstimes.com/politics/sessions-in-more-languages-soon-will-include-people-with-disabilities){:target="_blank"}
-
-&nbsp;
-
-#### Emerging Stronger Conversations: Bringing together voices to build more resilient society
-
-Learn more here about the process and thinking behind the ESCs, that bring Singaporeans together amidst Covid-19, to talk about our collective hopes, reflections and ideas to build the Singapore we want to become.
-
-Source: [The Straits Times](https://www.straitstimes.com/politics/bringing-together-voices-to-build-more-resilient-society){:target="_blank"}
-
-&nbsp;
-
-Title
-
-#### What facilitators and participants say about Emerging Stronger Conversations
-
-Read more here about the experiences of an ESC facilitator and participants, what inspired them during the ESCs and what they uncovered about one another's dreams and hopes for Singapore as we forge ahead.
-
-Source: [The Straits Times](https://www.straitstimes.com/politics/what-facilitators-and-participants-say-about-esc){:target="_blank"}
 
 &nbsp;
 
