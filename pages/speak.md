@@ -23,14 +23,6 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 
 &nbsp;
 
-### Ministry of Home Affairs' Emerging Stronger Conversations x Yellow Ribbon SG - Beyond Second Chances on 29 Sep 2020
-
-Covid-19 has changed the norms and brought about many challenges to our nation. There are many amongst us whose lives have been affected by this pandemic, and the ex-offenders are not spared from this. By supporting and encouraging the vulnerable in our midst, we will emerge stronger to become a more caring, cohesive and resilient society. The Emerging Stronger Conversations organised by Yellow Ribbon Singapore seeks to initiate conversations on the likely threats and opportunities when we reintegrate an ex-offender back into our fold. Embracing the ex-offenders back into our neighborhood and workplace are necessary steps to take in building a more inclusive and cohesive society.
-
-Join in our conversation, sign up [here](https://form.gov.sg/5f58b35d416cf100119772d0){:target="_blank"}
-
-&nbsp;
-
 ### National Environment Agency's Citizens Workgroup on Reducing Excessive Consumption of Disposables
 
 “What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views or join in one of NEA's workgroup sessions to address this challenge statement.
@@ -45,67 +37,59 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
-#### Understanding Mental Health Treatments   
+#### The pandemic of work-from-home injuries: Causes and solutions   
 
-Having to care for a loved one with a mental health condition might be overwhelming, so here’s a handy guide to help you prepare for the road ahead. Learn more about the treatment options available and how you can support them on their journey to recovery. 
+If you’re reading this while working from home, you’ve probably experienced some form of physical discomfort due to prolonged inactivity. Thankfully this chiropractor has some solutions. Check out these quick fixes to improve your posture at your new work arrangement.
 
-Source: [Stay Prepared](https://stayprepared.sg/mymentalhealth/articles/understanding-mental-health-treatments/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### The importance of celebrating small wins during COVID-19 times  
-
-You might not think that reorganising a closet or finishing a book are things to shout about, but these are examples of progress we should pat ourselves on the back for. Find out how celebrating accomplishments, no matter how small, can impact our happiness, self-efficacy and productivity!
-
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/the-importance-of-celebrating-small-wins-during-covid-19-times-13030052){:target="_blank"}
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/the-pandemic-of-work-from-home-injuries-13084344){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
-#### Passion Vs Paycheque: These Singaporeans Ditched A Salary To Pursue Their Dreams 
+#### How to dress right for an online job interview to make the best impression 
 
-Can you get paid to do what you love? We don’t always have to choose between having a well-paying job or chasing our dreams. Find out how these three Singaporeans left the rat race and started thriving careers they love. 
+The etiquette rules for job interviews have changed. With more of them being conducted online, there are new points on style and presentation that jobseekers should take note of. Here’s your handy checklist with simple tips on how to ace your next online job interview.  
 
-Source: [My Careers Future](https://content.mycareersfuture.gov.sg/passion-vs-paycheque-these-singaporeans-ditched-salary-pursue-dreams/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs </div>
-
-#### Here are some tips on job hunting in a downturn. First, reach out directly to the boss 
-
-For author Roger Phua, reaching out directly to head honchos of companies landed him jobs, even though he was searching for employment during difficult times. Learn from his experiences and pick up strategies on how to stand out when applying for your next role. 
-
-Source: [Today](https://www.todayonline.com/commentary/here-are-some-job-hunting-tips-first-reach-out-boss-directly){:target="_blank"}
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/style/how-to-dress-for-an-online-job-interview-13117364){:target="_blank"}
 
 <div class="heading-pillar">Making Connections </div>
 
-#### Digital ambassadors: A new job to make a difference      
+#### Seniors Share 6 Tips on How to Live a Life with Purpose      
 
-From helping seniors learn how to make e-payments to imparting digital skills to hawkers, these Digital Ambassadors are changing the lives of seniors. Check out how they are helping older folk make full use of their mobile devices under the Seniors Go Digital programme.  
+What is the purpose of life? The answer to this essential question can in fact raise your happiness, alleviate loneliness and boost your sense of well-being. Hear from these three retirees who share the answers they’ve found to help you on your journey to find your life’s purpose. 
 
-Source: [Gov.sg](https://www.gov.sg/article/digital-ambassadors---a-new-job-to-make-a-difference){:target="_blank"}
+Source: [Stay Prepared](https://stayprepared.sg/mymentalhealth/articles/seniors-share-6-tips-on-how-to-live-a-life-with-purpose/){:target="_blank"}
 
-<div class="heading-pillar">Making Connections </div>
+<div class="heading-pillar">Building Our Community</div>  
 
-#### My friend, the frontliner     
+#### Emerging Stronger Conversations: Sessions in more languages soon, will include people with disabilities
 
-What’s it like for a doctor to care for COVID-19 patients? Writer Karun S’Baram checks in with his friend Dr Soma to find out how he has been coping since the virus disrupted our lives. The father of three, who had to stay away from home in the first few weeks of the Circuit Breaker period, shares how he handles the daily grind and what motivates him to press on.  
+Our conversations will lead to action. We encourage Singaporeans to sign up for upcoming ESC sessions, which will be available in other languages, and include persons with disabilities. Everyone has a part to play in Singapore's future. Step forward today! Find out more here.
 
-Source: [The Pride](https://pride.kindness.sg/my-friend-the-frontliner/){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/politics/sessions-in-more-languages-soon-will-include-people-with-disabilities){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### Emerging Stronger Conversations: Bringing together voices to build more resilient society
+
+Learn more here about the process and thinking behind the ESCs, that bring Singaporeans together amidst Covid-19, to talk about our collective hopes, reflections and ideas to build the Singapore we want to become.
+
+Source: [The Straits Times](https://www.straitstimes.com/politics/bringing-together-voices-to-build-more-resilient-society){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### What facilitators and participants say about Emerging Stronger Conversations
+
+Read more here about the experiences of an ESC facilitator and participants, what inspired them during the ESCs and what they uncovered about one another's dreams and hopes for Singapore as we forge ahead.
+
+Source: [The Straits Times](https://www.straitstimes.com/politics/what-facilitators-and-participants-say-about-esc){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>
 
-#### These youths write personalised cards to remind the elderly that they are not alone, and so can you   
+#### Singapore: The mums asking suicidal teens to ‘please stay’ 
 
-With more seniors facing social isolation, Jaslyn Muk and Joanne Yep roped in four friends to raise awareness about this issue. Discover how their non-profit initiative, Hey, You Got Mail!, is spreading love to our elders through handwritten, personalised letters. Find out how you too can make someone’s day! 
+After losing their children to suicide, this group of mothers decided to form a suicide prevention movement. Providing support to children at risk of self-harm is one of the key messages of the advocacy group ‘PleaseStay.Movement’. Learn the origins of this initiative and find out how it has garnered international attention.
 
-Source: [The Pride](https://pride.kindness.sg/youths-write-postcards-remind-elderly-they-are-not-alone-so-can-you/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>
-
-#### Under-35 and jobless: S'poreans turn to side hustles, self-improvement while waiting to land a full-time job  
-
-No job, no matter. Young Singaporeans are making the most of their time as they wait out the poor job market. From upgrading their skill sets to turning their hobbies into a business, many are adapting the best they can. Be inspired by their resilience and find out what recruiters have to say about settling for any job. 
-
-Source: [Today](https://www.todayonline.com/singapore/under-35-and-jobless-singaporeans-turn-side-hustles-self-improvement-while-waiting-land){:target="_blank"}
+Source: [BBC](https://www.bbc.com/news/av/world-asia-54068937){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
