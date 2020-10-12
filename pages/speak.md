@@ -17,6 +17,7 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 Interested to know what Singaporeans shared at the Singapore Together ESC sessions so far? Download the infographics to find out more.
 
+[SG Together ESC sessions (6 - 18 September 2020)](/files/Singapore_Together_Infographics_Series_4.pdf){:target="_blank"}  
 [SG Together ESC sessions (23 August - 5 September 2020)](/files/Singapore_Together_Infographics_Series_3.pdf){:target="_blank"}  
 [SG Together ESC sessions (7 - 22 August 2020)](/files/Singapore_Together_Infographics_Series_2.pdf){:target="_blank"}  
 [SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
@@ -37,11 +38,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Work in office, from home, or both? Hybrid work has potential and pitfalls, say experts   
+
+Work arrangements are getting a makeover in the new normal. As more people return to their workplaces, companies are rethinking how employees can be empowered to work flexibly from home or the office. Experts share best practices that can help you work independently.
+
+Source: [CNA](https://www.channelnewsasia.com/news/singapore/singapore-working-from-home-office-covid-19-13143976){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### The pandemic of work-from-home injuries: Causes and solutions   
 
 If you’re reading this while working from home, you’ve probably experienced some form of physical discomfort due to prolonged inactivity. Thankfully this chiropractor has some solutions. Check out these quick fixes to improve your posture at your new work arrangement.
 
 Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/the-pandemic-of-work-from-home-injuries-13084344){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs </div>
+
+#### 6 Tips for Better Mental Health if You’re Currently Unemployed 
+
+Is your job search getting you down? Finding a job is no easy feat and sometimes it can even take a toll on your mental well-being. If you’re feeling stuck, check of some of these tips to help you stay strong and put your best foot forward.
+
+Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/6-tips-better-mental-health-currently-unemployed/){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
@@ -53,11 +70,27 @@ Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/style/how-to-dr
 
 <div class="heading-pillar">Making Connections </div>
 
+#### How to deal with friendships during these difficult times     
+
+If you feel your friendship has run its course, perhaps it’s time to let it go. It’s normal for even the closest of bonds to falter due to a lack of communication or time spent together, especially when many of us are still practising social distancing. Author and connection coach Kat Vellos teaches us how we can heal and strengthen our friendships.
+
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/trending/how-to-deal-with-friendships-during-these-difficult-times-13145562){:target="_blank"}
+
+<div class="heading-pillar">Making Connections </div>
+
 #### Seniors Share 6 Tips on How to Live a Life with Purpose      
 
 What is the purpose of life? The answer to this essential question can in fact raise your happiness, alleviate loneliness and boost your sense of well-being. Hear from these three retirees who share the answers they’ve found to help you on your journey to find your life’s purpose. 
 
 Source: [Stay Prepared](https://stayprepared.sg/mymentalhealth/articles/seniors-share-6-tips-on-how-to-live-a-life-with-purpose/){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### Would you like to learn how to cook from this 85-year-old great grandma?
+
+At Apex Harmony Lodge, people with dementia are taught to express themselves creatively. Through a cooking show on Facebook Live, Madam See is able to rise above her condition and flex her culinary skills. Find out more about her life story as she charms viewers with her signature ondeh-ondeh recipe. 
+
+Source: [The Pride](https://pride.kindness.sg/learn-to-cook-85-year-old-great-grandma-with-dementia/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
