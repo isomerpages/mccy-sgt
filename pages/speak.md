@@ -26,7 +26,7 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 
 ### Building Harmonious Relationships with Our Neighbours in the New Normal
 
-![MSO](/images/MSO-neighours.jpg)
+![MSO](/images/MSO-neighbours.jpg)
 Source: Municipal Services Office
 
 Have you experienced kindness from neighbours while spending more time at home during this period? Join Ms Sim Ann, Senior Minister of State, Ministry of Communications and Information & Ministry for National Development, and fellow participants to share your experiences and hopes at the Singapore Together Emerging Stronger Conversations on Building Harmonious Relationships with Our Neighbours in the New Normal on 31 Oct (Sat), 9:30am over Zoom.
