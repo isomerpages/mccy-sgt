@@ -8,6 +8,8 @@ permalink: /media-centre/featured-stories
 
 ### Singapore Together Emerging Stronger Conversations
 
+**12 Sep 2020:** “How do we create an inclusive, equal opportunity society for all Singaporeans?” Hear about the views and ideas on strengthening Singapore’s social fabric from participants at this Singapore Together Emerging Stronger Conversations [here](/media-centre/featured-stories/SGTESC7).
+
 **5-9 Sep 2020:** “How can we foster greater inclusivity as a community and as a nation?” Read more about what our Singapore Together Emerging Stronger Conversations participants shared [here](/media-centre/featured-stories/SGTESC6).
 
 **22 Aug 2020:** “How can we lend our support to build a better Singapore for all?” [Read on](/media-centre/featured-stories/SGTESC5) for more excerpts from the participants at the Singapore Together Emerging Stronger Conversations about their visions towards a better Singapore.
