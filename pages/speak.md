@@ -38,59 +38,35 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
-#### Work in office, from home, or both? Hybrid work has potential and pitfalls, say experts   
+#### Your Say: Managing Your Screen-Life Balance While Working From Home  
 
-Work arrangements are getting a makeover in the new normal. As more people return to their workplaces, companies are rethinking how employees can be empowered to work flexibly from home or the office. Experts share best practices that can help you work independently.
+Find yourself staring at screens for long hours? Giving your eyes a break and setting aside time for other recreational activities are some easy ways you can boost your physical and mental health. Public officers share their tips on how to maximise your time away from the screen.
 
-Source: [CNA](https://www.channelnewsasia.com/news/singapore/singapore-working-from-home-office-covid-19-13143976){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### The pandemic of work-from-home injuries: Causes and solutions   
-
-If you’re reading this while working from home, you’ve probably experienced some form of physical discomfort due to prolonged inactivity. Thankfully this chiropractor has some solutions. Check out these quick fixes to improve your posture at your new work arrangement.
-
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/the-pandemic-of-work-from-home-injuries-13084344){:target="_blank"}
+Source: [Challenge](https://www.psd.gov.sg/challenge/ideas/your-say/your-say-managing-your-screen-life-balance-while-working-from-home){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
-#### 6 Tips for Better Mental Health if You’re Currently Unemployed 
+#### Top Soft Skills Employers Value in Fresh Graduates
 
-Is your job search getting you down? Finding a job is no easy feat and sometimes it can even take a toll on your mental well-being. If you’re feeling stuck, check of some of these tips to help you stay strong and put your best foot forward.
+Finding your first job doesn’t have to be hard! The soft skills you already possess can be a selling point to recruiters and help you stand out from the crowd. Read on to discover what non-technical skills employers are looking out for in young job seekers. 
 
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/6-tips-better-mental-health-currently-unemployed/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs </div>
-
-#### How to dress right for an online job interview to make the best impression 
-
-The etiquette rules for job interviews have changed. With more of them being conducted online, there are new points on style and presentation that jobseekers should take note of. Here’s your handy checklist with simple tips on how to ace your next online job interview.  
-
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/style/how-to-dress-for-an-online-job-interview-13117364){:target="_blank"}
+Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/top-soft-skills-employers-value-fresh-graduates/){:target="_blank"}
 
 <div class="heading-pillar">Making Connections </div>
 
-#### How to deal with friendships during these difficult times     
+#### These five local artists just want to inspire kindness, one drawing at a time     
 
-If you feel your friendship has run its course, perhaps it’s time to let it go. It’s normal for even the closest of bonds to falter due to a lack of communication or time spent together, especially when many of us are still practising social distancing. Author and connection coach Kat Vellos teaches us how we can heal and strengthen our friendships.
+For some local illustrators, art is more than just food for the soul. Creating drawings and illustrations can also highlight important social issues, support a good cause and inspire kindness from strangers around the world. Hear from these artists about the inspiration behind their artworks.
 
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/trending/how-to-deal-with-friendships-during-these-difficult-times-13145562){:target="_blank"}
-
-<div class="heading-pillar">Making Connections </div>
-
-#### Seniors Share 6 Tips on How to Live a Life with Purpose      
-
-What is the purpose of life? The answer to this essential question can in fact raise your happiness, alleviate loneliness and boost your sense of well-being. Hear from these three retirees who share the answers they’ve found to help you on your journey to find your life’s purpose. 
-
-Source: [Stay Prepared](https://stayprepared.sg/mymentalhealth/articles/seniors-share-6-tips-on-how-to-live-a-life-with-purpose/){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/the-pride-5-local-artists-inspire-kindness-one-drawing-at-a-time/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
-#### Would you like to learn how to cook from this 85-year-old great grandma?
+#### ‘Take what you need’: Group of friends set up free food pantry in Yishun for the needy
 
-At Apex Harmony Lodge, people with dementia are taught to express themselves creatively. Through a cooking show on Facebook Live, Madam See is able to rise above her condition and flex her culinary skills. Find out more about her life story as she charms viewers with her signature ondeh-ondeh recipe. 
+Paying it forward with groceries. The founders of The Jumaat Initiative are helping their lower-income neighbours put food on the table during this trying time. They started by placing a shelf at a void deck, stocked with food — free for anyone to take. Find out more about how they brought a community, and even strangers, together. 
 
-Source: [The Pride](https://pride.kindness.sg/learn-to-cook-85-year-old-great-grandma-with-dementia/){:target="_blank"}
+Source: [AsiaOne](https://www.asiaone.com/singapore/take-what-you-need-group-friends-set-free-food-pantry-yishun-needy){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
@@ -115,14 +91,6 @@ Source: [The Straits Times](https://www.straitstimes.com/politics/bringing-toget
 Read more here about the experiences of an ESC facilitator and participants, what inspired them during the ESCs and what they uncovered about one another's dreams and hopes for Singapore as we forge ahead.
 
 Source: [The Straits Times](https://www.straitstimes.com/politics/what-facilitators-and-participants-say-about-esc){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>
-
-#### Singapore: The mums asking suicidal teens to ‘please stay’ 
-
-After losing their children to suicide, this group of mothers decided to form a suicide prevention movement. Providing support to children at risk of self-harm is one of the key messages of the advocacy group ‘PleaseStay.Movement’. Learn the origins of this initiative and find out how it has garnered international attention.
-
-Source: [BBC](https://www.bbc.com/news/av/world-asia-54068937){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
