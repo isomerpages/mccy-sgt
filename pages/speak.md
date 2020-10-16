@@ -38,7 +38,7 @@ Join our discussion [here](https://www.go.gov.sg/escxmso){:target="_blank"}.
 
 With COVID-19 impacting our lives, what lessions can we draw from it and how can we work together to chart a new way forward for our children and youths to continue learning for life, and learning from life? Join the Ministry of Education's series of online conversations to share your hopes for our children and youths, and how we can create a better future for Singapore together.
 
-29 Oct (Thu), 7pm – 9:30pm
+29 Oct (Thu), 7pm – 9:30pm <br>
 31 Oct, (Sun), 9:30am – 12pm
 
 Register for the sessions [here](https://www.go.gov.sg/moeesc){:target="_blank"}!
@@ -50,7 +50,7 @@ Register for the sessions [here](https://www.go.gov.sg/moeesc){:target="_blank"}
 
 Connect with us [here](https://www.cgs.gov.sg/citizensworkgroup/share-your-views){:target="_blank"}!
 
-
+&nbsp;
 
 ![Trending conversations](/images/speak-header-2.jpg)
 
