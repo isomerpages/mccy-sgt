@@ -58,11 +58,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### How to deal with eczema if wearing masks and washing hands make you itch  
+
+Experiencing more frequent eczema flare-ups? Doctors have attributed a recent rise in such issues to people wearing tight-fitting masks, slathering on sanitisers and frequent handwashing. Dermatologists share their tips on how to take special care of your skin.
+
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/eczema-covid-19-face-mask-hand-washing-sanitiser-effects-13230346){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Your Say: Managing Your Screen-Life Balance While Working From Home  
 
 Find yourself staring at screens for long hours? Giving your eyes a break and setting aside time for other recreational activities are some easy ways you can boost your physical and mental health. Public officers share their tips on how to maximise your time away from the screen.
 
 Source: [Challenge](https://www.psd.gov.sg/challenge/ideas/your-say/your-say-managing-your-screen-life-balance-while-working-from-home){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs </div>
+
+#### Starting A New Job Remotely? Here Are Some Tips to Do So
+
+As working from home continues to be the default arrangement, there are some things you can do to make a good first impression when you start a job. Forming relationships with your colleagues will require more effort so it’s important to be proactive in getting to know each other. Here are some useful tips on how to assimilate easily.
+
+Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/starting-new-job-remotely-here-some-tips/){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
@@ -74,11 +90,27 @@ Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/top-soft-skills
 
 <div class="heading-pillar">Making Connections </div>
 
+#### To truly understand our domestic helpers, let’s see life from their perspective   
+
+You never really understand a person until you walk a mile in their shoes. In this video, three employers swop roles with their domestic helpers to better understand the issues that affect their mental well-being. Let’s choose to spread more kindness to our foreign domestic workers and remember that we’re all humans first.
+
+Source: [The Pride](https://pride.kindness.sg/lets-see-life-from-our-domestic-helpers-perspective/){:target="_blank"}
+
+<div class="heading-pillar">Making Connections </div>
+
 #### These five local artists just want to inspire kindness, one drawing at a time     
 
 For some local illustrators, art is more than just food for the soul. Creating drawings and illustrations can also highlight important social issues, support a good cause and inspire kindness from strangers around the world. Hear from these artists about the inspiration behind their artworks.
 
 Source: [The Pride](https://pride.kindness.sg/the-pride-5-local-artists-inspire-kindness-one-drawing-at-a-time/){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### Mum-of-five sets up website, webinar for parents facing family challenges in new normal
+
+How can we support the mental well-being of others during a pandemic? Mums’ Space is a ground-up initiative that seeks to alleviate the stress that many families are experiencing during this period. Find out how founder Junia Tan hopes to start a conversation on family wellness through a lifestyle webinar.  
+
+Source: [The Pride](https://pride.kindness.sg/mums-space-for-parents-facing-family-challenges-in-new-normal/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
