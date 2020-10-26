@@ -22,10 +22,10 @@ permalink: /media-centre/featured-stories
 
 **5 Aug 2020:** “What can we do to foster togetherness and co-create a better Singapore society for you and me?” Ideas poured in from participants at the Singapore Together Emerging Stronger Conversations. Read what some of those ideas are [here](/media-centre/featured-stories/SGTESC2).
 
-**1 Aug 2020:** “How might we emerge from Covid-19 a more caring, cohesive and resilient society?” Let’s hear what some participants of the Singapore Together Emerging Stronger Conversations say here. [here](/media-centre/featured-stories/SGTESC).
+**1 Aug 2020:** “How might we emerge from Covid-19 a more caring, cohesive and resilient society?” Let’s hear what some participants of the Singapore Together Emerging Stronger Conversations say [here](/media-centre/featured-stories/SGTESC).
 
 ### Building a Smart Nation – Training Up Migrant Workers
-[Hear](/media-centre/featured-stories/smart-nation/migrantworkers) Wong Chun Han’s story on how he helped more migrant workers to adapt and adopt essential apps used during the pandemic.
+Read [Wong Chun Han](/media-centre/featured-stories/smart-nation/migrantworkers)’s story on how he helped more migrant workers to adapt and adopt essential apps used during the pandemic.
 
 ### Building a Smart Nation – Seniors Take the Lead
 Find out how some of our seniors have been taking the lead in building a Smart Nation here.
