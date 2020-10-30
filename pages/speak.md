@@ -58,67 +58,35 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
-#### How to deal with eczema if wearing masks and washing hands make you itch  
+#### Can you tell the difference in symptoms between the flu and COVID-19?  
 
-Experiencing more frequent eczema flare-ups? Doctors have attributed a recent rise in such issues to people wearing tight-fitting masks, slathering on sanitisers and frequent handwashing. Dermatologists share their tips on how to take special care of your skin.
+With flu season just around the corner, it might be difficult to tell whether you’ve caught influenza or COVID-19. But fret not! There are tell-tale signs that can help you distinguish between the two. Read on to find out the symptoms you should look out for in children and adults.
 
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/eczema-covid-19-face-mask-hand-washing-sanitiser-effects-13230346){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### Your Say: Managing Your Screen-Life Balance While Working From Home  
-
-Find yourself staring at screens for long hours? Giving your eyes a break and setting aside time for other recreational activities are some easy ways you can boost your physical and mental health. Public officers share their tips on how to maximise your time away from the screen.
-
-Source: [Challenge](https://www.psd.gov.sg/challenge/ideas/your-say/your-say-managing-your-screen-life-balance-while-working-from-home){:target="_blank"}
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/identify-difference-between-flu-and-covid-19-symptoms-13262534){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
-#### Starting A New Job Remotely? Here Are Some Tips to Do So
+#### Things to Keep in Mind When Networking
 
-As working from home continues to be the default arrangement, there are some things you can do to make a good first impression when you start a job. Forming relationships with your colleagues will require more effort so it’s important to be proactive in getting to know each other. Here are some useful tips on how to assimilate easily.
+Networking is not just about exchanging information with others. Nurturing a professional relationship with your contacts might just land you your next job! Career coach Dennis Koh shares some quick tips on how you can reap the benefits of attending networking events. 
 
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/starting-new-job-remotely-here-some-tips/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs </div>
-
-#### Top Soft Skills Employers Value in Fresh Graduates
-
-Finding your first job doesn’t have to be hard! The soft skills you already possess can be a selling point to recruiters and help you stand out from the crowd. Read on to discover what non-technical skills employers are looking out for in young job seekers. 
-
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/top-soft-skills-employers-value-fresh-graduates/){:target="_blank"}
+Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/3-things-to-take-note-when-you-network/){:target="_blank"}
 
 <div class="heading-pillar">Making Connections </div>
 
-#### To truly understand our domestic helpers, let’s see life from their perspective   
+#### 5 Ways to Serve the Community in the Time of Social Distancing   
 
-You never really understand a person until you walk a mile in their shoes. In this video, three employers swop roles with their domestic helpers to better understand the issues that affect their mental well-being. Let’s choose to spread more kindness to our foreign domestic workers and remember that we’re all humans first.
+As we adjust to life in the new normal, it is important that we continue to look out for each other while being socially responsible and staying safe. Lend a helping hand by supporting your neighbours or volunteering your time for a good cause. Here are some ways you can give back to your community.
 
-Source: [The Pride](https://pride.kindness.sg/lets-see-life-from-our-domestic-helpers-perspective/){:target="_blank"}
-
-<div class="heading-pillar">Making Connections </div>
-
-#### These five local artists just want to inspire kindness, one drawing at a time     
-
-For some local illustrators, art is more than just food for the soul. Creating drawings and illustrations can also highlight important social issues, support a good cause and inspire kindness from strangers around the world. Hear from these artists about the inspiration behind their artworks.
-
-Source: [The Pride](https://pride.kindness.sg/the-pride-5-local-artists-inspire-kindness-one-drawing-at-a-time/){:target="_blank"}
+Source: [The SMU Blog](https://blog.smu.edu.sg/smu-categories/5-ways-to-serve-the-community-in-the-time-of-social-distancing/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
-#### Mum-of-five sets up website, webinar for parents facing family challenges in new normal
+#### Unmasking the needs of others
 
-How can we support the mental well-being of others during a pandemic? Mums’ Space is a ground-up initiative that seeks to alleviate the stress that many families are experiencing during this period. Find out how founder Junia Tan hopes to start a conversation on family wellness through a lifestyle webinar.  
+Most of us don’t think twice about wearing a mask these days. It doesn’t hinder our face-to-face communication, but for the Deaf and Hard-of-hearing community, not being able to read lips or see entire facial expressions has been challenging. Married couple Oliver and Amanda Guo started The Simple Deed to fix the problem by producing “clear masks” — and ended up kickstarting a social initiative in the process. Find out how you can too. 
 
-Source: [The Pride](https://pride.kindness.sg/mums-space-for-parents-facing-family-challenges-in-new-normal/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### ‘Take what you need’: Group of friends set up free food pantry in Yishun for the needy
-
-Paying it forward with groceries. The founders of The Jumaat Initiative are helping their lower-income neighbours put food on the table during this trying time. They started by placing a shelf at a void deck, stocked with food — free for anyone to take. Find out more about how they brought a community, and even strangers, together. 
-
-Source: [AsiaOne](https://www.asiaone.com/singapore/take-what-you-need-group-friends-set-free-food-pantry-yishun-needy){:target="_blank"}
+Source: [Gov.sg](https://www.gov.sg/article/unmasking-the-needs-of-others){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
