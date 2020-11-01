@@ -22,7 +22,6 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 [SG Together ESC sessions (7 - 22 August 2020)](/files/Singapore_Together_Infographics_Series_2.pdf){:target="_blank"}  
 [SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
 
-&nbsp;
 
 ### National Environment Agency's Citizens Workgroup on Reducing Excessive Consumption of Disposables
 
