@@ -24,26 +24,6 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 
 &nbsp;
 
-### Building Harmonious Relationships with Our Neighbours in the New Normal
-
-![MSO](/images/MSO-neighbours.jpg)
-Source: Municipal Services Office
-
-Have you experienced kindness from neighbours while spending more time at home during this period? Join Ms Sim Ann, Senior Minister of State, Ministry of Communications and Information & Ministry for National Development, and fellow participants to share your experiences and hopes at the Singapore Together Emerging Stronger Conversations on Building Harmonious Relationships with Our Neighbours in the New Normal on 31 Oct (Sat), 9:30am over Zoom.
-
-Join our discussion [here](https://www.go.gov.sg/escxmso){:target="_blank"}.
-
-
-### What’s Your Take: Learn For Life; Learn From Life
-
-With COVID-19 impacting our lives, what lessons can we draw from it and how can we work together to chart a new way forward for our children and youths to continue learning for life, and learning from life? Join the Ministry of Education's series of online conversations to share your hopes for our children and youths, and how we can create a better future for Singapore together.
-
-29 Oct (Thu), 7pm – 9:30pm <br>
-31 Oct, (Sun), 9:30am – 12pm
-
-Register for the sessions [here](https://www.go.gov.sg/moeesc){:target="_blank"}!
-
-
 ### National Environment Agency's Citizens Workgroup on Reducing Excessive Consumption of Disposables
 
 “What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views or join in one of NEA's workgroup sessions to address this challenge statement.
