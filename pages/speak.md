@@ -27,7 +27,7 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 
 ![Loveale Singapore Project](/images/Dsg-Loveability.gif)
 
-What do we love about Singapore? How can you be a part of it? The Loveable Singapore Project is led by the DesignSingapore Council (Dsg) which hopes to uncover what loveabilty means in Singapore and identify opportunities for interventions by private and public agencies, as well as communities and individuals. 
+What do we love about Singapore? The Loveable Singapore Project is led by the DesignSingapore Council (Dsg) which hopes to uncover what loveabilty means in Singapore and identify opportunities for interventions by private and public agencies, as well as communities and individuals. 
 
 Play your part! Find out more about the project and how to participate [here](https://www.designsingapore.org/initiatives/loveable-singapore-project.html){:target="_blank"}.  
 
