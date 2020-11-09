@@ -48,11 +48,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Achieving Mental Wellness by Practising Mindfulness  
+
+As the year starts to wind down, let’s take a moment to find balance by getting into the habit of practising mindfulness. This technique not only helps you focus your attention on the present but can give your creativity a boost. Read on to learn simple ways you can improve your well-being.
+
+Source: [Health Hub](https://www.healthhub.sg/live-healthy/1193/mindful-about-mindfulness){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Can you tell the difference in symptoms between the flu and COVID-19?  
 
 With flu season just around the corner, it might be difficult to tell whether you’ve caught influenza or COVID-19. But fret not! There are tell-tale signs that can help you distinguish between the two. Read on to find out the symptoms you should look out for in children and adults.
 
 Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/identify-difference-between-flu-and-covid-19-symptoms-13262534){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs </div>
+
+#### Jobseekers’ Diaries: Getting retrenched at the age of 35 moved me out of my comfort zone
+
+Even though he was retrenched because of Covid-19, Darren Ong remained unfazed and continued to press on. To get back on his feet, he sent out multiple job applications and took courses to upskill. Find out how he managed to weather the storm and start a new chapter in his career. 
+
+Source: [TODAY](https://www.todayonline.com/voices/jobseekers-diaries-getting-retrenched-age-35-moved-me-out-my-comfort-zone?fbclid=IwAR1FtYZdi3OVebqG0fIYXEMQmnNnvZQ7oVuWgy2DnSeQTIUhbf1w94emAZ8){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
@@ -64,11 +80,27 @@ Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/3-things-to-tak
 
 <div class="heading-pillar">Making Connections </div>
 
+#### She helps stretch the disabled to reach their full potential   
+
+Leandra Chee is no ordinary yoga teacher. She’s a volunteer at MINDS and conducts weekly sessions for clients with intellectual disability. By learning simple yoga poses and breathing exercises, her clients are able to improve their physical well-being and coordination. Learn more about her volunteering journey and find out how you can help too.
+
+Source: [The Pride](https://pride.kindness.sg/yoga-stretch-disabled-full-potential/){:target="_blank"}
+
+<div class="heading-pillar">Making Connections </div>
+
 #### 5 Ways to Serve the Community in the Time of Social Distancing   
 
 As we adjust to life in the new normal, it is important that we continue to look out for each other while being socially responsible and staying safe. Lend a helping hand by supporting your neighbours or volunteering your time for a good cause. Here are some ways you can give back to your community.
 
 Source: [The SMU Blog](https://blog.smu.edu.sg/smu-categories/5-ways-to-serve-the-community-in-the-time-of-social-distancing/){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### Let’s think of others before we think about ourselves as we prepare for Phase 3
+
+As much as we can’t wait to get to Phase 3, let us take a moment to reflect on the lessons we have learned from the past year. Remember to celebrate our healthcare heroes, continue to look out for the vulnerable in our community and take care of our mental well-being as we transit into the next stage. Covid-19 will be with us for a while, so let’s band together and support each other!
+
+Source: [The Pride](https://pride.kindness.sg/others-before-ourselves-prepare-phase-3/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
