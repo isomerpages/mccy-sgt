@@ -27,6 +27,8 @@ collections:
     output: true
   reflect:
     output: true
+  speak:
+    output: true
     
 resources_name: get-help
 future: true
