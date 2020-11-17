@@ -24,6 +24,9 @@ permalink: /media-centre/featured-stories
 
 **1 Aug 2020:** “How might we emerge from Covid-19 a more caring, cohesive and resilient society?” Let’s hear what some participants of the Singapore Together Emerging Stronger Conversations say [here](/media-centre/featured-stories/SGTESC).
 
+### Building a Smart Nation – Helping Our Seniors Stay Safe During Covid-19
+Smart Nation Ambassador Jamberi Kamis is not letting Covid-19 hinder him from helping seniors to stay safe with technology. Read his piece [here](/media-centre/featured-stories/smart-nation/seniorscovid).  
+
 ### Building a Smart Nation – Training Up Migrant Workers
 Read [Wong Chun Han](/media-centre/featured-stories/smart-nation/migrantworkers)’s story on how he helped more migrant workers to adapt and adopt essential apps used during the pandemic.
 
