@@ -12,7 +12,8 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At
 
 There are upcoming conversations: The next session on **Tue, 24 Nov (7pm-9:30pm)** will focus on essential workers; a Tamil session will be held on **Sat, 28 Nov (3pm-5:30pm)**.
 
-If you know of family members and friends who are keen to sign up for these sessions, please encourage them to sign up. 
+If you know of family members and friends who are keen to sign up for these sessions, please encourage them to sign up.
+
 [Register for the Emerging Stronger Conversations](https://go.gov.sg/esconversations){:target="_blank"}
 
 &nbsp;
