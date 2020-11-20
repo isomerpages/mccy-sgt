@@ -53,11 +53,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Schedule a ‘worry appointment’ – this and other ways to worry mindfully  
+
+We live in unprecedented times, and this has made many of us worry more than ever.  Trying not to worry does not work. So why not schedule time to worry, as you do for physical exercise? Surprisingly, this could have you worrying less. Learn more about it. 
+
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/schedule-a-worry-appointment-and-other-ways-to-worry-13477686){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Why Social Media Detox Might Improve Your Mental Wellbeing   
 
 Do you find yourself well-connected online, but perhaps less so offline? Social media has many benefits in today’s world, but too much screen time could make you less productive and, ironically, even feel disconnected. Here are some tips on how to take a successful social media detox.  
 
 Source: [HealthHub](https://www.healthhub.sg/live-healthy/1345/disconnect-to-reconnect-why-a-social-media-detox-might-be-good-for-you){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs </div>
+
+#### Not your typical matchmaker
+
+As a career coach, Rashidah helps jobseekers find the right programmes to upskill. With social distancing, she recently found herself in need of some new skills too – she had to  learn how to effectively interact with jobseekers online. Read how she rose to the challenge.
+
+Source: [gov.sg](https://www.gov.sg/article/not-your-typical-matchmaker){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
@@ -69,11 +85,27 @@ Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/when-going-gets
 
 <div class="heading-pillar">Making Connections </div>
 
+#### How can we put a smile on someone’s face?   
+
+What does it take to brighten up a stranger’s day? Probably just a simple everyday act of kindness, carried out with little fanfare. Chances are, it will leave you feeling just as good as the person on the receiving end. See how other people have been spreading kindness. 
+
+Source: [The Pride](https://pride.kindness.sg/put-smile-on-someones-face/){:target="_blank"}
+
+<div class="heading-pillar">Making Connections </div>
+
 #### How do you talk to someone who just got retrenched?   
 
 Retrenchments have become an unfortunate side effect of the current pandemic. How do you console someone who’s lost confidence, and is also facing ongoing financial commitments without a regular income? Hear one man’s story and learn how you can lend a listening ear. 
 
 Source: [The Pride](https://pride.kindness.sg/talking-to-someone-who-got-retrenched/){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### The music that kept playing throughout the pandemic
+
+People say music is a language that unites us all. Dick Yip, 72 – with his beloved ukulele – proved that during Singapore’s Circuit Breaker. Helped by his wife Daisy, he learnt how to hold his weekly jamming sessions online.
+
+Source: [gov.sg](https://www.gov.sg/article/the-music-that-kept-playing-throughout-the-pandemic){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
