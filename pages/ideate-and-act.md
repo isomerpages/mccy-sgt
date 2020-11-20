@@ -13,6 +13,7 @@ Do you have ideas for post-COVID-19 community activities? Are you eager to contr
 
 ![What we can do together](/images/ideate-act-header-2.jpg)
 
+&nbsp;
 
 ### 'Singapore Together' is the new Special Category for SG Mark 2021
 
