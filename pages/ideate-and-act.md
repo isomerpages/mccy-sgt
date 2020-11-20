@@ -16,7 +16,7 @@ Do you have ideas for post-COVID-19 community activities? Are you eager to contr
 
 ### 'Singapore Together' is the new Special Category for SG Mark 2021
 
-![SG Mark](/images/SG Mark 2021.mp4){: .img-responsive}
+![SG Mark](/images/SG-Mark-2021.mp4){: .img-responsive}
 *Source: Design Business Chamber Singapore*
 
 The Singapore Good Design Awards has unveiled a new special category for SG Mark 2021 and it is 'Singapore Together'. Call for submissions of design entries is ongoing.
