@@ -1,10 +1,18 @@
 ---
 title: Speeches
-description: One-stop resource for news, press releases, articles, commentary and speeches.
+description: 'One-stop resource for news, press releases, articles, commentary and speeches.'
 permalink: /media-centre/speeches
 ---
-
 ### Speeches
+
+
+|  |  |
+|-|| 
+| 4 Sep 2020 | [Working together across generations (Response to parliamentary question on initiatives to promote inter-generational collaborations on issues facing Singaporeans](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2020/sep/working-together-across-generations)
+| 4 Sep 2020 | [Providing more opportunities for our youths to discuss and act on key issues arising from COVID-19 (Response to parliamentary question on our efforts and upcoming plans to engage youths as Singapore plans for a post COVID-19 world)](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2020/sep/providing-more-opportunities-for-our-youths)
+|29 Aug 2020 | Minister for Foreign Affairs Dr Vivian Balakrishnan's [Live Interview on Channel 5's News 5, 28 August 2020](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2020/08/20200829-Transcript-FM-Interview-on-News-5)|
+
+
 
 | --- | :--- |
 |4 Sep 2020 | [Working together across generations (Response to parliamentary question on initiatives to promote inter-generational collaborations on issues facing Singaporeans)](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2020/sep/working-together-across-generations)|
@@ -71,5 +79,3 @@ permalink: /media-centre/speeches
 |18 Jul 2019 | NUS’ Social Service Research Conference: Minister Indranee Rajah [on lifelong meritocracy](https://www.moe.gov.sg/news/speeches/nus-social-service-research-centre-conference-working-with-low-income-families-through-the-life-course--challenges-to-social-services-keynote-speech-by-second-minister-for-education--ms-indranee-rajah) |
 |17 Jul 2019 | Partners for the Environment Forum: Minister Masagos Zulkifli [on climate change ](https://www.mewr.gov.sg/news/speech-by-mr-masagos-zulkifli--minister-for-the-environment-and-water-resources--at-the-partners-for-the-environment-forum--17-july-2019) 
 |15 Jun 2019 | REACH-CNA “Building Our Future Singapore Together” Dialogue: DPM Heng Swee Keat [on Singapore Together](https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-Building-Our-Future-Singapore-Together-Dialogue) |
-
-
