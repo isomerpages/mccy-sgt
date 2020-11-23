@@ -7,6 +7,11 @@ permalink: /speak/archives
 ### Archives
 
 | --- | :--- |
+|Finding Support: Well-being | [Achieve Mental Wellness by Practising Mindfulness](https://www.healthhub.sg/live-healthy/1193/mindful-about-mindfulness){:target="_blank"}|
+|Finding Support: Well-being | [Can you tell the difference in symptoms between the flu and COVID-19?](https://cnalifestyle.channelnewsasia.com/wellness/identify-difference-between-flu-and-covid-19-symptoms-13262534){:target="_blank"}|
+|Finding Support: Well-being | [How to deal with eczema if wearing masks and washing hands make you itch](https://cnalifestyle.channelnewsasia.com/wellness/eczema-covid-19-face-mask-hand-washing-sanitiser-effects-13230346){:target="_blank"}|
+|Finding Support: Well-being | [Your Say: Managing Your Screen-Life Balance While Working From Home](https://www.psd.gov.sg/challenge/ideas/your-say/your-say-managing-your-screen-life-balance-while-working-from-home){:target="_blank"}|
+|Finding Support: Well-being | [Work in office, from home, or both? Hybrid work has potentials and pitfalls, say experts](https://www.channelnewsasia.com/news/singapore/singapore-working-from-home-office-covid-19-13143976){:target="_blank"}|
 |Finding Support: Well-being | [The pandemic of work-from-home injuries: Causes and solutions](https://cnalifestyle.channelnewsasia.com/wellness/the-pandemic-of-work-from-home-injuries-13084344){:target="_blank"}|
 |Finding Support: Well-being | [Understanding mental health treatments](https://stayprepared.sg/mymentalhealth/articles/understanding-mental-health-treatments/){:target="_blank"}|
 |Finding Support: Well-being | [The importance of celebrating small wins during COVID-19 times](https://cnalifestyle.channelnewsasia.com/wellness/the-importance-of-celebrating-small-wins-during-covid-19-times-13030052){:target="_blank"}|
@@ -21,11 +26,11 @@ permalink: /speak/archives
 |Finding Support: Well-being | [Braving the storm together: supporting our children emotionally through Covid-19](https://www.childrensociety.org.sg/resources/ck/files/covid19_parentips.pdf){:target="_blank"}|
 |Finding Support: Well-being | [Juggling WFH while managing the kids? Here’s help](https://www.gov.sg/article/juggling-wfh-while-managing-the-kids-heres-help){:target="_blank"}|
 |Finding Support: Well-being | [How do we develop mental health resilience?](https://www.healthhub.sg/live-healthy/575/mentalhealth_resilience){:target="_blank"}|
-|Finding Support: Well-being | [Achieve Mental Wellness by Practising Mindfulness](https://www.healthhub.sg/live-healthy/1193/mindful-about-mindfulness){:target="_blank"}|
-|Finding Support: Well-being | [Can you tell the difference in symptoms between the flu and COVID-19?](https://cnalifestyle.channelnewsasia.com/wellness/identify-difference-between-flu-and-covid-19-symptoms-13262534){:target="_blank"}|
-|Finding Support: Well-being | [How to deal with eczema if wearing masks and washing hands make you itch](https://cnalifestyle.channelnewsasia.com/wellness/eczema-covid-19-face-mask-hand-washing-sanitiser-effects-13230346){:target="_blank"}|
-|Finding Support: Well-being | [Your Say: Managing Your Screen-Life Balance While Working From Home](https://www.psd.gov.sg/challenge/ideas/your-say/your-say-managing-your-screen-life-balance-while-working-from-home){:target="_blank"}|
-|Finding Support: Well-being | [Work in office, from home, or both? Hybrid work has potentials and pitfalls, say experts](https://www.channelnewsasia.com/news/singapore/singapore-working-from-home-office-covid-19-13143976){:target="_blank"}|
+|Finding Support: Jobs | [Jobseekers’ Diaries: Getting retrenched at the age of 35 moved me out of my comfort zone](https://www.todayonline.com/voices/jobseekers-diaries-getting-retrenched-age-35-moved-me-out-my-comfort-zone?fbclid=IwAR1FtYZdi3OVebqG0fIYXEMQmnNnvZQ7oVuWgy2DnSeQTIUhbf1w94emAZ8){:target="_blank"}|
+|Finding Support: Jobs | [[Video] Things to Keep in Mind When Networking](https://content.mycareersfuture.gov.sg/3-things-to-take-note-when-you-network/){:target="_blank"}|
+|Finding Support: Jobs | [Starting A New Job Remotely? Here Are Some Tips to Do So](https://content.mycareersfuture.gov.sg/starting-new-job-remotely-here-some-tips/){:target="_blank"}|
+|Finding Support: Jobs | [Top Soft Skills Employers Value in Fresh Graduates](https://content.mycareersfuture.gov.sg/top-soft-skills-employers-value-fresh-graduates/){:target="_blank"}|
+|Finding Support: Jobs | [6 tips for better mental health if you’re currently unemployed](https://content.mycareersfuture.gov.sg/6-tips-better-mental-health-currently-unemployed/){:target="_blank"}|
 |Finding Support: Jobs | [How to dress right for an online job interview to make the best impression](https://cnalifestyle.channelnewsasia.com/style/how-to-dress-for-an-online-job-interview-13117364){:target="_blank"}|
 |Finding Support: Jobs | [Passion Vs Paycheque: These Singaporeans Ditched A Salary To Pursue Their Dreams](https://content.mycareersfuture.gov.sg/passion-vs-paycheque-these-singaporeans-ditched-salary-pursue-dreams/){:target="_blank"}|
 |Finding Support: Jobs | [Here are some job hunting tips in the downturn. First, reach out directly to the boss](https://www.todayonline.com/commentary/here-are-some-job-hunting-tips-first-reach-out-boss-directly){:target="_blank"}|
@@ -39,11 +44,11 @@ permalink: /speak/archives
 |Finding Support: Jobs | [Versatility To Overcome Life’s Obstacles](https://www.gov.sg/article/versatility-to-overcome-lifes-obstacles){:target="_blank"}|
 |Finding Support: Jobs | [New skills for the new normal: How to upskill from now and beyond](https://content.mycareersfuture.sg/new-skills-new-normal-upskill-now-beyond/){:target="_blank"}|
 |Finding Support: Jobs | [Can You Really #DoWhatYouLove? We Speak to 2 Singaporeans Who Made A Mid-Career Switch](https://blog.moneysmart.sg/career/professional-conversion-programme/){:target="_blank"}|
-|Finding Support: Jobs | [Jobseekers’ Diaries: Getting retrenched at the age of 35 moved me out of my comfort zone](https://www.todayonline.com/voices/jobseekers-diaries-getting-retrenched-age-35-moved-me-out-my-comfort-zone?fbclid=IwAR1FtYZdi3OVebqG0fIYXEMQmnNnvZQ7oVuWgy2DnSeQTIUhbf1w94emAZ8){:target="_blank"}|
-|Finding Support: Jobs | [[Video] Things to Keep in Mind When Networking](https://content.mycareersfuture.gov.sg/3-things-to-take-note-when-you-network/){:target="_blank"}|
-|Finding Support: Jobs | [Starting A New Job Remotely? Here Are Some Tips to Do So](https://content.mycareersfuture.gov.sg/starting-new-job-remotely-here-some-tips/){:target="_blank"}|
-|Finding Support: Jobs | [Top Soft Skills Employers Value in Fresh Graduates](https://content.mycareersfuture.gov.sg/top-soft-skills-employers-value-fresh-graduates/){:target="_blank"}|
-|Finding Support: Jobs | [6 tips for better mental health if you’re currently unemployed](https://content.mycareersfuture.gov.sg/6-tips-better-mental-health-currently-unemployed/){:target="_blank"}|
+|Making Connections | [She helps stretch the disabled to reach their full potential](https://pride.kindness.sg/yoga-stretch-disabled-full-potential/){:target="_blank"}|
+|Making Connections | [5 Ways to Serve the Community in the Time of Social Distancing](https://blog.smu.edu.sg/smu-categories/5-ways-to-serve-the-community-in-the-time-of-social-distancing/){:target="_blank"}|
+|Making Connections | [[Video] To truly understand our domestic helpers, let’s see life from their perspective](https://pride.kindness.sg/lets-see-life-from-our-domestic-helpers-perspective/){:target="_blank"}|
+|Making Connections | [These five local artists just want to inspire kindness, one drawing at a time](https://pride.kindness.sg/the-pride-5-local-artists-inspire-kindness-one-drawing-at-a-time/){:target="_blank"}|
+|Making Connections | [How to deal with friendships during these difficult times](https://cnalifestyle.channelnewsasia.com/trending/how-to-deal-with-friendships-during-these-difficult-times-13145562){:target="_blank"}|
 |Making Connections | [Seniors Share 6 Tips on How to Live a Life with Purpose](https://stayprepared.sg/mymentalhealth/articles/seniors-share-6-tips-on-how-to-live-a-life-with-purpose/){:target="_blank"}|
 |Making Connections | [Digital ambassadors: A new job to make a difference](https://www.gov.sg/article/digital-ambassadors---a-new-job-to-make-a-difference){:target="_blank"}|
 |Making Connections | [My friend, the frontliner](https://pride.kindness.sg/my-friend-the-frontliner/){:target="_blank"}|
@@ -56,11 +61,11 @@ permalink: /speak/archives
 |Making Connections | [Covid-19 has shown that we can be gracious. How do we make it last?](https://www.channelnewsasia.com/news/commentary/covid-19-singapore-gracious-society-kindess-ground-up-12808722?cid=h3_referral_inarticlelinks_24082018_cna){:target="_blank"}|
 |Making Connections | [NTU student volunteers to help hawkers move online](http://soapbox.sg/2020/06/29/ntu-student-help-hawkers/){:target="_blank"}|
 |Making Connections | [Learning New Tech Has No Age Barrier](https://www.gov.sg/article/learning-new-tech-has-no-age-barrier){:target="_blank"}|
-|Making Connections | [She helps stretch the disabled to reach their full potential](https://pride.kindness.sg/yoga-stretch-disabled-full-potential/){:target="_blank"}|
-|Making Connections | [5 Ways to Serve the Community in the Time of Social Distancing](https://blog.smu.edu.sg/smu-categories/5-ways-to-serve-the-community-in-the-time-of-social-distancing/){:target="_blank"}|
-|Making Connections | [[Video] To truly understand our domestic helpers, let’s see life from their perspective](https://pride.kindness.sg/lets-see-life-from-our-domestic-helpers-perspective/){:target="_blank"}|
-|Making Connections | [These five local artists just want to inspire kindness, one drawing at a time](https://pride.kindness.sg/the-pride-5-local-artists-inspire-kindness-one-drawing-at-a-time/){:target="_blank"}|
-|Making Connections | [How to deal with friendships during these difficult times](https://cnalifestyle.channelnewsasia.com/trending/how-to-deal-with-friendships-during-these-difficult-times-13145562){:target="_blank"}|
+|Building Our Community | [Let’s think of others before we think about ourselves as we prepare for Phase 3](https://pride.kindness.sg/others-before-ourselves-prepare-phase-3/){:target="_blank"}|
+|Building Our Community | [Unmasking the needs of others](https://www.gov.sg/article/unmasking-the-needs-of-others){:target="_blank"}|
+|Building Our Community | [Mum-of-five sets up website, webinar for parents facing family challenges in new normal](https://pride.kindness.sg/mums-space-for-parents-facing-family-challenges-in-new-normal/){:target="_blank"}|
+|Building Our Community | [Take what you need: Group of friends set up free food pantry in Yishun for the needy](https://www.asiaone.com/singapore/take-what-you-need-group-friends-set-free-food-pantry-yishun-needy){:target="_blank"}|
+|Building Our Community | [Would you like to learn how to cook from this 85-year-old great grandma?](https://pride.kindness.sg/learn-to-cook-85-year-old-great-grandma-with-dementia/){:target="_blank"}|
 |Building Our Community | [Singapore: The mums asking suicidal teens to ‘please stay’](https://www.bbc.com/news/av/world-asia-54068937){:target="_blank"}|
 |Building Our Community | [These youths write personalised cards to remind the elderly that they are not alone, and so can you](https://pride.kindness.sg/youths-write-postcards-remind-elderly-they-are-not-alone-so-can-you/){:target="_blank"}|
 |Building Our Community | [Under-35 and jobless: S’poreans turn to side hustles, self-improvement while waiting to land a full-time job](https://www.todayonline.com/singapore/under-35-and-jobless-singaporeans-turn-side-hustles-self-improvement-while-waiting-land){:target="_blank"}|
@@ -72,8 +77,3 @@ permalink: /speak/archives
 |Building Our Community | [This Singaporean, 23, aims to get viewers saying ‘WTS’ with videos exploring social issues](https://mothership.sg/2020/07/wts-community-lee-zhong-han/){:target="_blank"}|
 |Building Our Community | [Singapore man sets aside 3 days a week to be a swabber on Covid-19 frontline, as work slowed during CB period](https://mothership.sg/2020/07/volunteer-swabber-covid-19-singapore-together/){:target="_blank"}|
 |Building Our Community | [Siblings sew and donate 300 masks for the needy](https://www.gov.sg/article/siblings-sew-and-donate-over-300-masks-to-the-needy){:target="_blank"}|
-|Building Our Community | [Let’s think of others before we think about ourselves as we prepare for Phase 3](https://pride.kindness.sg/others-before-ourselves-prepare-phase-3/){:target="_blank"}|
-|Building Our Community | [Unmasking the needs of others](https://www.gov.sg/article/unmasking-the-needs-of-others){:target="_blank"}|
-|Building Our Community | [Mum-of-five sets up website, webinar for parents facing family challenges in new normal](https://pride.kindness.sg/mums-space-for-parents-facing-family-challenges-in-new-normal/){:target="_blank"}|
-|Building Our Community | [Take what you need: Group of friends set up free food pantry in Yishun for the needy](https://www.asiaone.com/singapore/take-what-you-need-group-friends-set-free-food-pantry-yishun-needy){:target="_blank"}|
-|Building Our Community | [Would you like to learn how to cook from this 85-year-old great grandma?](https://pride.kindness.sg/learn-to-cook-85-year-old-great-grandma-with-dementia/){:target="_blank"}|
