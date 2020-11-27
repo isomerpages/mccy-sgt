@@ -53,67 +53,35 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
-#### Schedule a ‘worry appointment’ – this and other ways to worry mindfully  
+#### Stressed out, anxious and unable to focus? Here are 10 ways to calm down.   
 
-We live in unprecedented times, and this has made many of us worry more than ever.  Trying not to worry does not work. So why not schedule time to worry, as you do for physical exercise? Surprisingly, this could have you worrying less. Learn more about it. 
+You’ll probably agree that 2020 has been an unprecedented year. So if you’re having trouble sleeping, can’t concentrate, or generally feel like you’re losing control, know that you’re not alone. Here are some easy ways to gain back some control over the situation.
 
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/schedule-a-worry-appointment-and-other-ways-to-worry-13477686){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### Why Social Media Detox Might Improve Your Mental Wellbeing   
-
-Do you find yourself well-connected online, but perhaps less so offline? Social media has many benefits in today’s world, but too much screen time could make you less productive and, ironically, even feel disconnected. Here are some tips on how to take a successful social media detox.  
-
-Source: [HealthHub](https://www.healthhub.sg/live-healthy/1345/disconnect-to-reconnect-why-a-social-media-detox-might-be-good-for-you){:target="_blank"}
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/peak-anxiety-10-ways-to-calm-down-13447556){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
-#### Not your typical matchmaker
+#### Commentary: Worried about keeping your job? Here’s advice to soothe your concerns no matter how old you are.
 
-As a career coach, Rashidah helps jobseekers find the right programmes to upskill. With social distancing, she recently found herself in need of some new skills too – she had to  learn how to effectively interact with jobseekers online. Read how she rose to the challenge.
+The current pandemic has created huge economic uncertainty, especially for businesses. With many downsizing or even closing, your biggest worry is keeping your job. Learn how being proactive could help you stay employed. 
 
-Source: [gov.sg](https://www.gov.sg/article/not-your-typical-matchmaker){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs </div>
-
-#### When the Going Gets Tough, the Tough Think Out of the Box 
-
-COVID-19 has hurt economies of countries everywhere, including ours. And it has made job hunting even harder. So while you’re upskilling and getting career coaching, think about tapping on your talents or passions for more opportunities. Pick up some ideas here. 
-
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/when-going-gets-tough-tough-think-out-box/){:target="_blank"}
+Source: [CNA](https://www.channelnewsasia.com/news/commentary/advice-keeping-your-job-courses-training-singapore-tips-13478520){:target="_blank"}
 
 <div class="heading-pillar">Making Connections </div>
 
-#### How can we put a smile on someone’s face?   
+#### $100 tourism vouchers? They aren’t just for you.  
 
-What does it take to brighten up a stranger’s day? Probably just a simple everyday act of kindness, carried out with little fanfare. Chances are, it will leave you feeling just as good as the person on the receiving end. See how other people have been spreading kindness. 
+With the loss of foreign visitors, your voucher could be a lifeline for our local places of interest. If enough of us use them to rediscover Singapore’s many tourist attractions, we could help these places stay afloat, and protect jobs. You might even create some great memories in the process. 
 
-Source: [The Pride](https://pride.kindness.sg/put-smile-on-someones-face/){:target="_blank"}
-
-<div class="heading-pillar">Making Connections </div>
-
-#### How do you talk to someone who just got retrenched?   
-
-Retrenchments have become an unfortunate side effect of the current pandemic. How do you console someone who’s lost confidence, and is also facing ongoing financial commitments without a regular income? Hear one man’s story and learn how you can lend a listening ear. 
-
-Source: [The Pride](https://pride.kindness.sg/talking-to-someone-who-got-retrenched/){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/100-singaporediscovers-vouchers/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
-#### The music that kept playing throughout the pandemic
+#### Are we forgetting our seniors in our haste to go digital?
 
-People say music is a language that unites us all. Dick Yip, 72 – with his beloved ukulele – proved that during Singapore’s Circuit Breaker. Helped by his wife Daisy, he learnt how to hold his weekly jamming sessions online.
+We probably don’t think twice about paying bills, transferring money or ordering food online. Or receiving eStatements and eTickets. It’s all easy enough for those who’ve grown up in a digital world, but how are our seniors coping? And how can you help them? 
 
-Source: [gov.sg](https://www.gov.sg/article/the-music-that-kept-playing-throughout-the-pandemic){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### A small gesture on your part may inspire others for a long time
-
-Kindness doesn’t have to be a grand gesture. Sometimes, it’s a small act – like giving someone a tissue or spare mask – when it’s needed most. The good news is, your kindness can also inspire others to do the same. Read how some people were touched by acts of kindness from others.
-
-Source: [The Pride](https://pride.kindness.sg/small-gesture-inspire-others-long-time/){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/are-we-forgetting-our-seniors-in-our-haste-to-go-digital/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
