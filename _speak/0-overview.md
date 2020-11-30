@@ -26,17 +26,6 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 [SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
 
 
-### DesignSingapore Council’s Loveable Singapore Project
-
-![Loveable Singapore Project](/images/Dsg-Loveability.gif)
-
-What do we love about Singapore? The Loveable Singapore Project is led by the DesignSingapore Council (Dsg), which hopes to uncover what loveability means in Singapore and identify opportunities for interventions by private and public agencies, as well as communities and individuals. 
-
-Play your part! Find out more about the project and how to participate [here](https://www.designsingapore.org/initiatives/loveable-singapore-project.html){:target="_blank"}.  
-
-Source: DesignSingapore Council
-
-
 ### National Environment Agency's Citizens Workgroup on Reducing Excessive Consumption of Disposables
 
 “What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views or join in one of NEA's workgroup sessions to address this challenge statement.
