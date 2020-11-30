@@ -28,9 +28,8 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 
 ### National Environment Agency's Citizens Workgroup on Reducing Excessive Consumption of Disposables
 
-“What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views or join in one of NEA's workgroup sessions to address this challenge statement.
+“What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views [here](https://www.cgs.gov.sg/citizensworkgroup/share-your-views){:target="_blank"} to address this challenge statement.
 
-Connect with us [here](https://www.cgs.gov.sg/citizensworkgroup/share-your-views){:target="_blank"}!
 
 &nbsp;
 
