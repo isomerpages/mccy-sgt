@@ -4,7 +4,7 @@ description: 'One-stop resource for news, press releases, articles, commentary a
 permalink: /media-centre/speeches
 ---
 ### Speeches
-|  |  |
+|Date|Speech|
 |-----------|---|
 |4 Sep 2020 | [Working together across generations (Response to parliamentary question on initiatives to promote inter-generational collaborations on issues facing Singaporeans)](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2020/sep/working-together-across-generations)|
 |4 Sep 2020 | [Providing more opportunities for our youths to discuss and act on key issues arising from COVID-19 (Response to parliamentary question on our efforts and upcoming plans to engage youths as Singapore plans for a post COVID-19 world)](https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2020/sep/providing-more-opportunities-for-our-youths)|
