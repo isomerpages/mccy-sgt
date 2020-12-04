@@ -10,8 +10,6 @@ permalink: /speak/
 
 The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience. Join us for a series of conversations to share your hopes for a resilient, post-COVID Singapore society, and how we can work together to create a better future. 
 
-There are upcoming conversations: The next session on **Tue, 24 Nov (7pm-9:30pm)** will focus on essential workers; a Tamil session will be held on **Sat, 28 Nov (3pm-5:30pm)**.
-
 If you know of family members and friends who are keen to sign up for these sessions, please encourage them to sign up.
 
 [Register for the Emerging Stronger Conversations](https://go.gov.sg/esconversations){:target="_blank"}
@@ -28,22 +26,10 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 [SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
 
 
-### DesignSingapore Council’s Loveable Singapore Project
-
-![Loveable Singapore Project](/images/Dsg-Loveability.gif)
-
-What do we love about Singapore? The Loveable Singapore Project is led by the DesignSingapore Council (Dsg), which hopes to uncover what loveability means in Singapore and identify opportunities for interventions by private and public agencies, as well as communities and individuals. 
-
-Play your part! Find out more about the project and how to participate [here](https://www.designsingapore.org/initiatives/loveable-singapore-project.html){:target="_blank"}.  
-
-Source: DesignSingapore Council
-
-
 ### National Environment Agency's Citizens Workgroup on Reducing Excessive Consumption of Disposables
 
-“What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views or join in one of NEA's workgroup sessions to address this challenge statement.
+“What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views [here](https://www.cgs.gov.sg/citizensworkgroup/share-your-views){:target="_blank"} to address this challenge statement.
 
-Connect with us [here](https://www.cgs.gov.sg/citizensworkgroup/share-your-views){:target="_blank"}!
 
 &nbsp;
 
