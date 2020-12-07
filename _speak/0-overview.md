@@ -39,11 +39,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Gen Y Speaks: I found a silver lining in 2020 by embracing slow living and ‘hygge’   
+
+Dr Alvona Loh had a fast-paced lifestyle, but this year, COVID-19 changed that. Adapting to slow living wasn’t easy, until she discovered ‘hygge’ (pronounced ‘hoo-gah’), the Danish concept of finding contentment and well-being through living a simple life. Read how it’s changed her life. 
+
+Source: [Today](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-found-silver-lining-2020-embracing-slow-living-and-hygge){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Stressed out, anxious and unable to focus? Here are 10 ways to calm down.   
 
 You’ll probably agree that 2020 has been an unprecedented year. So if you’re having trouble sleeping, can’t concentrate, or generally feel like you’re losing control, know that you’re not alone. Here are some easy ways to gain back some control over the situation.
 
 Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/peak-anxiety-10-ways-to-calm-down-13447556){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs </div>
+
+#### Opening old doors to new opportunities 
+
+In the engineering field, change is constant. Five years after leaving this industry to teach, Jacob Ong returned. It wasn’t easy but a structured retraining programme helped him get up to speed with the latest technologies and tools. Today, Jacob has no regrets over his move.  
+
+Source: [gov.sg](https://www.gov.sg/article/opening-old-doors-to-new-opportunities){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
@@ -55,11 +71,27 @@ Source: [CNA](https://www.channelnewsasia.com/news/commentary/advice-keeping-you
 
 <div class="heading-pillar">Making Connections </div>
 
+#### Show you care by sending a holiday card during a stressful year  
+
+Not so long ago, we’d send festive cards to friends and family living abroad. Until smart phones turned our greetings digital. Well, physical cards are back this year, and many are even creating their own – traditional, humorous, and of course, pandemic-themed. Who will you be sending cards to?
+
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/show-you-care-send-joy-during-a-stressful-year-with-holiday-card-13584056){:target="_blank"}
+
+<div class="heading-pillar">Making Connections </div>
+
 #### $100 tourism vouchers? They aren’t just for you.  
 
 With the loss of foreign visitors, your voucher could be a lifeline for our local places of interest. If enough of us use them to rediscover Singapore’s many tourist attractions, we could help these places stay afloat, and protect jobs. You might even create some great memories in the process. 
 
 Source: [The Pride](https://pride.kindness.sg/100-singaporediscovers-vouchers/){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### These seniors find work-life balance while helping to care for others
+
+As we age, we may want to slow down, but we still have much to give. Just like these three seniors. They freelance at less stressful jobs, using their skills and talents to contribute to the well-being of others. And they are proud to contribute in this way. 
+
+Source: [The Pride](https://pride.kindness.sg/seniors-elderly-freelance-caregiver/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
