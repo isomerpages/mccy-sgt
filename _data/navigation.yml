@@ -20,6 +20,6 @@ links:
   - title: Get Help
     url: /get-help/
   - title: Media Centre
-    url: /media-centre/
+    collection: media-centre
   - title: Contact Us
     url: /contact-us/

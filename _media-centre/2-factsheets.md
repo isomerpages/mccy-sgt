@@ -1,7 +1,7 @@
 ---
-title: Overview
+title: Factsheets
 description: One-stop resource for news, press releases, articles, commentary and speeches.
-permalink: /media-centre/factsheets/overview
+permalink: /media-centre/factsheets
 ---
 
 ### Factsheets

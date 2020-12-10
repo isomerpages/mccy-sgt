@@ -1,7 +1,7 @@
 ---
-title: Overview
+title: Speeches
 description: 'One-stop resource for news, press releases, articles, commentary and speeches.'
-permalink: /media-centre/speeches/overview
+permalink: /media-centre/speeches
 ---
 ### Speeches
 
