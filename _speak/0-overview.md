@@ -39,67 +39,35 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
-#### Gen Y Speaks: I found a silver lining in 2020 by embracing slow living and ‘hygge’   
+#### Reading Food Labels - Making Sense of the Fine Print   
 
-Dr Alvona Loh had a fast-paced lifestyle, but this year, COVID-19 changed that. Adapting to slow living wasn’t easy, until she discovered ‘hygge’ (pronounced ‘hoo-gah’), the Danish concept of finding contentment and well-being through living a simple life. Read how it’s changed her life. 
+At the supermarket, we may grab a few cans of food, but how many of us look beyond the brand and name of the product? There’s a wealth of information printed on the label. Reading it could help us make better decisions for our health, and maybe even our wallets.
 
-Source: [Today](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-found-silver-lining-2020-embracing-slow-living-and-hygge){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### Stressed out, anxious and unable to focus? Here are 10 ways to calm down.   
-
-You’ll probably agree that 2020 has been an unprecedented year. So if you’re having trouble sleeping, can’t concentrate, or generally feel like you’re losing control, know that you’re not alone. Here are some easy ways to gain back some control over the situation.
-
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/peak-anxiety-10-ways-to-calm-down-13447556){:target="_blank"}
+Source: [HealthHub](https://www.healthhub.sg/live-healthy/212/reading_food_labels_making_sense_fine_print){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
-#### Opening old doors to new opportunities 
+#### Passion for Business: Singaporeans Share Their Entrepreneurship Journeys 
 
-In the engineering field, change is constant. Five years after leaving this industry to teach, Jacob Ong returned. It wasn’t easy but a structured retraining programme helped him get up to speed with the latest technologies and tools. Today, Jacob has no regrets over his move.  
+If you have the security of working for an established organisation, as well as a regular salary, striking out on your own is not easy. You’ll face long hours, limited manpower, extensive multi-tasking … but for some, a belief in themselves spurs them on. They share their stories. 
 
-Source: [gov.sg](https://www.gov.sg/article/opening-old-doors-to-new-opportunities){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs </div>
-
-#### Commentary: Worried about keeping your job? Here’s advice to soothe your concerns no matter how old you are.
-
-The current pandemic has created huge economic uncertainty, especially for businesses. With many downsizing or even closing, your biggest worry is keeping your job. Learn how being proactive could help you stay employed. 
-
-Source: [CNA](https://www.channelnewsasia.com/news/commentary/advice-keeping-your-job-courses-training-singapore-tips-13478520){:target="_blank"}
+Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/passion-business-singaporeans-share-their-entrepreneurship-journeys/){:target="_blank"}
 
 <div class="heading-pillar">Making Connections </div>
 
-#### Show you care by sending a holiday card during a stressful year  
+#### The Adaptable Caregiver 
 
-Not so long ago, we’d send festive cards to friends and family living abroad. Until smart phones turned our greetings digital. Well, physical cards are back this year, and many are even creating their own – traditional, humorous, and of course, pandemic-themed. Who will you be sending cards to?
+Being a caregiver to someone with an addiction can be very difficult. In fact, in trying their best to help, they feel ineffective, frustrated, and burnt-out. With a strong support network, and a lot of self-care, one man overcame his situation. 
 
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/show-you-care-send-joy-during-a-stressful-year-with-holiday-card-13584056){:target="_blank"}
-
-<div class="heading-pillar">Making Connections </div>
-
-#### $100 tourism vouchers? They aren’t just for you.  
-
-With the loss of foreign visitors, your voucher could be a lifeline for our local places of interest. If enough of us use them to rediscover Singapore’s many tourist attractions, we could help these places stay afloat, and protect jobs. You might even create some great memories in the process. 
-
-Source: [The Pride](https://pride.kindness.sg/100-singaporediscovers-vouchers/){:target="_blank"}
+Source: [My Mental Health](https://stayprepared.sg/mymentalhealth/articles/the-adaptable-caregiver/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
-#### These seniors find work-life balance while helping to care for others
+#### Art Heals
 
-As we age, we may want to slow down, but we still have much to give. Just like these three seniors. They freelance at less stressful jobs, using their skills and talents to contribute to the well-being of others. And they are proud to contribute in this way. 
+For those in need, art therapy can offer a non-verbal avenue to explore their feelings and discover themselves, as they begin their healing journey. Project DreamCatchers is one such art-based support group. Learn more about how they are helping youths with chronic illnesses.
 
-Source: [The Pride](https://pride.kindness.sg/seniors-elderly-freelance-caregiver/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### Are we forgetting our seniors in our haste to go digital?
-
-We probably don’t think twice about paying bills, transferring money or ordering food online. Or receiving eStatements and eTickets. It’s all easy enough for those who’ve grown up in a digital world, but how are our seniors coping? And how can you help them? 
-
-Source: [The Pride](https://pride.kindness.sg/are-we-forgetting-our-seniors-in-our-haste-to-go-digital/){:target="_blank"}
+Source: [My Mental Health](https://stayprepared.sg/mymentalhealth/articles/art-heals/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
