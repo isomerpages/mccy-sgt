@@ -51,7 +51,6 @@ sections:
         image: /images/homepage-image-3.jpg
         alt: Ideate and Act
     - resources:
-        title: Get help
-        subtitle: Life will be different as we adopt new norms. Here are some ways we can help each other cope better.
-        button: FIND MORE HELP
+        title: Featured Stories
+        button: READ MORE
 ---
