@@ -25,17 +25,19 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 [SG Together ESC sessions (7 - 22 August 2020)](/files/Singapore_Together_Infographics_Series_2.pdf){:target="_blank"}  
 [SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
 
-
-### National Environment Agency's Citizens Workgroup on Reducing Excessive Consumption of Disposables
-
-“What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views [here](https://www.cgs.gov.sg/citizensworkgroup/share-your-views){:target="_blank"} to address this challenge statement.
-
-
 &nbsp;
 
 ![Trending conversations](/images/speak-header-2.jpg)
 
 To be fully engaged and participate in national conversations, we need to be familiar with government policies, understand how they affect us and stay updated with the current issues. Here are some concerns facing Singaporeans today. What are your thoughts and how do you think you can contribute to these conversations? [Join us](https://www.reach.gov.sg/){:target="_blank"} to discuss further.
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
+#### How to Cope With the Emotional Distress of Unemployment   
+
+Losing a job is more than just losing a source of income; it can have a big emotional impact too. Self-confidence can slowly disappear and depression can set in, especially if the period of unemployment is long. Learn what to do if you find yourself in this situation. 
+
+Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/how-cope-emotional-distress-unemployment/){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
@@ -47,6 +49,14 @@ Source: [HealthHub](https://www.healthhub.sg/live-healthy/212/reading_food_label
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
+#### 5 Tips to Help You Manage Your Virtual Job Hunt 
+
+Not quite sure how to conduct your virtual job hunt effectively? It doesn’t have to be difficult. Armed with a few useful tips to guide you along, you might just land that job you’ve always wanted. 
+
+Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/5-tips-help-manage-virtual-job-hunt/){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs </div>
+
 #### Passion for Business: Singaporeans Share Their Entrepreneurship Journeys 
 
 If you have the security of working for an established organisation, as well as a regular salary, striking out on your own is not easy. You’ll face long hours, limited manpower, extensive multi-tasking … but for some, a belief in themselves spurs them on. They share their stories. 
@@ -55,11 +65,27 @@ Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/passion-busines
 
 <div class="heading-pillar">Making Connections </div>
 
+#### Let’s not be ugly Singaporeans when it comes to following the rules 
+
+Rules. They’re there to guide our behaviour. But when we don’t agree with them, we sometimes take it out on those who try to enforce them. Instead of getting annoyed with these enforcers, perhaps it’s time to give them a break. 
+
+Source: [The Pride](https://pride.kindness.sg/ugly-singaporeans-following-rules/){:target="_blank"}
+
+<div class="heading-pillar">Making Connections </div>
+
 #### The Adaptable Caregiver 
 
 Being a caregiver to someone with an addiction can be very difficult. In fact, in trying their best to help, they feel ineffective, frustrated, and burnt-out. With a strong support network, and a lot of self-care, one man overcame his situation. 
 
 Source: [My Mental Health](https://stayprepared.sg/mymentalhealth/articles/the-adaptable-caregiver/){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### They find strength in their tragedies to help others get over their grief
+
+Sometimes, those around us find it hard to react when we experience grief. They may tip-toe around us to avoid saying the ‘wrong’ thing. Or encourage us with platitudes that don’t really comfort. Two women found unique ways to deal with their loss, and help others in the process. 
+
+Source: [The Pride](https://pride.kindness.sg/find-strength-in-tragedies-help-others/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
