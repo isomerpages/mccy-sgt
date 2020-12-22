@@ -7,7 +7,9 @@ permalink: /speak/archives
 ### Archives
 
 | --- | :--- |
+|Finding Support: Well-being | [How to Cope With the Emotional Distress of Unemployment](https://content.mycareersfuture.gov.sg/how-cope-emotional-distress-unemployment/){:target="_blank"}|
 |Finding Support: Well-being | [Gen Y Speaks: I found a silver lining in 2020 by embracing slow living and ‘hygge’](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-found-silver-lining-2020-embracing-slow-living-and-hygge){:target="_blank"}|
+|Finding Support: Well-being | [Reading Food Labels - Making Sense of the Fine Print](https://www.healthhub.sg/live-healthy/212/reading_food_labels_making_sense_fine_print){:target="_blank"}|
 |Finding Support: Well-being | [Stressed out, anxious and unable to focus? Here are 10 ways to calm down](https://cnalifestyle.channelnewsasia.com/wellness/peak-anxiety-10-ways-to-calm-down-13447556){:target="_blank"}|
 |Finding Support: Well-being | [Schedule a 'worry appointment' – this and other ways to worry mindfully](https://cnalifestyle.channelnewsasia.com/wellness/schedule-a-worry-appointment-and-other-ways-to-worry-13477686){:target="_blank"}|
 |Finding Support: Well-being | [Why Social Media Detox Might Improve Your Mental Wellbeing](https://www.healthhub.sg/live-healthy/1345/disconnect-to-reconnect-why-a-social-media-detox-might-be-good-for-you){:target="_blank"}|
@@ -30,6 +32,8 @@ permalink: /speak/archives
 |Finding Support: Well-being | [Braving the storm together: supporting our children emotionally through Covid-19](https://www.childrensociety.org.sg/resources/ck/files/covid19_parentips.pdf){:target="_blank"}|
 |Finding Support: Well-being | [Juggling WFH while managing the kids? Here’s help](https://www.gov.sg/article/juggling-wfh-while-managing-the-kids-heres-help){:target="_blank"}|
 |Finding Support: Well-being | [How do we develop mental health resilience?](https://www.healthhub.sg/live-healthy/575/mentalhealth_resilience){:target="_blank"}|
+|Finding Support: Jobs | [5 Tips to Help You Manage Your Virtual Job Hunt](https://content.mycareersfuture.gov.sg/5-tips-help-manage-virtual-job-hunt/){:target="_blank"}|
+|Finding Support: Jobs | [Passion for Business: Singaporeans Share Their Entrepreneurship Journeys](https://content.mycareersfuture.gov.sg/passion-business-singaporeans-share-their-entrepreneurship-journeys/){:target="_blank"}|
 |Finding Support: Jobs | [Opening old doors to new opportunities](https://www.gov.sg/article/opening-old-doors-to-new-opportunities){:target="_blank"}|
 |Finding Support: Jobs | [Commentary: Worried about keeping your job? Here’s advice to soothe your concerns no matter how old you are](https://www.channelnewsasia.com/news/commentary/advice-keeping-your-job-courses-training-singapore-tips-13478520){:target="_blank"}|
 |Finding Support: Jobs | [Not your typical matchmaker](https://www.gov.sg/article/not-your-typical-matchmaker){:target="_blank"}|
@@ -52,6 +56,8 @@ permalink: /speak/archives
 |Finding Support: Jobs | [Versatility To Overcome Life’s Obstacles](https://www.gov.sg/article/versatility-to-overcome-lifes-obstacles){:target="_blank"}|
 |Finding Support: Jobs | [New skills for the new normal: How to upskill from now and beyond](https://content.mycareersfuture.sg/new-skills-new-normal-upskill-now-beyond/){:target="_blank"}|
 |Finding Support: Jobs | [Can You Really #DoWhatYouLove? We Speak to 2 Singaporeans Who Made A Mid-Career Switch](https://blog.moneysmart.sg/career/professional-conversion-programme/){:target="_blank"}|
+|Making Connections | [Let’s not be ugly Singaporeans when it comes to following the rules](https://pride.kindness.sg/ugly-singaporeans-following-rules/){:target="_blank"}|
+|Making Connections | [The Adaptable Caregiver](https://stayprepared.sg/mymentalhealth/articles/the-adaptable-caregiver/){:target="_blank"}|
 |Making Connections | [Show you care by sending a holiday card during a stressful year](https://cnalifestyle.channelnewsasia.com/wellness/show-you-care-send-joy-during-a-stressful-year-with-holiday-card-13584056){:target="_blank"}|
 |Making Connections | [$100 tourism vouchers? They aren’t just for you](https://pride.kindness.sg/100-singaporediscovers-vouchers/){:target="_blank"}|
 |Making Connections | [How can we put a smile on someone’s face?](https://pride.kindness.sg/put-smile-on-someones-face/){:target="_blank"}|
@@ -73,6 +79,8 @@ permalink: /speak/archives
 |Making Connections | [Covid-19 has shown that we can be gracious. How do we make it last?](https://www.channelnewsasia.com/news/commentary/covid-19-singapore-gracious-society-kindess-ground-up-12808722?cid=h3_referral_inarticlelinks_24082018_cna){:target="_blank"}|
 |Making Connections | [NTU student volunteers to help hawkers move online](http://soapbox.sg/2020/06/29/ntu-student-help-hawkers/){:target="_blank"}|
 |Making Connections | [Learning New Tech Has No Age Barrier](https://www.gov.sg/article/learning-new-tech-has-no-age-barrier){:target="_blank"}|
+|Building Our Community | [They find strength in their tragedies to help others get over their grief](https://pride.kindness.sg/find-strength-in-tragedies-help-others/){:target="_blank"}|
+|Building Our Community | [Art Heals](https://stayprepared.sg/mymentalhealth/articles/art-heals/){:target="_blank"}|
 |Building Our Community | [These seniors find work-life balance while helping to care for others](https://pride.kindness.sg/seniors-elderly-freelance-caregiver/){:target="_blank"}|
 |Building Our Community | [Are we forgetting our seniors in our haste to go digital?](https://pride.kindness.sg/are-we-forgetting-our-seniors-in-our-haste-to-go-digital/){:target="_blank"}|
 |Building Our Community | [The music that kept playing throughout the pandemic](https://www.gov.sg/article/the-music-that-kept-playing-throughout-the-pandemic){:target="_blank"}|
