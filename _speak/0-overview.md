@@ -25,12 +25,6 @@ Interested to know what Singaporeans shared at the Singapore Together ESC sessio
 [SG Together ESC sessions (7 - 22 August 2020)](/files/Singapore_Together_Infographics_Series_2.pdf){:target="_blank"}  
 [SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
 
-
-### National Environment Agency's Citizens Workgroup on Reducing Excessive Consumption of Disposables
-
-“What can we do together to reduce the excessive consumption of disposables, such as single-use plastics, in Singapore?" Share your views [here](https://www.cgs.gov.sg/citizensworkgroup/share-your-views){:target="_blank"} to address this challenge statement.
-
-
 &nbsp;
 
 ![Trending conversations](/images/speak-header-2.jpg)
