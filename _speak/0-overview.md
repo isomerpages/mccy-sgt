@@ -33,67 +33,35 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
-#### How to Cope With the Emotional Distress of Unemployment   
+#### 8 key questions on Singapore’s planned vaccine roll-out 
 
-Losing a job is more than just losing a source of income; it can have a big emotional impact too. Self-confidence can slowly disappear and depression can set in, especially if the period of unemployment is long. Learn what to do if you find yourself in this situation. 
+News of three possible vaccines for Singaporeans in the fight against Covid-19 has given us all hope. But we need many questions answered – Which vaccine will you be given? Why is vaccination not mandatory? What if the take-up rate is low? Have these questions and more answered. 
 
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/how-cope-emotional-distress-unemployment/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### Reading Food Labels - Making Sense of the Fine Print   
-
-At the supermarket, we may grab a few cans of food, but how many of us look beyond the brand and name of the product? There’s a wealth of information printed on the label. Reading it could help us make better decisions for our health, and maybe even our wallets.
-
-Source: [HealthHub](https://www.healthhub.sg/live-healthy/212/reading_food_labels_making_sense_fine_print){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/nuts-and-bolts-of-spores-covid-19-vaccine){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
-#### 5 Tips to Help You Manage Your Virtual Job Hunt 
+#### #NewNormalDiaries: Making the Best of My 9 Months (and Counting) of Unemployment
 
-Not quite sure how to conduct your virtual job hunt effectively? It doesn’t have to be difficult. Armed with a few useful tips to guide you along, you might just land that job you’ve always wanted. 
+What do you do when all efforts to find a job during the pandemic fails? For Ms Ng, it meant making the best of bad circumstances. She has taken over running her household herself, while continuing to upskill through online courses. Read how she has maintained a positive mindset. 
 
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/5-tips-help-manage-virtual-job-hunt/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs </div>
-
-#### Passion for Business: Singaporeans Share Their Entrepreneurship Journeys 
-
-If you have the security of working for an established organisation, as well as a regular salary, striking out on your own is not easy. You’ll face long hours, limited manpower, extensive multi-tasking … but for some, a belief in themselves spurs them on. They share their stories. 
-
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/passion-business-singaporeans-share-their-entrepreneurship-journeys/){:target="_blank"}
+Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/newnormaldiaries-making-best-9-months-counting-unemployment/){:target="_blank"}
 
 <div class="heading-pillar">Making Connections </div>
 
-#### Let’s not be ugly Singaporeans when it comes to following the rules 
+#### Gen Y speaks: People question my decision to volunteer, but it is richly rewarding
 
-Rules. They’re there to guide our behaviour. But when we don’t agree with them, we sometimes take it out on those who try to enforce them. Instead of getting annoyed with these enforcers, perhaps it’s time to give them a break. 
+SK had always intended to be involved in volunteering, and a chance meeting with an old friend finally started his volunteering journey. His first volunteering experience was richly rewarding, but with a full-time job, how does he find the time to continue doing so? Read his story.  
 
-Source: [The Pride](https://pride.kindness.sg/ugly-singaporeans-following-rules/){:target="_blank"}
-
-<div class="heading-pillar">Making Connections </div>
-
-#### The Adaptable Caregiver 
-
-Being a caregiver to someone with an addiction can be very difficult. In fact, in trying their best to help, they feel ineffective, frustrated, and burnt-out. With a strong support network, and a lot of self-care, one man overcame his situation. 
-
-Source: [My Mental Health](https://stayprepared.sg/mymentalhealth/articles/the-adaptable-caregiver/){:target="_blank"}
+Source: [today online](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-people-question-my-decision-volunteer-it-richly-rewarding){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
-#### They find strength in their tragedies to help others get over their grief
+#### These four friends have a dream: To help migrant workers call home for free
 
-Sometimes, those around us find it hard to react when we experience grief. They may tip-toe around us to avoid saying the ‘wrong’ thing. Or encourage us with platitudes that don’t really comfort. Two women found unique ways to deal with their loss, and help others in the process. 
+The quarantine in foreign workers’ dorms restricted their movements as well as reduced salaries. Connecting with their families back home for support and comfort was expensive and often difficult too. But by developing the app Call Home, a group of friends set out to change things.
 
-Source: [The Pride](https://pride.kindness.sg/find-strength-in-tragedies-help-others/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### Art Heals
-
-For those in need, art therapy can offer a non-verbal avenue to explore their feelings and discover themselves, as they begin their healing journey. Project DreamCatchers is one such art-based support group. Learn more about how they are helping youths with chronic illnesses.
-
-Source: [My Mental Health](https://stayprepared.sg/mymentalhealth/articles/art-heals/){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/four-friends-help-migrant-workers-call-home-for-free/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
