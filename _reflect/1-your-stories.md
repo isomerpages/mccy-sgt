@@ -4,7 +4,7 @@ description: Singaporeans come together to reflect on their COVID-19 experiences
 permalink: /reflect/stories
 ---
 
-These are stories from Singaporeans who sent us their COVID-19 reflections. Share your stories [here](/reflect).
+These are stories from Singaporeans who sent us their COVID-19 reflections. Share your stories [here](https://storiesofus.gov.sg){:target="_blank"}.
 
 *Contributed by Veen Seah, 35, homemaker:*
  

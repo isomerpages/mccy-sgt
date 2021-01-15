@@ -12,4 +12,4 @@ Everyone has a story to tell, and every story shared connects us to someone’s 
 
 More importantly, these stories reflect how our shared experiences have strengthened our resolve and inspired us to take action. Your reflections and contributions connect us to each other, as individuals and as communities, and look forward with hope as a nation.
 
-Share your stories and read those from others here. <a href="https://storiesofus.gov.sg" target="_blank">Stories Of Us</a>
+Share your stories and read those from others here. [Stories Of Us](https://storiesofus.gov.sg){:target="_blank"}
