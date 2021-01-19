@@ -10,6 +10,6 @@ COVID-19 is unlike any crisis we have experienced. It brought our nation to a st
 
 Everyone has a story to tell, and every story shared connects us to someone’s lived experiences, fears and hopes. Through Stories of Us, these are preserved – in your own words and pictures – as a reminder of what living through a global pandemic means to us.
 
-More importantly, these stories reflect how our shared experiences have strengthened our resolve and inspired us to take action. Your reflections and contributions connect us to each other, as individuals and as communities, and look forward with hope as a nation.
+More importantly, these stories reflect how our shared experiences have strengthened our resolve and inspired us to take action. Your reflections and contributions connect us to each other, as individuals and as communities, and enable us to look forward with hope as a nation.
 
 Share your stories and read those from others here. [Stories Of Us](https://storiesofus.gov.sg){:target="_blank"}
