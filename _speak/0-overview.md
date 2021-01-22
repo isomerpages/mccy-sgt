@@ -33,67 +33,35 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
-#### The good, the bad and the Covid: What 2020 has taught us about ourselves
+#### How to Survive Chinese New Year Feasts 
 
-It’s safe to say, 2020 was definitely not the year we hoped it would be. The circuit breaker, Stay Home Notices and ‘work from home’ became our new normal. But this also gave us a new-found resilience; sparked empathy and kindness. Read what some others discovered about themselves. 
+Another feasting season looms, so soon after Christmas and the New Year. Yes, Chinese New Year – and goodies galore – is almost here, but you haven’t even lost the extra kilos from last year’s feasting! Need help keeping any extra weight off? We have five practical tips to share. 
 
-Source: [The Pride](https://pride.kindness.sg/what-2020-taught-us-about-ourselves/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### 8 key questions on Singapore’s planned vaccine roll-out 
-
-News of three possible vaccines for Singaporeans in the fight against Covid-19 has given us all hope. But we need many questions answered – Which vaccine will you be given? Why is vaccination not mandatory? What if the take-up rate is low? Have these questions and more answered. 
-
-Source: [The Straits Times](https://www.straitstimes.com/singapore/nuts-and-bolts-of-spores-covid-19-vaccine){:target="_blank"}
+Source: [HealthHub](https://www.healthhub.sg/live-healthy/290/how_to_survive_chinese_new_year_feasts){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
-#### My life after SIA: I went from ‘useless’, to picking up skills that got me back on my feet
+#### Look what Covid made me do: Ambitious projects that took flight
 
-What would you do if you went from having a high-flying career to suddenly being retrenched? Daniel Tan went from upset to upskilled, through business development and programming courses. He even tried his hand at a home-baking business. Find out how Daniel’s eventful 2020 turned out. 
+If the pandemic and circuit breaker left you with too much time on your hands, how did you use it? For some Singaporeans, it was a chance to set a world-beating record, publish new books, even realise new business initiatives and long-cherished dreams. Read about their accomplishments. 
 
-Source: [CNA Insider](https://www.channelnewsasia.com/news/cnainsider/retrenchment-singapore-airlines-airbnb-millennial-cheesecake-13798794){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs </div>
-
-#### #NewNormalDiaries: Making the Best of My 9 Months (and Counting) of Unemployment
-
-What do you do when all efforts to find a job during the pandemic fails? For Ms Ng, it meant making the best of bad circumstances. She has taken over running her household herself, while continuing to upskill through online courses. Read how she has maintained a positive mindset. 
-
-Source: [MyCareersFuture](https://content.mycareersfuture.gov.sg/newnormaldiaries-making-best-9-months-counting-unemployment/){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/life/look-what-covid-made-me-do-ambitious-projects-that-took-flight){:target="_blank"}
 
 <div class="heading-pillar">Making Connections </div>
 
-#### Gen Y Speaks: I have no regrets quitting the Integrated Programme for top students to chase my nursing dream
+#### Inspired by teachers, classmates and social workers, O-Level students pull through in the face of adversity
 
-Entering an Integrated Programme (IP) had excited Sarah and brought her many opportunities to develop useful life skills. But a career as a nurse was pulling at her heartstrings, and this would mean leaving the IP. Could Sarah overcome her doubt and fear of negative judgement?
+Tough situations can sometimes make us give up, but these two students didn’t let difficult personal situations distract them from concentrating on their studies. With the support of others, they strived on and have achieved the O-Level results needed to pursue their chosen paths.
 
-Source: [today online](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-have-no-regrets-quitting-integrated-programme-top-students-chase-my){:target="_blank"}
-
-<div class="heading-pillar">Making Connections </div>
-
-#### Gen Y speaks: People question my decision to volunteer, but it is richly rewarding
-
-SK had always intended to be involved in volunteering, and a chance meeting with an old friend finally started his volunteering journey. His first volunteering experience was richly rewarding, but with a full-time job, how does he find the time to continue doing so? Read his story.  
-
-Source: [today online](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-people-question-my-decision-volunteer-it-richly-rewarding){:target="_blank"}
+Source: [today online](https://www.todayonline.com/singapore/inspired-teachers-classmates-and-social-workers-o-level-students-pull-through-face){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
-#### Don’t want to recycle? Sure, just don’t mess it up for those who do
+#### What do you do if your friend gets bullied… or is a bully themselves? 
 
-With the Covid-19 pandemic accelerating the amount of waste we generate, recycling has become even more important. While eco-warriors are paying heed, their efforts have been hindered by non-recyclables and even food waste thrown into the blue recycling bins. It’s time to change this. 
+Bullying needn’t be a physical act, and it doesn’t just happen in playgrounds. A barrage of snide comments at work, deliberately being excluded from group activities… these are bullying too. But you can take steps to help a friend who’s being bullied, or who is the bully. Learn how here.
 
-Source: [The Pride](https://pride.kindness.sg/dont-recycle-dont-mess-up-those-who-do/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### These four friends have a dream: To help migrant workers call home for free
-
-The quarantine in foreign workers’ dorms restricted their movements as well as reduced salaries. Connecting with their families back home for support and comfort was expensive and often difficult too. But by developing the app Call Home, a group of friends set out to change things.
-
-Source: [The Pride](https://pride.kindness.sg/four-friends-help-migrant-workers-call-home-for-free/){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/what-do-you-do-if-your-friend-gets-bullied-or-is-a-bully-themselves/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
