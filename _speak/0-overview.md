@@ -33,11 +33,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Gen Y Speaks: I felt lost studying overseas. A year of online courses in S’pore due to Covid-19 has changed that 
+
+Studying overseas was the right decision for Estella. However, she struggled to adapt to the culture and syllabus. She even caught pneumonia and missed some classes. Back home for the winter break, the pandemic stopped her returning to her overseas classes. However, it would become her turning point.
+
+Source: [today online](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-felt-lost-studying-overseas-year-online-classes-spore-due-covid-19-has){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### How to Survive Chinese New Year Feasts 
 
 Another feasting season looms, so soon after Christmas and the New Year. Yes, Chinese New Year – and goodies galore – is almost here, but you haven’t even lost the extra kilos from last year’s feasting! Need help keeping any extra weight off? We have five practical tips to share. 
 
 Source: [HealthHub](https://www.healthhub.sg/live-healthy/290/how_to_survive_chinese_new_year_feasts){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs </div>
+
+#### Just graduated? Here’s how work-study programmes can boost your employability
+
+Being a fresh grad looking for a job during a pandemic has its challenges. Thankfully, help is at hand with the SkillsFuture Work-Study Programme (WSP). It aims to guide you in gaining hands-on experience and deeper skills through structured supervision. Learn more about succeeding in your job hunt. 
+
+Source: [The Straits Times](https://www.straitstimes.com/singapore/jobs/just-graduated-heres-how-work-study-programmes-can-boost-your-employability){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs </div>
 
@@ -49,11 +65,27 @@ Source: [The Straits Times](https://www.straitstimes.com/life/look-what-covid-ma
 
 <div class="heading-pillar">Making Connections </div>
 
+#### Grab rider personally delivers lost wallet to Jurong East resident’s doorstep: ‘It’s a miracle’
+
+Most of us would expect a Grab rider to deliver a meal, groceries or maybe even a parcel. But John received a very different delivery that he is extremely grateful for – his lost wallet. Learn how this mystery rider has inspired John to pay the kindness forward. 
+
+Source: [Stomp](https://stomp.straitstimes.com/singapore-seen/grab-rider-personally-delivers-lost-wallet-to-stompers-doorstep-its-a-miracle-and-im){:target="_blank"}
+
+<div class="heading-pillar">Making Connections </div>
+
 #### Inspired by teachers, classmates and social workers, O-Level students pull through in the face of adversity
 
 Tough situations can sometimes make us give up, but these two students didn’t let difficult personal situations distract them from concentrating on their studies. With the support of others, they strived on and have achieved the O-Level results needed to pursue their chosen paths.
 
 Source: [today online](https://www.todayonline.com/singapore/inspired-teachers-classmates-and-social-workers-o-level-students-pull-through-face){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### Wanted: Stories of Singaporeans’ struggles, triumphs amid Covid-19 
+
+What a year 2020 was! We suddenly had to work from home, study online, stay apart from loved ones, while trying to stay connected. We laughed and cried, felt happy and sad – sometimes all at once! Read how some people coped, and why not share your story too? 
+
+Source: [The Straits Times](https://www.straitstimes.com/singapore/community/wanted-stories-of-singaporeans-struggles-triumphs-amid-covid-19){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
