@@ -7,6 +7,8 @@ permalink: /speak/archives
 ### Archives
 
 | --- | :--- |
+|Finding Support: Well-being | [Gen Y Speaks: I felt lost studying overseas. A year of online courses in S’pore due to Covid-19 has changed that](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-felt-lost-studying-overseas-year-online-classes-spore-due-covid-19-has){:target="_blank"}|
+|Finding Support: Well-being | [How to Survive Chinese New Year Feasts](https://www.healthhub.sg/live-healthy/290/how_to_survive_chinese_new_year_feasts){:target="_blank"}|
 |Finding Support: Well-being | [The good, the bad and the Covid: What 2020 has taught us about ourselves](https://pride.kindness.sg/what-2020-taught-us-about-ourselves/){:target="_blank"}|
 |Finding Support: Well-being | [8 key questions on Singapore’s planned vaccine roll-out](https://www.straitstimes.com/singapore/nuts-and-bolts-of-spores-covid-19-vaccine){:target="_blank"}|
 |Finding Support: Well-being | [How to Cope With the Emotional Distress of Unemployment](https://content.mycareersfuture.gov.sg/how-cope-emotional-distress-unemployment/){:target="_blank"}|
@@ -34,6 +36,8 @@ permalink: /speak/archives
 |Finding Support: Well-being | [Braving the storm together: supporting our children emotionally through Covid-19](https://www.childrensociety.org.sg/resources/ck/files/covid19_parentips.pdf){:target="_blank"}|
 |Finding Support: Well-being | [Juggling WFH while managing the kids? Here’s help](https://www.gov.sg/article/juggling-wfh-while-managing-the-kids-heres-help){:target="_blank"}|
 |Finding Support: Well-being | [How do we develop mental health resilience?](https://www.healthhub.sg/live-healthy/575/mentalhealth_resilience){:target="_blank"}|
+|Finding Support: Jobs | [Just graduated? Here’s how work-study programmes can boost your employability](https://www.straitstimes.com/singapore/jobs/just-graduated-heres-how-work-study-programmes-can-boost-your-employability){:target="_blank"}|
+|Finding Support: Jobs | [Look what Covid made me do: Ambitious projects that took flight](https://www.straitstimes.com/life/look-what-covid-made-me-do-ambitious-projects-that-took-flight){:target="_blank"}|
 |Finding Support: Jobs | [My life after SIA: I went from ‘useless’, to picking up skills that got me back on my feet](https://www.channelnewsasia.com/news/cnainsider/retrenchment-singapore-airlines-airbnb-millennial-cheesecake-13798794){:target="_blank"}|
 |Finding Support: Jobs | [#NewNormalDiaries: Making the Best of My 9 Months (and Counting) of Unemployment](https://content.mycareersfuture.gov.sg/newnormaldiaries-making-best-9-months-counting-unemployment/){:target="_blank"}|
 |Finding Support: Jobs | [5 Tips to Help You Manage Your Virtual Job Hunt](https://content.mycareersfuture.gov.sg/5-tips-help-manage-virtual-job-hunt/){:target="_blank"}|
@@ -60,6 +64,8 @@ permalink: /speak/archives
 |Finding Support: Jobs | [Versatility To Overcome Life’s Obstacles](https://www.gov.sg/article/versatility-to-overcome-lifes-obstacles){:target="_blank"}|
 |Finding Support: Jobs | [New skills for the new normal: How to upskill from now and beyond](https://content.mycareersfuture.sg/new-skills-new-normal-upskill-now-beyond/){:target="_blank"}|
 |Finding Support: Jobs | [Can You Really #DoWhatYouLove? We Speak to 2 Singaporeans Who Made A Mid-Career Switch](https://blog.moneysmart.sg/career/professional-conversion-programme/){:target="_blank"}|
+|Making Connections | [Grab rider personally delivers lost wallet to Jurong East resident’s doorstep: ‘It’s a miracle’](https://stomp.straitstimes.com/singapore-seen/grab-rider-personally-delivers-lost-wallet-to-stompers-doorstep-its-a-miracle-and-im){:target="_blank"}|
+|Making Connections | [Inspired by teachers, classmates and social workers, O-Level students pull through in the face of adversity](https://www.todayonline.com/singapore/inspired-teachers-classmates-and-social-workers-o-level-students-pull-through-face){:target="_blank"}|
 |Making Connections | [Gen Y Speaks: I have no regrets quitting the Integrated Programme for top students to chase my nursing dream](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-have-no-regrets-quitting-integrated-programme-top-students-chase-my){:target="_blank"}|
 |Making Connections | [Gen Y speaks: People question my decision to volunteer, but it is richly rewarding](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-people-question-my-decision-volunteer-it-richly-rewarding){:target="_blank"}|
 |Making Connections | [Let’s not be ugly Singaporeans when it comes to following the rules](https://pride.kindness.sg/ugly-singaporeans-following-rules/){:target="_blank"}|
@@ -85,6 +91,8 @@ permalink: /speak/archives
 |Making Connections | [Covid-19 has shown that we can be gracious. How do we make it last?](https://www.channelnewsasia.com/news/commentary/covid-19-singapore-gracious-society-kindess-ground-up-12808722?cid=h3_referral_inarticlelinks_24082018_cna){:target="_blank"}|
 |Making Connections | [NTU student volunteers to help hawkers move online](http://soapbox.sg/2020/06/29/ntu-student-help-hawkers/){:target="_blank"}|
 |Making Connections | [Learning New Tech Has No Age Barrier](https://www.gov.sg/article/learning-new-tech-has-no-age-barrier){:target="_blank"}|
+|Building Our Community | [Wanted: Stories of Singaporeans’ struggles, triumphs amid Covid-19](https://www.straitstimes.com/singapore/community/wanted-stories-of-singaporeans-struggles-triumphs-amid-covid-19){:target="_blank"}|
+|Building Our Community | [What do you do if your friend gets bullied… or is a bully themselves?](https://pride.kindness.sg/what-do-you-do-if-your-friend-gets-bullied-or-is-a-bully-themselves/){:target="_blank"}|
 |Building Our Community | [Don’t want to recycle? Sure, just don’t mess it up for those who do](https://pride.kindness.sg/dont-recycle-dont-mess-up-those-who-do/){:target="_blank"}|
 |Building Our Community | [These four friends have a dream: To help migrant workers call home for free](https://pride.kindness.sg/four-friends-help-migrant-workers-call-home-for-free/){:target="_blank"}|
 |Building Our Community | [They find strength in their tragedies to help others get over their grief](https://pride.kindness.sg/find-strength-in-tragedies-help-others/){:target="_blank"}|
