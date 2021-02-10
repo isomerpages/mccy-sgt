@@ -18,7 +18,9 @@ If you know of family members and friends who are keen to sign up for these sess
 
 ![See what our participants say](/images/speak-header-6.jpg)
 
-**Learn what Singaporeans have shared at the Singapore Together Emerging Stronger Conversations.**\
+**Learn what Singaporeans have shared at the Singapore Together Emerging Stronger Conversations.**
+
+
 **Download Singapore Together Emerging Stronger Conversations – A Report and the Infographics.**
 
 [*Singapore Together Emerging Stronger Conversations – A Report* (published 9 February 2021)](/files/SG_Together_Emerging_Stronger_Conversations_Report.pdf){:target="_blank"}\
