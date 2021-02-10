@@ -20,10 +20,10 @@ If you know of family members and friends who are keen to sign up for these sess
 
 **Learn what Singaporeans have shared at the Singapore Together Emerging Stronger Conversations. Download Singapore Together Emerging Stronger Conversations – A Report and the Infographics. 
 
-[Singapore Together Emerging Stronger Conversations – A Report (published 9 February 2021)]\(/files/SG_Together_Emerging_Stronger_Conversations_-_Report.pdf){:target="_blank"} 
-[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (English) (9 February 2021)]\(/files/SG_Together_ESC_Report_Summary_Infographics_(English).pdf){:target="_blank"} 
-[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Chinese) (9 February 2021)]\(/files/SG_Together_ESC_Report_Summary_Infographics_(Chinese).pdf){:target="_blank"} 
-[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Malay) (9 February 2021)]\(/files/SG_Together_ESC_Report_Summary_Infographics_(Malay).pdf){:target="_blank"} 
+[Singapore Together Emerging Stronger Conversations – A Report (published 9 February 2021)](/files/SG_Together_Emerging_Stronger_Conversations_-_Report.pdf){:target="_blank"}\
+[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (English) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(English).pdf){:target="_blank"}\
+[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Chinese) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(Chinese).pdf){:target="_blank"}\
+[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Malay) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(Malay).pdf){:target="_blank"}\
 *Coming soon!* Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Tamil)\
 [SG Together ESC sessions (6 - 18 September 2020)](/files/Singapore_Together_Infographics_Series_4.pdf){:target="_blank"}  
 [SG Together ESC sessions (23 August - 5 September 2020)](/files/Singapore_Together_Infographics_Series_3.pdf){:target="_blank"}  
