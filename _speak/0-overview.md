@@ -41,13 +41,29 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Why I opted for Covid-19 vaccination now, instead of waiting
+
+Unsure about whether you should get a Covid-19 vaccination? For Dr Desmond Wai, there was no hesitation. He feels that the disease is worse than any fears about the vaccine, and trusts both the science behind the vaccines and our implementation programme. Follow his train of thought here. 
+
+Source: [today online](https://www.todayonline.com/commentary/why-i-had-my-covid-19-vaccination){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Four ways to cope with stress
 
 While a little stress can actually be motivating, we sometimes experience too much of it. If the current pandemic has left you feeling a little low, check out these 4 tips from wellness experts on how to cope better.
 
 Source: [The Straits Times](https://www.straitstimes.com/life/four-ways-to-cope-with-stress){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs </div>
+<div class="heading-pillar">Finding Support: Jobs</div>
+
+#### Where the jobs are: Breaking stereotypes, youths seize opportunities in cleaning, waste management sectors
+
+The pandemic has changed employment prospects, with many industries facing hard times. However, the cleaning and waste management sectors are thriving. Considered unglamorous, they’re increasingly being transformed by technology and digitalisation, with many training opportunities. Read how its biggest requirement is for you to keep an open mind.
+
+Source: [today online](https://www.todayonline.com/singapore/where-jobs-are-breaking-stereotypes-youths-seize-opportunities-unglam-cleaning-waste){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs</div>
 
 #### Moving on: Age is not a problem for a career switch
 
@@ -55,13 +71,29 @@ How would we deal with making a career switch later in our working careers? At 6
 
 Source: [AsiaOne](https://www.asiaone.com/singapore/moving-age-not-problem-career-switch){:target="_blank"}
 
-<div class="heading-pillar">Making Connections </div>
+<div class="heading-pillar">Making Connections</div>
+
+#### My nenek is a volunteer!
+
+Anyone can be a volunteer; just ask 65-year old grandmother Mdm Rosnaini Achmad. With a big dose of love, compassion and patience, and despite her heart condition, she brings joy to the Singapore Red Cross’ Day Activity Centre for the Disabled every week. Let her story inspire you.
+
+Source: [Red Cross Singapore](https://www.redcross.sg/news-stories/stories/951-my-nenek-is-a-volunteer.html){:target="_blank"}
+
+<div class="heading-pillar">Making Connections</div>
 
 #### Commentary: Chinese New Year shouldn’t be the only time we meet our extended family 
 
 Many extended Chinese families are losing a deeper connection, either because of busy lives, or over-relying on digital convenience. Too often, get-togethers only happen at Chinese New Year. But without more frequent visits, how do we keep those familial bonds strong? One writer shares his memories and views. 
 
 Source: [CNA](https://www.channelnewsasia.com/news/commentary/cny-celebrations-restrictions-extended-family-covid-19-14037730){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### Many step up to give their time, money to the needy
+
+Pay cuts, job losses, financial difficulties … the pandemic has taken a toll on many Singaporeans. However, many big hearted Singaporeans stepped up to help. Some started ground-up initiatives delivering meals, sewing masks and helping to combat loneliness, among other efforts. Find out more about their actions. 
+
+Source: [The Straits Times](https://www.straitstimes.com/singapore/many-step-up-to-give-their-time-money-to-the-needy){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
