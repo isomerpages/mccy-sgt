@@ -41,67 +41,35 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
-#### Why I opted for Covid-19 vaccination now, instead of waiting
+#### Detox your body without going on a fad diet 
 
-Unsure about whether you should get a Covid-19 vaccination? For Dr Desmond Wai, there was no hesitation. He feels that the disease is worse than any fears about the vaccine, and trusts both the science behind the vaccines and our implementation programme. Follow his train of thought here. 
+For many of us, it’s hard to resist overindulging on goodies. A fad diet may help… for a while. Unfortunately, when the diet ends, so do the favourable effects. Why not try detoxing instead? Learn how incorporating some detox solutions as lifelong healthy eating habits can make a big difference. 
 
-Source: [today online](https://www.todayonline.com/commentary/why-i-had-my-covid-19-vaccination){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### Four ways to cope with stress
-
-While a little stress can actually be motivating, we sometimes experience too much of it. If the current pandemic has left you feeling a little low, check out these 4 tips from wellness experts on how to cope better.
-
-Source: [The Straits Times](https://www.straitstimes.com/life/four-ways-to-cope-with-stress){:target="_blank"}
+Source: [The New Paper](https://www.tnp.sg/lifestyle/health/detox-your-body-without-going-fad-diet){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
-#### Where the jobs are: Breaking stereotypes, youths seize opportunities in cleaning, waste management sectors
+#### Disabled job seekers turn to urban farming as COVID-19 affects employment opportunities
 
-The pandemic has changed employment prospects, with many industries facing hard times. However, the cleaning and waste management sectors are thriving. Considered unglamorous, they’re increasingly being transformed by technology and digitalisation, with many training opportunities. Read how its biggest requirement is for you to keep an open mind.
+COVID-19 made it harder for the disabled to find jobs, but one unusual opportunity cropped up – in the farming industry. The disabled practise quality control, carefully inspecting fresh vegetables before they eventually end up on our plates, ensuring that only the best reach us. Read about their efforts.
 
-Source: [today online](https://www.todayonline.com/singapore/where-jobs-are-breaking-stereotypes-youths-seize-opportunities-unglam-cleaning-waste){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs</div>
-
-#### Moving on: Age is not a problem for a career switch
-
-How would we deal with making a career switch later in our working careers? At 60, that’s what Becky Chang faced when her division was closed. Looking for opportunities, she tapped on contacts she had made over the last 30 years. Learn how she upskilled and succeeded. 
-
-Source: [AsiaOne](https://www.asiaone.com/singapore/moving-age-not-problem-career-switch){:target="_blank"}
+Source: [CNA](https://www.channelnewsasia.com/news/singapore/disabled-pwds-jobs-urban-farming-covid-19-employment-14095000){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
-#### My nenek is a volunteer!
+#### Sri Mariamman Temple volunteers spread CNY cheer
 
-Anyone can be a volunteer; just ask 65-year old grandmother Mdm Rosnaini Achmad. With a big dose of love, compassion and patience, and despite her heart condition, she brings joy to the Singapore Red Cross’ Day Activity Centre for the Disabled every week. Let her story inspire you.
+For over 17 years, Sri Mariamman Temple has hosted seniors to a Chinese New Year lunch on their premises. To keep the tradition going this year, volunteers delivered festive goodies and lunch in bento boxes to the seniors instead, sharing across religious and ethnic groups in true Singapore-style. 
 
-Source: [Red Cross Singapore](https://www.redcross.sg/news-stories/stories/951-my-nenek-is-a-volunteer.html){:target="_blank"}
-
-<div class="heading-pillar">Making Connections</div>
-
-#### Commentary: Chinese New Year shouldn’t be the only time we meet our extended family 
-
-Many extended Chinese families are losing a deeper connection, either because of busy lives, or over-relying on digital convenience. Too often, get-togethers only happen at Chinese New Year. But without more frequent visits, how do we keep those familial bonds strong? One writer shares his memories and views. 
-
-Source: [CNA](https://www.channelnewsasia.com/news/commentary/cny-celebrations-restrictions-extended-family-covid-19-14037730){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/community/sri-mariamman-temple-volunteers-spread-cny-cheer){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
-#### Many step up to give their time, money to the needy
+#### She wants to give people with special needs a chance to strut their stuff
 
-Pay cuts, job losses, financial difficulties … the pandemic has taken a toll on many Singaporeans. However, many big hearted Singaporeans stepped up to help. Some started ground-up initiatives delivering meals, sewing masks and helping to combat loneliness, among other efforts. Find out more about their actions. 
+Eileen Yap saw that those with special needs have hopes, dreams and talents just like everyone else. So she set up a social enterprise, Singapore Fashion Runway, in 2015 to give them an outlet for expression. Read how it’s been embracing differences and redefining traditional stereotypes of beauty ever since. 
 
-Source: [The Straits Times](https://www.straitstimes.com/singapore/many-step-up-to-give-their-time-money-to-the-needy){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### Organisations, booking platforms help S’poreans ‘donate’ SingapoRediscovers vouchers to charity
-
-With overseas travel at a standstill, locals are using SingapoRediscovers vouchers to explore the charms of our island. Happily, some Singaporeans are also helping the less fortunate as well as migrant workers do the same. If you’d like to donate your vouchers, we have some suggestions.
-
-Source: [The Straits Times](https://www.straitstimes.com/singapore/organisations-booking-platforms-help-sporeans-donate-singaporediscovers-vouchers-to){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/special-needs-chance-strut-stuff/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
