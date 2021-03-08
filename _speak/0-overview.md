@@ -16,7 +16,7 @@ If you know of family members and friends who are keen to sign up for these sess
 
 &nbsp;
 
-![Be inspired to play your part](/images/speak-header-6.jpg)
+![Read all about them](/images/speak-header-7.jpg)
 
 **Learn what Singaporeans have said!**
 
