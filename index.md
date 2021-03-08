@@ -37,8 +37,8 @@ sections:
     - infopic:
         title: Speak
         subtitle: Get Involved
-        description: Join Singaporeans from all walks of life to discuss national policies and community issues. Together, we can better understand one another and solve issues together.
-        button: Sign Up
+        description: Singaporeans have shared their reflections, ideas and aspirations for a post-COVID Singapore. Browse our summary report and infographics to understand each other’s perspectives.
+        button: Discover More
         url: /speak/
         image: /images/homepage-image-2.jpg
         alt: Speak
