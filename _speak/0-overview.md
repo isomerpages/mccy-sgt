@@ -16,17 +16,6 @@ If you know of family members and friends who are keen to sign up for these sess
 
 &nbsp;
 
-![See what our participants say](/images/speak-header-6.jpg)
-
-**Learn what Singaporeans have shared at the Singapore Together Emerging Stronger Conversations.**
-
-[SG Together ESC sessions (6 - 18 September 2020)](/files/Singapore_Together_Infographics_Series_4.pdf){:target="_blank"}  
-[SG Together ESC sessions (23 August - 5 September 2020)](/files/Singapore_Together_Infographics_Series_3.pdf){:target="_blank"}  
-[SG Together ESC sessions (7 - 22 August 2020)](/files/Singapore_Together_Infographics_Series_2.pdf){:target="_blank"}  
-[SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
-
-&nbsp;
-
 ![Be inspired to play your part](/images/speak-header-6.jpg)
 
 **Learn what Singaporeans have said!**
@@ -37,11 +26,15 @@ Explore the top 15 themes from the SG Together Emerging Stronger Conversations!
 
 **Download *Singapore Together Emerging Stronger Conversations – A Summary* and the Infographics.**
 
-[Singapore Together Emerging Stronger Conversations – A Summary (published 9 February 2021)](/files/SG_Together_Emerging_Stronger_Conversations_Summary.pdf){:target="_blank"}\
-[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (English) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(English).pdf){:target="_blank"}\
-[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Chinese) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(Chinese).pdf){:target="_blank"}\
-[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Malay) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(Malay).pdf){:target="_blank"}\
-[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Tamil)](/files/SG_Together_ESC_Report_Summary_Infographics_(Tamil).pdf){:target="_blank"}\
+[Singapore Together Emerging Stronger Conversations – A Summary (published 9 February 2021)](/files/SG_Together_Emerging_Stronger_Conversations_Summary.pdf){:target="_blank"}  
+[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (English) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(English).pdf){:target="_blank"}  
+[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Chinese) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(Chinese).pdf){:target="_blank"}  
+[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Malay) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(Malay).pdf){:target="_blank"}  
+[Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (Tamil)](/files/SG_Together_ESC_Report_Summary_Infographics_(Tamil).pdf){:target="_blank"}  
+[SG Together ESC sessions (6 - 18 September 2020)](/files/Singapore_Together_Infographics_Series_4.pdf){:target="_blank"}  
+[SG Together ESC sessions (23 August - 5 September 2020)](/files/Singapore_Together_Infographics_Series_3.pdf){:target="_blank"}  
+[SG Together ESC sessions (7 - 22 August 2020)](/files/Singapore_Together_Infographics_Series_2.pdf){:target="_blank"}  
+[SG Together ESC sessions (June - 6 August 2020)](/files/Singapore_Together_Infographics_Series_1.pdf){:target="_blank"}  
 
 &nbsp;
 
