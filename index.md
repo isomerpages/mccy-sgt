@@ -37,7 +37,7 @@ sections:
     - infopic:
         title: Speak
         subtitle: Get Involved
-        description: Singaporeans have shared their reflections, ideas and aspirations for a post-COVID Singapore. Browse our summary report and infographics to understand each other’s perspectives.
+        description: Singaporeans have shared their reflections, ideas and aspirations for a post-COVID Singapore. Browse our SG Together Emerging Stronger Conversations – A summary report and infographics to understand each other’s perspectives.
         button: Discover More
         url: /speak/
         image: /images/homepage-image-2.jpg
