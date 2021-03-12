@@ -7,8 +7,8 @@ sections:
     - hero:
         title: Singapore Together
         subtitle: Together, we will emerge stronger. 
-        button: Join the Conversations
-        url: https://go.gov.sg/esconversations
+        button: Read our views
+        url: /speak/
         background: /images/Banner.jpg
         key_highlights:
             - title: Singapore Together
