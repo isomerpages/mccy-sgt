@@ -22,7 +22,7 @@ Explore the top 15 themes from the SG Together Emerging Stronger Conversations!
 
 [Visit our main website now](https://www.sg/emergingstrongerconversations){:target="_blank"}
 
-**Download *Singapore Together Emerging Stronger Conversations – A Summary* and the Infographics.**
+**Download the *Singapore Together Emerging Stronger Conversations – A Summary* report and infographics.**
 
 [Singapore Together Emerging Stronger Conversations – A Summary (published 9 February 2021)](/files/SG_Together_Emerging_Stronger_Conversations_Summary.pdf){:target="_blank"}  
 [Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (English) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(English).pdf){:target="_blank"}  
