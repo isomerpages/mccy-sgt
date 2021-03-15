@@ -8,11 +8,9 @@ permalink: /speak/
 
 ### Emerging Stronger Conversations
 
-The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience. Join us for a series of conversations to share your hopes for a resilient, post-COVID Singapore society, and how we can work together to create a better future. 
+The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience.
 
-If you know of family members and friends who are keen to sign up for these sessions, please encourage them to sign up.
-
-[Register for the Emerging Stronger Conversations](https://go.gov.sg/esconversations){:target="_blank"}
+Learn more about Singaporeans’ perspectives from the SG Together Emerging Stronger Conversations – A Summary report and infographics.
 
 &nbsp;
 
@@ -24,7 +22,7 @@ Explore the top 15 themes from the SG Together Emerging Stronger Conversations!
 
 [Visit our main website now](https://www.sg/emergingstrongerconversations){:target="_blank"}
 
-**Download *Singapore Together Emerging Stronger Conversations – A Summary* and the Infographics.**
+**Download the *Singapore Together Emerging Stronger Conversations – A Summary* report and infographics.**
 
 [Singapore Together Emerging Stronger Conversations – A Summary (published 9 February 2021)](/files/SG_Together_Emerging_Stronger_Conversations_Summary.pdf){:target="_blank"}  
 [Singapore Together Emerging Stronger Conversations – A Reflection of We the People of Singapore Infographics (English) (9 February 2021)](/files/SG_Together_ESC_Report_Summary_Infographics_(English).pdf){:target="_blank"}  
@@ -51,6 +49,14 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Reaching out helped ease depression and anxiety brought about by pandemic
+
+Feel like pandemic has left you struggling? Share your feelings and you might find that you’re not alone. Also, telling your family or friends that you’re feeling depressed, fearful, anxious or lonely can start your healing process. Read how a weekly online check-in on social media has helped this writer.
+
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/how-to-ease-depression-anxiety-in-pandemic-14184468){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Can exercise make you more creative and think more innovatively?
 
 If you’ve felt mentally recharged after exercising, your feelings are backed by research. Exercising delivers extra blood, oxygen and nutrients to your brain, which stimulates your thinking, creativity and innovativeness, as well as sharpens your reasoning. Read how exercise can boost your brainpower. 
@@ -64,6 +70,14 @@ Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/can-ex
 For many of us, it’s hard to resist overindulging on goodies. A fad diet may help… for a while. Unfortunately, when the diet ends, so do the favourable effects. Why not try detoxing instead? Learn how incorporating some detox solutions as lifelong healthy eating habits can make a big difference. 
 
 Source: [The New Paper](https://www.tnp.sg/lifestyle/health/detox-your-body-without-going-fad-diet){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs</div>
+
+#### Here are some tips to get hired at a virtual job fair from a career coach who has helped over 500 jobseekers
+
+Looking for a job during the pandemic requires a new approach. Often, that has meant searching online as well as adjusting to online interviews. Feeling lost? A career coach like Aree can offer an honest assessment and feedback. Here, she gives some tips to help you find success.
+
+Source: [Mothership](https://mothership.sg/2021/03/job-street-interview-tips/){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -83,6 +97,14 @@ Source: [CNA](https://www.channelnewsasia.com/news/singapore/disabled-pwds-jobs-
 
 <div class="heading-pillar">Making Connections</div>
 
+#### Migrant worker handyman spends hours searching for door roller, S’pore man pays double for hard work
+
+Hiring a handyman to complete a home repair job may seem like a normal transaction, but for one Singaporean homeowner, it was an eye-opening experience. He gained an insight into the hardships and sacrifices that migrant workers like Anowar face and endure. This homeowner shares his story here.
+
+Source: [Mothership](https://mothership.sg/2021/02/migrant-worker-handyman-east-coast/){:target="_blank"}
+
+<div class="heading-pillar">Making Connections</div>
+
 #### Her son’s battle with leukaemia inspires her to use his final artwork to help others
 
 From a young age, Joel battled leukaemia, yet he was moved by others who were suffering. His final wish was to raise funds for the Children’s Cancer Foundation through his art. His mother fulfilled this by selling tote bags featuring his final artwork. Be inspired by Joel’s story.
@@ -96,6 +118,14 @@ Source: [The Pride](https://pride.kindness.sg/son-battle-with-leukaemia-use-artw
 For over 17 years, Sri Mariamman Temple has hosted seniors to a Chinese New Year lunch on their premises. To keep the tradition going this year, volunteers delivered festive goodies and lunch in bento boxes to the seniors instead, sharing across religious and ethnic groups in true Singapore-style. 
 
 Source: [The Straits Times](https://www.straitstimes.com/singapore/community/sri-mariamman-temple-volunteers-spread-cny-cheer){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### He helps the poor, the disabled and the forgotten to find their dignity
+
+To help the underprivileged and disadvantaged, Koh Seng Choon set up a social enterprise called Project Dignity. Located in a food court, this food and beverage outlet offered them dignified employment as they learn the related skills and knowledge. Learn how many have succeeded in their roles through this enterprise. 
+
+Source: [The Pride](https://pride.kindness.sg/he-helps-the-poor-the-disabled-and-the-forgotten-to-find-their-dignity/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
