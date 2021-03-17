@@ -14,6 +14,3 @@ Whatever our backgrounds or interests, we can contribute in areas that  we care 
 
 ![SGTogether](/images/sgt-logo.jpg){: .img-responsive}
 
-<div class="video-responsive" style="padding-bottom: 56.228%;">
-  <iframe width="859" height="483" src="https://www.youtube.com/embed/FDs5qMZBwMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
