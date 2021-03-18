@@ -12,8 +12,5 @@ Launched by Deputy Prime Minister Heng Swee Keat in June 2019, the movement aims
 
 Whatever our backgrounds or interests, we can contribute in areas that  we care about. Let's harness our talents, turn diversity into strengths, overcome challenges and be a strong nation that present and future generations will be proud of.
 
-![SGTogether](/images/sgt-logo.jpg){: .img-responsive}
+![SGTogether](/images/sgt-logo.jpg)
 
-<div class="video-responsive" style="padding-bottom: 56.228%;">
-  <iframe width="859" height="483" src="https://www.youtube.com/embed/FDs5qMZBwMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
