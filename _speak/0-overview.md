@@ -49,6 +49,14 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### How to write a gratitude letter that will make you and the recipient feel good
+
+It’s time to revive letter writing and send a gratitude letter. Thanking someone for something they’ve said or done can leave both you and your recipient feeling good. A scientific study backs this up! Ready to start? Check out some useful tips before you put pen to paper. 
+
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/how-to-write-a-gratitude-letter-14313504){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Reaching out helped ease depression and anxiety brought about by pandemic
 
 Feel like pandemic has left you struggling? Share your feelings and you might find that you’re not alone. Also, telling your family or friends that you’re feeling depressed, fearful, anxious or lonely can start your healing process. Read how a weekly online check-in on social media has helped this writer.
@@ -70,6 +78,14 @@ Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/can-ex
 For many of us, it’s hard to resist overindulging on goodies. A fad diet may help… for a while. Unfortunately, when the diet ends, so do the favourable effects. Why not try detoxing instead? Learn how incorporating some detox solutions as lifelong healthy eating habits can make a big difference. 
 
 Source: [The New Paper](https://www.tnp.sg/lifestyle/health/detox-your-body-without-going-fad-diet){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Jobs</div>
+
+#### Where the Jobs Are: Going green and high-tech, construction sector draws youth who bring plans on paper to life
+
+The pandemic has altered the job scene and opportunities. Once less popular, the construction industry is now regaining interest. Driven by technology and the need for sustainability, it’s attracting young talents like Ms Danilah, Mr Pang and Ms Seoh to various areas of the sector. Explore their stories here. 
+
+Source: [today online](https://www.todayonline.com/singapore/where-jobs-are-going-green-and-high-tech-construction-sector-draws-youth-who-make-plans){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -97,6 +113,14 @@ Source: [CNA](https://www.channelnewsasia.com/news/singapore/disabled-pwds-jobs-
 
 <div class="heading-pillar">Making Connections</div>
 
+#### Entrepreneur who was once a troubled teen helps at-risk youths by sharing experiences
+
+Jasper Yap believes he can effectively help troubled youths; after all, he was once one himself. Having turned his life around, he now makes time to volunteer with a youth outreach programme, sharing his past and supporting those who need help. Read how he’s giving back to the community.
+
+Source: [The Straits Times](https://www.straitstimes.com/singapore/troubled-youth-turned-successful-entrepreneur-helping-others){:target="_blank"}
+
+<div class="heading-pillar">Making Connections</div>
+
 #### Migrant worker handyman spends hours searching for door roller, S’pore man pays double for hard work
 
 Hiring a handyman to complete a home repair job may seem like a normal transaction, but for one Singaporean homeowner, it was an eye-opening experience. He gained an insight into the hardships and sacrifices that migrant workers like Anowar face and endure. This homeowner shares his story here.
@@ -118,6 +142,14 @@ Source: [The Pride](https://pride.kindness.sg/son-battle-with-leukaemia-use-artw
 For over 17 years, Sri Mariamman Temple has hosted seniors to a Chinese New Year lunch on their premises. To keep the tradition going this year, volunteers delivered festive goodies and lunch in bento boxes to the seniors instead, sharing across religious and ethnic groups in true Singapore-style. 
 
 Source: [The Straits Times](https://www.straitstimes.com/singapore/community/sri-mariamman-temple-volunteers-spread-cny-cheer){:target="_blank"}
+
+<div class="heading-pillar">Building Our Community</div>  
+
+#### Community Chest launching initiative for customers to donate through businesses’ payment platforms
+
+The Community Chest is launching Change for Charity, hoping to make giving a part of our everyday lives. By partnering businesses, it will offer more platforms with regular donation options, to support various social service programmes. Customers could also redeem rewards or points as cash donations. Learn more about it. 
+
+Source: [Mothership](https://mothership.sg/2021/03/charitable-giving-cos-msf/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
