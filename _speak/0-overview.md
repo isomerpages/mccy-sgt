@@ -63,22 +63,6 @@ Feel like pandemic has left you struggling? Share your feelings and you might fi
 
 Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/how-to-ease-depression-anxiety-in-pandemic-14184468){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### Can exercise make you more creative and think more innovatively?
-
-If you’ve felt mentally recharged after exercising, your feelings are backed by research. Exercising delivers extra blood, oxygen and nutrients to your brain, which stimulates your thinking, creativity and innovativeness, as well as sharpens your reasoning. Read how exercise can boost your brainpower. 
-
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/can-exercise-make-you-more-creative-and-happier-14108766){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### Detox your body without going on a fad diet 
-
-For many of us, it’s hard to resist overindulging on goodies. A fad diet may help… for a while. Unfortunately, when the diet ends, so do the favourable effects. Why not try detoxing instead? Learn how incorporating some detox solutions as lifelong healthy eating habits can make a big difference. 
-
-Source: [The New Paper](https://www.tnp.sg/lifestyle/health/detox-your-body-without-going-fad-diet){:target="_blank"}
-
 <div class="heading-pillar">Finding Support: Jobs</div>
 
 #### Where the Jobs Are: Going green and high-tech, construction sector draws youth who bring plans on paper to life
@@ -94,22 +78,6 @@ Source: [today online](https://www.todayonline.com/singapore/where-jobs-are-goin
 Looking for a job during the pandemic requires a new approach. Often, that has meant searching online as well as adjusting to online interviews. Feeling lost? A career coach like Aree can offer an honest assessment and feedback. Here, she gives some tips to help you find success.
 
 Source: [Mothership](https://mothership.sg/2021/03/job-street-interview-tips/){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs</div>
-
-#### Retrenched from her Changi Airport job, she’s making a career switch at 50 – to healthcare
-
-When she lost her customer service job of 14 years, Malliga was worried. How would she pay for her family’s medical bills, her mortgage, as well as her child’s education? Not giving up easily, she explored every option. Learn how she’s succeeding in retraining for her new role.
-
-Source: [CNA](https://www.channelnewsasia.com/news/cnainsider/retrenched-changi-airport-hospital-healthcare-jobs-14170438){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs</div>
-
-#### Disabled job seekers turn to urban farming as COVID-19 affects employment opportunities
-
-COVID-19 made it harder for the disabled to find jobs, but one unusual opportunity cropped up – in the farming industry. The disabled practise quality control, carefully inspecting fresh vegetables before they eventually end up on our plates, ensuring that only the best reach us. Read about their efforts.
-
-Source: [CNA](https://www.channelnewsasia.com/news/singapore/disabled-pwds-jobs-urban-farming-covid-19-employment-14095000){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
@@ -127,22 +95,6 @@ Hiring a handyman to complete a home repair job may seem like a normal transacti
 
 Source: [Mothership](https://mothership.sg/2021/02/migrant-worker-handyman-east-coast/){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div>
-
-#### Her son’s battle with leukaemia inspires her to use his final artwork to help others
-
-From a young age, Joel battled leukaemia, yet he was moved by others who were suffering. His final wish was to raise funds for the Children’s Cancer Foundation through his art. His mother fulfilled this by selling tote bags featuring his final artwork. Be inspired by Joel’s story.
-
-Source: [The Pride](https://pride.kindness.sg/son-battle-with-leukaemia-use-artwork-help-others/){:target="_blank"}
-
-<div class="heading-pillar">Making Connections</div>
-
-#### Sri Mariamman Temple volunteers spread CNY cheer
-
-For over 17 years, Sri Mariamman Temple has hosted seniors to a Chinese New Year lunch on their premises. To keep the tradition going this year, volunteers delivered festive goodies and lunch in bento boxes to the seniors instead, sharing across religious and ethnic groups in true Singapore-style. 
-
-Source: [The Straits Times](https://www.straitstimes.com/singapore/community/sri-mariamman-temple-volunteers-spread-cny-cheer){:target="_blank"}
-
 <div class="heading-pillar">Building Our Community</div>  
 
 #### Community Chest launching initiative for customers to donate through businesses’ payment platforms
@@ -158,22 +110,6 @@ Source: [Mothership](https://mothership.sg/2021/03/charitable-giving-cos-msf/){:
 To help the underprivileged and disadvantaged, Koh Seng Choon set up a social enterprise called Project Dignity. Located in a food court, this food and beverage outlet offered them dignified employment as they learn the related skills and knowledge. Learn how many have succeeded in their roles through this enterprise. 
 
 Source: [The Pride](https://pride.kindness.sg/he-helps-the-poor-the-disabled-and-the-forgotten-to-find-their-dignity/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### No such thing as a deed too small: Neighbours and volunteers come together to foster the kampung spirit
-
-While we have our immediate family, sometimes we rely on our second family – our neighbours – just as much. Living next to us, they often help with both small errands and emergencies. Learn how volunteer groups are galvanising neighbours to do even more to support each other. 
-
-Source: [The Pride](https://pride.kindness.sg/neighbours-volunteers-come-together-foster-kampung-spirit/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### She wants to give people with special needs a chance to strut their stuff
-
-Eileen Yap saw that those with special needs have hopes, dreams and talents just like everyone else. So she set up a social enterprise, Singapore Fashion Runway, in 2015 to give them an outlet for expression. Read how it’s been embracing differences and redefining traditional stereotypes of beauty ever since. 
-
-Source: [The Pride](https://pride.kindness.sg/special-needs-chance-strut-stuff/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
