@@ -6,6 +6,31 @@ permalink: /speak/
 
 ![Discuss national issues](/images/speak-header-1.jpg)
 
+### Opportunities to get involved
+
+Do your part to build a better Singapore, together! Join us for one of these meaningful experiences that will help our society progress as one.
+
+<div class="flex-container">
+	<div class="flex-image"><img src="/images/speak-paragraph-1.png"/></div>
+	<div class="flex-paragraph">
+		<p><span style="text-transform: uppercase;"><strong>Conversations on Singapore Women’s Development</strong></span></p>
+		<p>The “Conversations on Singapore Women’s Development” were launched on Sep 2020 to understand Singaporeans’ aspirations and ideas on how we can further advance our women in Singapore.</p>
+		<p><a href="https://www.reach.gov.sg/participate/conversations-on-singapore-womens-development" target="_blank">Sign up for Conversations on Singapore Women’s Development.</a></p>
+	</div>
+	<div class="flex-image"><img src="/images/speak-paragraph-2.png"/></div>
+	<div class="flex-paragraph">
+		<p><span style="text-transform: uppercase;"><strong>OnePeople.SG</strong></span></p>
+		<p>OnePeople.SG aims to facilitate a deeper understanding of race relations. Find out more about their initiatives, including community engagement programmes.</p>
+		<p><a href="https://www.onepeople.sg/" target="_blank">Find out more about OnePeople.SG initiatives.</a></p>
+	</div>
+	<div class="flex-image"><img src="/images/speak-paragraph-3.jpg"/></div>
+	<div class="flex-paragraph">
+		<p><span style="text-transform: uppercase;"><strong>Emerging Stronger Conversations – Building a Singapore That is Made for Families</strong></span></p>
+		<p>COVID-19 has challenged couples and families in many ways, affecting plans to get married, start or grow our families. Share your views at a series of online conversations from April to September 2021. </p>
+		<p><a href="https://go.gov.sg/families-signup" target="_blank">Sign up for the Emerging Stronger Conversations.</a></p>
+	</div>
+</div>
+
 ### Emerging Stronger Conversations
 
 The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience.
