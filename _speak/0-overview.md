@@ -10,6 +10,8 @@ permalink: /speak/
 
 Do your part to build a better Singapore, together! Join us for one of these meaningful experiences that will help our society progress as one.
 
+<br/>
+
 <div class="flex-container">
 	<div class="flex-image"><img src="/images/speak-paragraph-1.png"/></div>
 	<div class="flex-paragraph">
