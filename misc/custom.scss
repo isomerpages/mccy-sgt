@@ -390,3 +390,21 @@ a.link-icon-block[href$=".pdf"] {
 .resource-card-element .media-card-plain .description {
     display: none;
 }
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-image {
+  width: 15%;
+  margin: 1.3rem 2rem 0px 0.6rem;
+  @media (max-width: 600px){
+    width: 20%;
+  }
+}
+
+.flex-paragraph {
+  width: 75%;
+  margin: 1.3rem 0.6rem;
+}

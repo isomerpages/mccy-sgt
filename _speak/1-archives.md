@@ -7,6 +7,8 @@ permalink: /speak/archives
 ### Archives
 
 | --- | :--- |
+|Finding Support: Well-being | [Can exercise make you more creative and think more innovatively?](https://cnalifestyle.channelnewsasia.com/wellness/can-exercise-make-you-more-creative-and-happier-14108766){:target="_blank"}|
+|Finding Support: Well-being | [Detox your body without going on a fad diet ](https://www.tnp.sg/lifestyle/health/detox-your-body-without-going-fad-diet){:target="_blank"}|
 |Finding Support: Well-being | [Why I opted for Covid-19 vaccination now, instead of waiting](https://www.todayonline.com/commentary/why-i-had-my-covid-19-vaccination){:target="_blank"}|
 |Finding Support: Well-being | [Four ways to cope with stress](https://www.straitstimes.com/life/four-ways-to-cope-with-stress){:target="_blank"}|
 |Finding Support: Well-being | [Gen Y Speaks: I felt lost studying overseas. A year of online courses in S’pore due to Covid-19 has changed that](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-felt-lost-studying-overseas-year-online-classes-spore-due-covid-19-has){:target="_blank"}|
@@ -38,6 +40,8 @@ permalink: /speak/archives
 |Finding Support: Well-being | [Braving the storm together: supporting our children emotionally through Covid-19](https://www.childrensociety.org.sg/resources/ck/files/covid19_parentips.pdf){:target="_blank"}|
 |Finding Support: Well-being | [Juggling WFH while managing the kids? Here’s help](https://www.gov.sg/article/juggling-wfh-while-managing-the-kids-heres-help){:target="_blank"}|
 |Finding Support: Well-being | [How do we develop mental health resilience?](https://www.healthhub.sg/live-healthy/575/mentalhealth_resilience){:target="_blank"}|
+|Finding Support: Jobs | [Retrenched from her Changi Airport job, she’s making a career switch at 50 – to healthcare](https://www.channelnewsasia.com/news/cnainsider/retrenched-changi-airport-hospital-healthcare-jobs-14170438){:target="_blank"}|
+|Finding Support: Jobs | [Disabled job seekers turn to urban farming as COVID-19 affects employment opportunities](https://www.channelnewsasia.com/news/singapore/disabled-pwds-jobs-urban-farming-covid-19-employment-14095000){:target="_blank"}|
 |Finding Support: Jobs | [Where the jobs are: Breaking stereotypes, youths seize opportunities in cleaning, waste management sectors](https://www.todayonline.com/singapore/where-jobs-are-breaking-stereotypes-youths-seize-opportunities-unglam-cleaning-waste){:target="_blank"}|
 |Finding Support: Jobs | [Moving on: Age is not a problem for a career switch](https://www.asiaone.com/singapore/moving-age-not-problem-career-switch){:target="_blank"}|
 |Finding Support: Jobs | [Just graduated? Here’s how work-study programmes can boost your employability](https://www.straitstimes.com/singapore/jobs/just-graduated-heres-how-work-study-programmes-can-boost-your-employability){:target="_blank"}|
@@ -68,6 +72,8 @@ permalink: /speak/archives
 |Finding Support: Jobs | [Versatility To Overcome Life’s Obstacles](https://www.gov.sg/article/versatility-to-overcome-lifes-obstacles){:target="_blank"}|
 |Finding Support: Jobs | [New skills for the new normal: How to upskill from now and beyond](https://content.mycareersfuture.sg/new-skills-new-normal-upskill-now-beyond/){:target="_blank"}|
 |Finding Support: Jobs | [Can You Really #DoWhatYouLove? We Speak to 2 Singaporeans Who Made A Mid-Career Switch](https://blog.moneysmart.sg/career/professional-conversion-programme/){:target="_blank"}|
+|Making Connections | [Her son’s battle with leukaemia inspires her to use his final artwork to help others](https://pride.kindness.sg/son-battle-with-leukaemia-use-artwork-help-others/){:target="_blank"}|
+|Making Connections | [Sri Mariamman Temple volunteers spread CNY cheer](https://www.straitstimes.com/singapore/community/sri-mariamman-temple-volunteers-spread-cny-cheer){:target="_blank"}|
 |Making Connections | [My nenek is a volunteer!](https://www.redcross.sg/news-stories/stories/951-my-nenek-is-a-volunteer.html){:target="_blank"}|
 |Making Connections | [Commentary: Chinese New Year shouldn’t be the only time we meet our extended family](https://www.channelnewsasia.com/news/commentary/cny-celebrations-restrictions-extended-family-covid-19-14037730){:target="_blank"}|
 |Making Connections | [Grab rider personally delivers lost wallet to Jurong East resident’s doorstep: ‘It’s a miracle’](https://stomp.straitstimes.com/singapore-seen/grab-rider-personally-delivers-lost-wallet-to-stompers-doorstep-its-a-miracle-and-im){:target="_blank"}|
@@ -97,6 +103,8 @@ permalink: /speak/archives
 |Making Connections | [Covid-19 has shown that we can be gracious. How do we make it last?](https://www.channelnewsasia.com/news/commentary/covid-19-singapore-gracious-society-kindess-ground-up-12808722?cid=h3_referral_inarticlelinks_24082018_cna){:target="_blank"}|
 |Making Connections | [NTU student volunteers to help hawkers move online](http://soapbox.sg/2020/06/29/ntu-student-help-hawkers/){:target="_blank"}|
 |Making Connections | [Learning New Tech Has No Age Barrier](https://www.gov.sg/article/learning-new-tech-has-no-age-barrier){:target="_blank"}|
+|Building Our Community | [No such thing as a deed too small: Neighbours and volunteers come together to foster the kampung spirit](https://pride.kindness.sg/neighbours-volunteers-come-together-foster-kampung-spirit/){:target="_blank"}|
+|Building Our Community | [She wants to give people with special needs a chance to strut their stuff](https://pride.kindness.sg/special-needs-chance-strut-stuff/){:target="_blank"}|
 |Building Our Community | [Many step up to give their time, money to the needy](https://www.straitstimes.com/singapore/many-step-up-to-give-their-time-money-to-the-needy){:target="_blank"}|
 |Building Our Community | [Organisations, booking platforms help S’poreans ‘donate’ SingapoRediscovers vouchers to charity](https://www.straitstimes.com/singapore/organisations-booking-platforms-help-sporeans-donate-singaporediscovers-vouchers-to){:target="_blank"}|
 |Building Our Community | [Wanted: Stories of Singaporeans’ struggles, triumphs amid Covid-19](https://www.straitstimes.com/singapore/community/wanted-stories-of-singaporeans-struggles-triumphs-amid-covid-19){:target="_blank"}|

@@ -6,6 +6,33 @@ permalink: /speak/
 
 ![Discuss national issues](/images/speak-header-1.jpg)
 
+### Opportunities to get involved
+
+Do your part to build a better Singapore, together! Join us for one of these meaningful experiences that will help our society progress as one.
+
+<br/>
+
+<div class="flex-container">
+	<div class="flex-image"><img src="/images/speak-paragraph-1.png"/></div>
+	<div class="flex-paragraph">
+		<p><span style="text-transform: uppercase;"><strong>Conversations on Singapore Women’s Development</strong></span></p>
+		<p>The “Conversations on Singapore Women’s Development” were launched on Sep 2020 to understand Singaporeans’ aspirations and ideas on how we can further advance our women in Singapore.</p>
+		<p><a href="https://www.reach.gov.sg/participate/conversations-on-singapore-womens-development" target="_blank">Sign up for Conversations on Singapore Women’s Development.</a></p>
+	</div>
+	<div class="flex-image"><img src="/images/speak-paragraph-2.png"/></div>
+	<div class="flex-paragraph">
+		<p><span style="text-transform: uppercase;"><strong>OnePeople.SG</strong></span></p>
+		<p>OnePeople.SG aims to facilitate a deeper understanding of race relations. Find out more about their initiatives, including community engagement programmes.</p>
+		<p><a href="https://www.onepeople.sg/" target="_blank">Find out more about OnePeople.SG initiatives.</a></p>
+	</div>
+	<div class="flex-image"><img src="/images/speak-paragraph-3.jpg"/></div>
+	<div class="flex-paragraph">
+		<p><span style="text-transform: uppercase;"><strong>Emerging Stronger Conversations – Building a Singapore That is Made for Families</strong></span></p>
+		<p>COVID-19 has challenged couples and families in many ways, affecting plans to get married, start or grow our families. Share your views at a series of online conversations from April to September 2021. </p>
+		<p><a href="https://go.gov.sg/families-signup" target="_blank">Join the conversations to build a Singapore that is made for families.</a></p>
+	</div>
+</div>
+
 ### Emerging Stronger Conversations
 
 The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience.
@@ -49,27 +76,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### How to write a gratitude letter that will make you and the recipient feel good
+
+It’s time to revive letter writing and send a gratitude letter. Thanking someone for something they’ve said or done can leave both you and your recipient feeling good. A scientific study backs this up! Ready to start? Check out some useful tips before you put pen to paper. 
+
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/how-to-write-a-gratitude-letter-14313504){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Reaching out helped ease depression and anxiety brought about by pandemic
 
 Feel like pandemic has left you struggling? Share your feelings and you might find that you’re not alone. Also, telling your family or friends that you’re feeling depressed, fearful, anxious or lonely can start your healing process. Read how a weekly online check-in on social media has helped this writer.
 
 Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/how-to-ease-depression-anxiety-in-pandemic-14184468){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div>
+<div class="heading-pillar">Finding Support: Jobs</div>
 
-#### Can exercise make you more creative and think more innovatively?
+#### Where the Jobs Are: Going green and high-tech, construction sector draws youth who bring plans on paper to life
 
-If you’ve felt mentally recharged after exercising, your feelings are backed by research. Exercising delivers extra blood, oxygen and nutrients to your brain, which stimulates your thinking, creativity and innovativeness, as well as sharpens your reasoning. Read how exercise can boost your brainpower. 
+The pandemic has altered the job scene and opportunities. Once less popular, the construction industry is now regaining interest. Driven by technology and the need for sustainability, it’s attracting young talents like Ms Danilah, Mr Pang and Ms Seoh to various areas of the sector. Explore their stories here. 
 
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/can-exercise-make-you-more-creative-and-happier-14108766){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Well-being</div>
-
-#### Detox your body without going on a fad diet 
-
-For many of us, it’s hard to resist overindulging on goodies. A fad diet may help… for a while. Unfortunately, when the diet ends, so do the favourable effects. Why not try detoxing instead? Learn how incorporating some detox solutions as lifelong healthy eating habits can make a big difference. 
-
-Source: [The New Paper](https://www.tnp.sg/lifestyle/health/detox-your-body-without-going-fad-diet){:target="_blank"}
+Source: [today online](https://www.todayonline.com/singapore/where-jobs-are-going-green-and-high-tech-construction-sector-draws-youth-who-make-plans){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -79,21 +106,13 @@ Looking for a job during the pandemic requires a new approach. Often, that has m
 
 Source: [Mothership](https://mothership.sg/2021/03/job-street-interview-tips/){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div>
+<div class="heading-pillar">Making Connections</div>
 
-#### Retrenched from her Changi Airport job, she’s making a career switch at 50 – to healthcare
+#### Entrepreneur who was once a troubled teen helps at-risk youths by sharing experiences
 
-When she lost her customer service job of 14 years, Malliga was worried. How would she pay for her family’s medical bills, her mortgage, as well as her child’s education? Not giving up easily, she explored every option. Learn how she’s succeeding in retraining for her new role.
+Jasper Yap believes he can effectively help troubled youths; after all, he was once one himself. Having turned his life around, he now makes time to volunteer with a youth outreach programme, sharing his past and supporting those who need help. Read how he’s giving back to the community.
 
-Source: [CNA](https://www.channelnewsasia.com/news/cnainsider/retrenched-changi-airport-hospital-healthcare-jobs-14170438){:target="_blank"}
-
-<div class="heading-pillar">Finding Support: Jobs</div>
-
-#### Disabled job seekers turn to urban farming as COVID-19 affects employment opportunities
-
-COVID-19 made it harder for the disabled to find jobs, but one unusual opportunity cropped up – in the farming industry. The disabled practise quality control, carefully inspecting fresh vegetables before they eventually end up on our plates, ensuring that only the best reach us. Read about their efforts.
-
-Source: [CNA](https://www.channelnewsasia.com/news/singapore/disabled-pwds-jobs-urban-farming-covid-19-employment-14095000){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/troubled-youth-turned-successful-entrepreneur-helping-others){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
@@ -103,21 +122,13 @@ Hiring a handyman to complete a home repair job may seem like a normal transacti
 
 Source: [Mothership](https://mothership.sg/2021/02/migrant-worker-handyman-east-coast/){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div>
+<div class="heading-pillar">Building Our Community</div>  
 
-#### Her son’s battle with leukaemia inspires her to use his final artwork to help others
+#### Community Chest launching initiative for customers to donate through businesses’ payment platforms
 
-From a young age, Joel battled leukaemia, yet he was moved by others who were suffering. His final wish was to raise funds for the Children’s Cancer Foundation through his art. His mother fulfilled this by selling tote bags featuring his final artwork. Be inspired by Joel’s story.
+The Community Chest is launching Change for Charity, hoping to make giving a part of our everyday lives. By partnering businesses, it will offer more platforms with regular donation options, to support various social service programmes. Customers could also redeem rewards or points as cash donations. Learn more about it. 
 
-Source: [The Pride](https://pride.kindness.sg/son-battle-with-leukaemia-use-artwork-help-others/){:target="_blank"}
-
-<div class="heading-pillar">Making Connections</div>
-
-#### Sri Mariamman Temple volunteers spread CNY cheer
-
-For over 17 years, Sri Mariamman Temple has hosted seniors to a Chinese New Year lunch on their premises. To keep the tradition going this year, volunteers delivered festive goodies and lunch in bento boxes to the seniors instead, sharing across religious and ethnic groups in true Singapore-style. 
-
-Source: [The Straits Times](https://www.straitstimes.com/singapore/community/sri-mariamman-temple-volunteers-spread-cny-cheer){:target="_blank"}
+Source: [Mothership](https://mothership.sg/2021/03/charitable-giving-cos-msf/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
@@ -126,22 +137,6 @@ Source: [The Straits Times](https://www.straitstimes.com/singapore/community/sri
 To help the underprivileged and disadvantaged, Koh Seng Choon set up a social enterprise called Project Dignity. Located in a food court, this food and beverage outlet offered them dignified employment as they learn the related skills and knowledge. Learn how many have succeeded in their roles through this enterprise. 
 
 Source: [The Pride](https://pride.kindness.sg/he-helps-the-poor-the-disabled-and-the-forgotten-to-find-their-dignity/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### No such thing as a deed too small: Neighbours and volunteers come together to foster the kampung spirit
-
-While we have our immediate family, sometimes we rely on our second family – our neighbours – just as much. Living next to us, they often help with both small errands and emergencies. Learn how volunteer groups are galvanising neighbours to do even more to support each other. 
-
-Source: [The Pride](https://pride.kindness.sg/neighbours-volunteers-come-together-foster-kampung-spirit/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### She wants to give people with special needs a chance to strut their stuff
-
-Eileen Yap saw that those with special needs have hopes, dreams and talents just like everyone else. So she set up a social enterprise, Singapore Fashion Runway, in 2015 to give them an outlet for expression. Read how it’s been embracing differences and redefining traditional stereotypes of beauty ever since. 
-
-Source: [The Pride](https://pride.kindness.sg/special-needs-chance-strut-stuff/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
