@@ -29,7 +29,7 @@ Do your part to build a better Singapore, together! Join us for one of these mea
 	<div class="flex-paragraph">
 		<p><span style="text-transform: uppercase;"><strong>Emerging Stronger Conversations – Building a Singapore That is Made for Families</strong></span></p>
 		<p>COVID-19 has challenged couples and families in many ways, affecting plans to get married, start or grow our families. Share your views at a series of online conversations from April to September 2021. </p>
-		<p><a href="https://go.gov.sg/families-signup" target="_blank">Sign up for the Emerging Stronger Conversations.</a></p>
+		<p><a href="https://go.gov.sg/families-signup" target="_blank">Join the conversations to build a Singapore that is made for families.</a></p>
 	</div>
 </div>
 
