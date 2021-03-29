@@ -1,9 +1,10 @@
 ---
 title: Overview
-description: Join Singaporeans from all walks of life as they share their views on national issues. Register now to participate.
+description: >-
+  Join Singaporeans from all walks of life as they share their views on national
+  issues. Register now to participate.
 permalink: /speak/
 ---
-
 ![Discuss national issues](/images/speak-header-1.jpg)
 
 ### Opportunities to get involved
@@ -38,6 +39,13 @@ Do your part to build a better Singapore, together! Join us for one of these mea
 The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience.
 
 Learn more about Singaporeans’ perspectives from the SG Together Emerging Stronger Conversations – A Summary report and infographics.
+![](/images/ESC-summary-gif-English.mp4)
+
+![](/images/ESC-summary-gif-Chinese.mp4)
+
+![](/images/ESC-summary-gif-Malay.mp4)
+
+![](/images/ESC-summary-gif-Tamil.mp4)
 
 &nbsp;
 
@@ -189,4 +197,3 @@ Share your views on national policies on REACH Chinese WhatsApp Chat Group. Now 
 
 'Stay Strong Singapore' campaign is a ground-up initiative by the Happiness Initiative in partnership with MCCY to offer encouragement beyond the circuit breaker. You can also check out the Telegram sticker pack!  
 [Discover more](https://happinessinitiative.sg/stay-strong-sg){:target="_blank"}
-
