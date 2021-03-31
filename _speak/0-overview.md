@@ -39,13 +39,15 @@ Do your part to build a better Singapore, together! Join us for one of these mea
 The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience.
 
 Learn more about Singaporeans’ perspectives from the SG Together Emerging Stronger Conversations – A Summary report and infographics.
-![](/images/ESC-summary-gif-English.mp4)
 
-![](/images/ESC-summary-gif-Chinese.mp4)
+![ESC summary EN](/images/ESC-summary-english.gif){: .img-responsive}
 
-![](/images/ESC-summary-gif-Malay.mp4)
+![ESC summary SC](/images/ESC-summary-chinese.gif){: .img-responsive}
 
-![](/images/ESC-summary-gif-Tamil.mp4)
+![ESC summary ML](/images/ESC-summary-malay.gif){: .img-responsive}
+
+![ESC summary TM](/images/ESC-summary-tamil.gif){: .img-responsive}
+
 
 &nbsp;
 
