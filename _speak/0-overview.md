@@ -84,19 +84,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Navigating work in the new normal doesn’t need to be a struggle, here’s how
+
+With WFH or hybrid arrangements being the new normal for many of us, work obligations increasingly encroach into our personal time. You may find it hard to draw a clear line between work and life, but here are some useful pointers to help you balance your career and personal well-being.
+
+Source: [The Pride](https://pride.kindness.sg/work-new-normal/){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### How to write a gratitude letter that will make you and the recipient feel good
 
 It’s time to revive letter writing and send a gratitude letter. Thanking someone for something they’ve said or done can leave both you and your recipient feeling good. A scientific study backs this up! Ready to start? Check out some useful tips before you put pen to paper. 
 
 Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/how-to-write-a-gratitude-letter-14313504){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div>
+<div class="heading-pillar">Finding Support: Jobs</div>
 
-#### Reaching out helped ease depression and anxiety brought about by pandemic
+#### Covid-19 took your job? Take advantage of temporary or short-term opportunities to find a new one
 
-Feel like pandemic has left you struggling? Share your feelings and you might find that you’re not alone. Also, telling your family or friends that you’re feeling depressed, fearful, anxious or lonely can start your healing process. Read how a weekly online check-in on social media has helped this writer.
+If 2020 was the year that took our jobs, 2021 will be the year we got them back. Maybe they are not quite in the same form as we know them, but if we adjust our mindset and stay adaptable, we would be able to tide over this difficult period.
 
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/how-to-ease-depression-anxiety-in-pandemic-14184468){:target="_blank"}
+Source: [Mothership](https://mothership.sg/2021/02/workforce-singapore-job-hunting/){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -106,13 +114,13 @@ The pandemic has altered the job scene and opportunities. Once less popular, the
 
 Source: [today online](https://www.todayonline.com/singapore/where-jobs-are-going-green-and-high-tech-construction-sector-draws-youth-who-make-plans){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div>
+<div class="heading-pillar">Making Connections</div>
 
-#### Here are some tips to get hired at a virtual job fair from a career coach who has helped over 500 jobseekers
+#### Budget airline staff help as healthcare assistants
 
-Looking for a job during the pandemic requires a new approach. Often, that has meant searching online as well as adjusting to online interviews. Feeling lost? A career coach like Aree can offer an honest assessment and feedback. Here, she gives some tips to help you find success.
+Rather than sitting idle and blaming the pandemic for decimating their industry, Jetstar Asia crew members have been putting their service to good use while building rapport with patients – as healthcare assistants at the vaccination centre at Changi Airport T4. 
 
-Source: [Mothership](https://mothership.sg/2021/03/job-street-interview-tips/){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/budget-airline-staff-help-as-healthcare-assistants){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
@@ -122,13 +130,13 @@ Jasper Yap believes he can effectively help troubled youths; after all, he was o
 
 Source: [The Straits Times](https://www.straitstimes.com/singapore/troubled-youth-turned-successful-entrepreneur-helping-others){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div>
+<div class="heading-pillar">Building Our Community</div>  
 
-#### Migrant worker handyman spends hours searching for door roller, S’pore man pays double for hard work
+#### They sell tissue-paper packs out of need. Yale-NUS students now striving to make them a ‘visible community’
 
-Hiring a handyman to complete a home repair job may seem like a normal transaction, but for one Singaporean homeowner, it was an eye-opening experience. He gained an insight into the hardships and sacrifices that migrant workers like Anowar face and endure. This homeowner shares his story here.
+Seeing that needy tissue-paper peddlers are lacking support from charities and the community, a group of students from Yale-NUS college sprang into action. Going around talking to these sellers, they have managed to raise awareness and funds to assist these older folks with care packages.
 
-Source: [Mothership](https://mothership.sg/2021/02/migrant-worker-handyman-east-coast/){:target="_blank"}
+Source: [today online](https://www.todayonline.com/singapore/they-sell-tissue-paper-packs-out-need-yale-nus-students-now-striving-make-them-visible){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
@@ -137,14 +145,6 @@ Source: [Mothership](https://mothership.sg/2021/02/migrant-worker-handyman-east-
 The Community Chest is launching Change for Charity, hoping to make giving a part of our everyday lives. By partnering businesses, it will offer more platforms with regular donation options, to support various social service programmes. Customers could also redeem rewards or points as cash donations. Learn more about it. 
 
 Source: [Mothership](https://mothership.sg/2021/03/charitable-giving-cos-msf/){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### He helps the poor, the disabled and the forgotten to find their dignity
-
-To help the underprivileged and disadvantaged, Koh Seng Choon set up a social enterprise called Project Dignity. Located in a food court, this food and beverage outlet offered them dignified employment as they learn the related skills and knowledge. Learn how many have succeeded in their roles through this enterprise. 
-
-Source: [The Pride](https://pride.kindness.sg/he-helps-the-poor-the-disabled-and-the-forgotten-to-find-their-dignity/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
