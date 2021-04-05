@@ -2,7 +2,6 @@
 layout: homepage
 title: Singapore Together
 description: Singapore Together is a movement for all Singaporeans to work together to build our shared future. Join us.
-notification: Please note that the site will be down for maintenance on 5 April 2021, 4PM to 5PM.
 permalink: /
 sections:
     - hero:
