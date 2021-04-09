@@ -86,19 +86,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### To maintain feelings of happiness, you need to work on it a bit
+
+We may find it hard to have lasting feelings of happiness. This is because our brains are hardwired to prioritise negative experiences over positive ones, for survival. However, like a muscle, we can train our minds be more acute to positive feelings. Read about it here.
+
+Source: [The Straits Times](https://www.straitstimes.com/life/to-maintain-feelings-of-happiness-you-need-to-work-on-it-a-bit){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Navigating work in the new normal doesn’t need to be a struggle, here’s how
 
 With WFH or hybrid arrangements being the new normal for many of us, work obligations increasingly encroach into our personal time. You may find it hard to draw a clear line between work and life, but here are some useful pointers to help you balance your career and personal well-being.
 
 Source: [The Pride](https://pride.kindness.sg/work-new-normal/){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div>
+<div class="heading-pillar">Finding Support: Jobs</div>
 
-#### How to write a gratitude letter that will make you and the recipient feel good
+#### Where the Jobs Are: Shedding image of ‘shorts, boots, floppy hat’, farming sector a pull for youths as S'pore bolsters food security
 
-It’s time to revive letter writing and send a gratitude letter. Thanking someone for something they’ve said or done can leave both you and your recipient feeling good. A scientific study backs this up! Ready to start? Check out some useful tips before you put pen to paper. 
+Dirty, back-breaking and low-paid. This is the stereotypical image of a job in the agri-food sector. As we project to meet at least 30% of our nutritional needs locally by 2030, our farming sector is increasingly tech-driven, with a high demand for specialised roles in a fast-growing industry. Find out more.
 
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/how-to-write-a-gratitude-letter-14313504){:target="_blank"}
+Source: [today online](https://www.todayonline.com/singapore/where-jobs-are-shedding-image-shorts-boots-floppy-hat-farming-sector-pull-youths-spore){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -108,13 +116,13 @@ If 2020 was the year that took our jobs, 2021 will be the year we got them back.
 
 Source: [Mothership](https://mothership.sg/2021/02/workforce-singapore-job-hunting/){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div>
+<div class="heading-pillar">Making Connections</div>
 
-#### Where the Jobs Are: Going green and high-tech, construction sector draws youth who bring plans on paper to life
+#### The kampung spirit is real and I found it in this part of Singapore
 
-The pandemic has altered the job scene and opportunities. Once less popular, the construction industry is now regaining interest. Driven by technology and the need for sustainability, it’s attracting young talents like Ms Danilah, Mr Pang and Ms Seoh to various areas of the sector. Explore their stories here. 
+If you think Singapore lost its “kampung spirit” after the 70s, you’d be surprised and delighted to read about Ryan Teo’s first-hand experience – the feeling of kinship and closeness that bonds some of the residents at Bedok Reservoir. The kampung spirit is very much alive and well there. 
 
-Source: [today online](https://www.todayonline.com/singapore/where-jobs-are-going-green-and-high-tech-construction-sector-draws-youth-who-make-plans){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/kampung-spirit-is-real/){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
@@ -124,13 +132,13 @@ Rather than sitting idle and blaming the pandemic for decimating their industry,
 
 Source: [The Straits Times](https://www.straitstimes.com/singapore/budget-airline-staff-help-as-healthcare-assistants){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div>
+<div class="heading-pillar">Building Our Community</div>  
 
-#### Entrepreneur who was once a troubled teen helps at-risk youths by sharing experiences
+#### Gen Y Speaks: My mum's struggle with tech inspired me to start a digital literacy campaign for seniors
 
-Jasper Yap believes he can effectively help troubled youths; after all, he was once one himself. Having turned his life around, he now makes time to volunteer with a youth outreach programme, sharing his past and supporting those who need help. Read how he’s giving back to the community.
+Being digital natives, we often don’t see the difficulties seniors face when grappling with technology. Witnessing his mum’s struggle, one NTU student decided to start a campaign to help seniors, especially the low-income and illiterate, go digital. Read about his team’s effort – aptly named **#CanOneLah!** – here.
 
-Source: [The Straits Times](https://www.straitstimes.com/singapore/troubled-youth-turned-successful-entrepreneur-helping-others){:target="_blank"}
+Source: [today online](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-my-mum-struggled-tech-she-inspired-me-start-digital-literacy-campaign){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
@@ -139,14 +147,6 @@ Source: [The Straits Times](https://www.straitstimes.com/singapore/troubled-yout
 Seeing that needy tissue-paper peddlers are lacking support from charities and the community, a group of students from Yale-NUS college sprang into action. Going around talking to these sellers, they have managed to raise awareness and funds to assist these older folks with care packages.
 
 Source: [today online](https://www.todayonline.com/singapore/they-sell-tissue-paper-packs-out-need-yale-nus-students-now-striving-make-them-visible){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### Community Chest launching initiative for customers to donate through businesses’ payment platforms
-
-The Community Chest is launching Change for Charity, hoping to make giving a part of our everyday lives. By partnering businesses, it will offer more platforms with regular donation options, to support various social service programmes. Customers could also redeem rewards or points as cash donations. Learn more about it. 
-
-Source: [Mothership](https://mothership.sg/2021/03/charitable-giving-cos-msf/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
