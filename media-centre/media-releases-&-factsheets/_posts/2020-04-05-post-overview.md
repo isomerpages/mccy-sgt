@@ -7,7 +7,7 @@ permalink: /media-centre/media-releases-&-factsheets/overview
 ### Media Releases & Factsheets
 
 | --- | :--- |
-|9 Feb 2021 |[Media Release] [Singapore Together Emerging Stronger Conversations Report: Singaporeans’ Aspirations To Co-Create A Caring And Resilient Singapore](/files/Media_Factsheet_on_the_SG_Together_Emerging_Stronger_Conversations_(Issued_9_Feb_2021).pdf){:target="_blank" } |
+|9 Feb 2021 |[Media Release] [Singapore Together Emerging Stronger Conversations Report: Singaporeans’ Aspirations To Co-Create A Caring And Resilient Singapore](/files/Media_Release_on_the_SG_Together_Emerging_Stronger_Conversations_(Issued_9_Feb_2021).pdf){:target="_blank" } |
 |12 Jan 2021 |[Factsheet] [Second Singapore Together Emerging Stronger Conversations For The Malay/Muslim Community Conducted Under CiptaSama@M³](/files/Media_Factsheet_on_the_SG_Together_Emerging_Stronger_Conversations_With_CiptaSama_M3_(Issued_12_Jan_2021).pdf){:target="_blank" } |
 |7 Jan 2021 |[Factsheet] [First Singapore Together Emerging Stronger Conversations For The Malay/Muslim Community Conducted Under CiptaSama@M³](/files/Media_Factsheet_on_the_SG_Together_Emerging_Stronger_Conversations_With_CiptaSama_M3_(Issued_7_Jan_2021).pdf){:target="_blank"} |
 |28 Nov 2020 |[Factsheet] [Singapore Together Emerging Stronger Conversation In Tamil](/files/Media_Factsheet_on_the_SG_Together_Emerging_Stronger_Conversations_(Issued_28_Nov_2020).pdf){:target="_blank"} |
