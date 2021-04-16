@@ -86,19 +86,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Ready to reboot social interactions? Baby steps to get started
+
+After a year of adjusting to the “new normal” – social distancing, mask wearing and working from home – the prospect of returning to face-to-face engagement may provoke some anxiety. As with any significant change to our routine, we just have to take it gradually. Read on to find out more.
+
+Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/ready-to-reboot-social-interactions-baby-steps-to-get-started-14522646){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### To maintain feelings of happiness, you need to work on it a bit
 
 We may find it hard to have lasting feelings of happiness. This is because our brains are hardwired to prioritise negative experiences over positive ones, for survival. However, like a muscle, we can train our minds be more acute to positive feelings. Read about it here.
 
 Source: [The Straits Times](https://www.straitstimes.com/life/to-maintain-feelings-of-happiness-you-need-to-work-on-it-a-bit){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div>
+<div class="heading-pillar">Finding Support: Jobs</div>
 
-#### Navigating work in the new normal doesn’t need to be a struggle, here’s how
+#### How a former policeman upskilled himself to pursue a career in IT
 
-With WFH or hybrid arrangements being the new normal for many of us, work obligations increasingly encroach into our personal time. You may find it hard to draw a clear line between work and life, but here are some useful pointers to help you balance your career and personal well-being.
+When Darrek Lau, 43, left the police force in 2019, he drove for Grab while looking for a course to upskill for future job opportunities. He jumped at the Software Developer Bootcamp included in the upskilling programme provided by GrabAcademy, and has never looked back since. Find out more.
 
-Source: [The Pride](https://pride.kindness.sg/work-new-normal/){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/jobs/how-a-former-policeman-upskilled-himself-to-pursue-a-career-in-it){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -106,15 +114,15 @@ Source: [The Pride](https://pride.kindness.sg/work-new-normal/){:target="_blank"
 
 Dirty, back-breaking and low-paid. This is the stereotypical image of a job in the agri-food sector. As we project to meet at least 30% of our nutritional needs locally by 2030, our farming sector is increasingly tech-driven, with a high demand for specialised roles in a fast-growing industry. Find out more.
 
-Source: [today online](https://www.todayonline.com/singapore/where-jobs-are-shedding-image-shorts-boots-floppy-hat-farming-sector-pull-youths-spore){:target="_blank"}
+Source: [Today Online](https://www.todayonline.com/singapore/where-jobs-are-shedding-image-shorts-boots-floppy-hat-farming-sector-pull-youths-spore){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div>
+<div class="heading-pillar">Making Connections</div>
 
-#### Covid-19 took your job? Take advantage of temporary or short-term opportunities to find a new one
+#### Young S’porean family helps teen with autism find parents after taking wrong bus & losing way
 
-If 2020 was the year that took our jobs, 2021 will be the year we got them back. Maybe they are not quite in the same form as we know them, but if we adjust our mindset and stay adaptable, we would be able to tide over this difficult period.
+As parents of special-needs children, helping them learn to gain independence can be challenging. When Bob Lee realised his autistic son had boarded the wrong bus and was nowhere to be found, he panicked. Find out how the teen was found and how a friendship was forged after that incident.
 
-Source: [Mothership](https://mothership.sg/2021/02/workforce-singapore-job-hunting/){:target="_blank"}
+Source: [Mothership](https://mothership.sg/2021/04/singaporean-family-teen-autism-take-wrong-bus/){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
@@ -124,13 +132,13 @@ If you think Singapore lost its “kampung spirit” after the 70s, you’d be s
 
 Source: [The Pride](https://pride.kindness.sg/kampung-spirit-is-real/){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div>
+<div class="heading-pillar">Building Our Community</div>  
 
-#### Budget airline staff help as healthcare assistants
+#### What she thought was a two-hour volunteering stint during circuit breaker has lasted till now
 
-Rather than sitting idle and blaming the pandemic for decimating their industry, Jetstar Asia crew members have been putting their service to good use while building rapport with patients – as healthcare assistants at the vaccination centre at Changi Airport T4. 
+During Circuit Breaker last year, Lim May-Ann contacted a non-profit via a Facebook post asking for volunteers to repair and refurbish laptops for low-income families. Learn more about what she thought would be a straightforward session instead becoming a fruitful journey, with May-Ann heading their community project helping the less-privileged go online. 
 
-Source: [The Straits Times](https://www.straitstimes.com/singapore/budget-airline-staff-help-as-healthcare-assistants){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/what-she-thought-was-a-two-hour-volunteering-stint-during-circuit-breaker-has-lasted-till){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
@@ -138,15 +146,7 @@ Source: [The Straits Times](https://www.straitstimes.com/singapore/budget-airlin
 
 Being digital natives, we often don’t see the difficulties seniors face when grappling with technology. Witnessing his mum’s struggle, one NTU student decided to start a campaign to help seniors, especially the low-income and illiterate, go digital. Read about his team’s effort – aptly named **#CanOneLah!** – here.
 
-Source: [today online](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-my-mum-struggled-tech-she-inspired-me-start-digital-literacy-campaign){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### They sell tissue-paper packs out of need. Yale-NUS students now striving to make them a ‘visible community’
-
-Seeing that needy tissue-paper peddlers are lacking support from charities and the community, a group of students from Yale-NUS college sprang into action. Going around talking to these sellers, they have managed to raise awareness and funds to assist these older folks with care packages.
-
-Source: [today online](https://www.todayonline.com/singapore/they-sell-tissue-paper-packs-out-need-yale-nus-students-now-striving-make-them-visible){:target="_blank"}
+Source: [Today Online](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-my-mum-struggled-tech-she-inspired-me-start-digital-literacy-campaign){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
