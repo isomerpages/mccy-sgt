@@ -1,0 +1,6 @@
+collections:
+  speak:
+    output: true
+    order:
+      - overview.md
+      - archives.md
