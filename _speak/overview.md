@@ -41,7 +41,7 @@ Do your part to build a better Singapore, together! Join us for one of these mea
 Your views and aspirations shared at national conversations will lead to more meaningful partnerships between the community and government agencies. 
 
 Check out the infographics for some of the partnership initiatives shared in the COS Debate this year.  
-[COS 2021 - Partnerships Updates Infographics](/files/COS_2021_infographics_digital_poster.pdf){:target="_blank"} 
+[COS 2021 - Partnerships Updates Infographics](/files/COS_2021_Partnerships_Updates_Infographics.pdf){:target="_blank"} 
 
 Also look out for opportunities to participate and play a part for Singapore, together at [Our SG](https://www.sg/opportunities){:target="_blank"} website.
 
