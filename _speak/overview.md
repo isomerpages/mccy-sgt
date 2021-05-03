@@ -45,9 +45,7 @@ Check out the infographics for some of the partnership initiatives shared in the
 
 Also look out for opportunities to participate and play a part for Singapore, together at [Our SG](https://www.sg/opportunities){:target="_blank"} website.
 
-&nbsp;
-
-### Emerging Stronger Conversations
+### Singapore Together Emerging Stronger Conversations
 
 The COVID-19 crisis has brought about changes and challenges for our nation. At the same time, it is also an opportunity for us to reflect and learn from our experience.
 
