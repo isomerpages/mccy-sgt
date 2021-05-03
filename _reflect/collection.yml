@@ -1,0 +1,6 @@
+collections:
+  reflect:
+    output: true
+    order:
+      - overview.md
+      - your-stories.md
