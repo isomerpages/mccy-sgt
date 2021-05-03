@@ -7,6 +7,7 @@ permalink: /speak/archives
 ### Archives
 
 | --- | :--- |
+|Finding Support: Well-being | [To maintain feelings of happiness, you need to work on it a bit](https://www.straitstimes.com/life/to-maintain-feelings-of-happiness-you-need-to-work-on-it-a-bit){:target="_blank"}|
 |Finding Support: Well-being | [Navigating work in the new normal doesn’t need to be a struggle, here’s how](https://pride.kindness.sg/work-new-normal/){:target="_blank"}|
 |Finding Support: Well-being | [How to write a gratitude letter that will make you and the recipient feel good](https://cnalifestyle.channelnewsasia.com/wellness/how-to-write-a-gratitude-letter-14313504){:target="_blank"}|
 |Finding Support: Well-being | [Reaching out helped ease depression and anxiety brought about by pandemic](https://cnalifestyle.channelnewsasia.com/wellness/how-to-ease-depression-anxiety-in-pandemic-14184468){:target="_blank"}|
@@ -43,6 +44,7 @@ permalink: /speak/archives
 |Finding Support: Well-being | [Braving the storm together: supporting our children emotionally through Covid-19](https://www.childrensociety.org.sg/resources/ck/files/covid19_parentips.pdf){:target="_blank"}|
 |Finding Support: Well-being | [Juggling WFH while managing the kids? Here’s help](https://www.gov.sg/article/juggling-wfh-while-managing-the-kids-heres-help){:target="_blank"}|
 |Finding Support: Well-being | [How do we develop mental health resilience?](https://www.healthhub.sg/live-healthy/575/mentalhealth_resilience){:target="_blank"}|
+|Finding Support: Jobs | [Where the Jobs Are: Shedding image of ‘shorts, boots, floppy hat’, farming sector a pull for youths as S'pore bolsters food security](https://www.todayonline.com/singapore/where-jobs-are-shedding-image-shorts-boots-floppy-hat-farming-sector-pull-youths-spore){:target="_blank"}|
 |Finding Support: Jobs | [Covid-19 took your job? Take advantage of temporary or short-term opportunities to find a new one](https://mothership.sg/2021/02/workforce-singapore-job-hunting/){:target="_blank"}|
 |Finding Support: Jobs | [Where the Jobs Are: Going green and high-tech, construction sector draws youth who bring plans on paper to life](https://www.todayonline.com/singapore/where-jobs-are-going-green-and-high-tech-construction-sector-draws-youth-who-make-plans){:target="_blank"}|
 |Finding Support: Jobs | [Here are some tips to get hired at a virtual job fair from a career coach who has helped over 500 jobseekers](https://mothership.sg/2021/03/job-street-interview-tips/){:target="_blank"}|
@@ -78,6 +80,7 @@ permalink: /speak/archives
 |Finding Support: Jobs | [Versatility To Overcome Life’s Obstacles](https://www.gov.sg/article/versatility-to-overcome-lifes-obstacles){:target="_blank"}|
 |Finding Support: Jobs | [New skills for the new normal: How to upskill from now and beyond](https://content.mycareersfuture.sg/new-skills-new-normal-upskill-now-beyond/){:target="_blank"}|
 |Finding Support: Jobs | [Can You Really #DoWhatYouLove? We Speak to 2 Singaporeans Who Made A Mid-Career Switch](https://blog.moneysmart.sg/career/professional-conversion-programme/){:target="_blank"}|
+|Making Connections | [The kampung spirit is real and I found it in this part of Singapore](https://pride.kindness.sg/kampung-spirit-is-real/){:target="_blank"}|
 |Making Connections | [Budget airline staff help as healthcare assistants](https://www.straitstimes.com/singapore/budget-airline-staff-help-as-healthcare-assistants){:target="_blank"}|
 |Making Connections | [Entrepreneur who was once a troubled teen helps at-risk youths by sharing experiences](https://www.straitstimes.com/singapore/troubled-youth-turned-successful-entrepreneur-helping-others){:target="_blank"}|
 |Making Connections | [Migrant worker handyman spends hours searching for door roller, S’pore man pays double for hard work](https://mothership.sg/2021/02/migrant-worker-handyman-east-coast/){:target="_blank"}|
@@ -112,6 +115,7 @@ permalink: /speak/archives
 |Making Connections | [Covid-19 has shown that we can be gracious. How do we make it last?](https://www.channelnewsasia.com/news/commentary/covid-19-singapore-gracious-society-kindess-ground-up-12808722?cid=h3_referral_inarticlelinks_24082018_cna){:target="_blank"}|
 |Making Connections | [NTU student volunteers to help hawkers move online](http://soapbox.sg/2020/06/29/ntu-student-help-hawkers/){:target="_blank"}|
 |Making Connections | [Learning New Tech Has No Age Barrier](https://www.gov.sg/article/learning-new-tech-has-no-age-barrier){:target="_blank"}|
+|Building Our Community | [Gen Y Speaks: My mum's struggle with tech inspired me to start a digital literacy campaign for seniors](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-my-mum-struggled-tech-she-inspired-me-start-digital-literacy-campaign){:target="_blank"}|
 |Building Our Community | [They sell tissue-paper packs out of need. Yale-NUS students now striving to make them a ‘visible community’](https://www.todayonline.com/singapore/they-sell-tissue-paper-packs-out-need-yale-nus-students-now-striving-make-them-visible){:target="_blank"}|
 |Building Our Community | [Community Chest launching initiative for customers to donate through businesses’ payment platforms](https://mothership.sg/2021/03/charitable-giving-cos-msf/){:target="_blank"}|
 |Building Our Community | [He helps the poor, the disabled and the forgotten to find their dignity](https://pride.kindness.sg/he-helps-the-poor-the-disabled-and-the-forgotten-to-find-their-dignity/){:target="_blank"}|

@@ -86,19 +86,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Stress relaxation techniques for better mental wellbeing
+
+“Keep calm and carry on” might be a trope, but managing stress is easier than you think. You can begin reducing stress levels with some breathing exercises, and muscle relaxation techniques to ease tension. Find out how you can relieve stress and improve mental wellbeing with just a few easy steps.
+
+Source: [HealthHub](https://www.healthhub.sg/live-healthy/435/stressrelaxationtechniques){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Ready to reboot social interactions? Baby steps to get started
 
 After a year of adjusting to the “new normal” – social distancing, mask wearing and working from home – the prospect of returning to face-to-face engagement may provoke some anxiety. As with any significant change to our routine, we just have to take it gradually. Read on to find out more.
 
 Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/ready-to-reboot-social-interactions-baby-steps-to-get-started-14522646){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div>
+<div class="heading-pillar">Finding Support: Jobs</div>
 
-#### To maintain feelings of happiness, you need to work on it a bit
+#### Jobseekers’ Diaries: I went from being COO to trainee amid Covid-19 and never looked back
 
-We may find it hard to have lasting feelings of happiness. This is because our brains are hardwired to prioritise negative experiences over positive ones, for survival. However, like a muscle, we can train our minds be more acute to positive feelings. Read about it here.
+When he left his COO job at a tech start-up in Malaysia as border restrictions kicked in, Mr Cheng applied to become a crew member – at a fast food chain. Find out more about how he swam against the current and restarted a new career from scratch, with no regrets.
 
-Source: [The Straits Times](https://www.straitstimes.com/life/to-maintain-feelings-of-happiness-you-need-to-work-on-it-a-bit){:target="_blank"}
+Source: [Today Online](https://www.todayonline.com/voices/jobseekers-diaries-i-went-being-chief-operating-officer-trainee-amid-covid-19-and-never){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -108,13 +116,13 @@ When Darrek Lau, 43, left the police force in 2019, he drove for Grab while look
 
 Source: [The Straits Times](https://www.straitstimes.com/singapore/jobs/how-a-former-policeman-upskilled-himself-to-pursue-a-career-in-it){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div>
+<div class="heading-pillar">Making Connections</div>
 
-#### Where the Jobs Are: Shedding image of ‘shorts, boots, floppy hat’, farming sector a pull for youths as S'pore bolsters food security
+#### As volunteering goes virtual, more people are giving their time
 
-Dirty, back-breaking and low-paid. This is the stereotypical image of a job in the agri-food sector. As we project to meet at least 30% of our nutritional needs locally by 2030, our farming sector is increasingly tech-driven, with a high demand for specialised roles in a fast-growing industry. Find out more.
+With remote working becoming the norm, the act of volunteering has also gone digital. The circuit breaker period gave rise to virtual volunteerism, which enables “micro-volunteers” – people who offer help in bursts and give slots of their time to assist in areas like creative work and tech support. Find out more. 
 
-Source: [Today Online](https://www.todayonline.com/singapore/where-jobs-are-shedding-image-shorts-boots-floppy-hat-farming-sector-pull-youths-spore){:target="_blank"}
+Source: [Today Online](https://www.todayonline.com/singapore/volunteering-goes-virtual-more-people-are-giving-their-time){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
@@ -124,13 +132,13 @@ As parents of special-needs children, helping them learn to gain independence ca
 
 Source: [Mothership](https://mothership.sg/2021/04/singaporean-family-teen-autism-take-wrong-bus/){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div>
+<div class="heading-pillar">Building Our Community</div>  
 
-#### The kampung spirit is real and I found it in this part of Singapore
+#### She lost her sight and her hearing but she never lost hope and optimism
 
-If you think Singapore lost its “kampung spirit” after the 70s, you’d be surprised and delighted to read about Ryan Teo’s first-hand experience – the feeling of kinship and closeness that bonds some of the residents at Bedok Reservoir. The kampung spirit is very much alive and well there. 
+No matter how many curveballs life throws at Tan Siew Ling, she lobs them right back. Having lost her sight, both her parents, and then her hearing, she refuses to be defeated. Read about how with some help, she manages to live her life to the fullest of her abilities. 
 
-Source: [The Pride](https://pride.kindness.sg/kampung-spirit-is-real/){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/she-lost-her-sight-and-her-hearing-but-she-never-lost-hope-and-optimism){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
@@ -139,14 +147,6 @@ Source: [The Pride](https://pride.kindness.sg/kampung-spirit-is-real/){:target="
 During Circuit Breaker last year, Lim May-Ann contacted a non-profit via a Facebook post asking for volunteers to repair and refurbish laptops for low-income families. Learn more about what she thought would be a straightforward session instead becoming a fruitful journey, with May-Ann heading their community project helping the less-privileged go online. 
 
 Source: [The Straits Times](https://www.straitstimes.com/singapore/what-she-thought-was-a-two-hour-volunteering-stint-during-circuit-breaker-has-lasted-till){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### Gen Y Speaks: My mum's struggle with tech inspired me to start a digital literacy campaign for seniors
-
-Being digital natives, we often don’t see the difficulties seniors face when grappling with technology. Witnessing his mum’s struggle, one NTU student decided to start a campaign to help seniors, especially the low-income and illiterate, go digital. Read about his team’s effort – aptly named **#CanOneLah!** – here.
-
-Source: [Today Online](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-my-mum-struggled-tech-she-inspired-me-start-digital-literacy-campaign){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
