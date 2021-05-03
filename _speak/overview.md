@@ -5,19 +5,6 @@ description: >-
   issues. Register now to participate.
 permalink: /speak/
 ---
-![Partnership Updates from the COS Debate 2021](/images/speak-header-0.jpg)
-
-### Committee of Supply (COS) Debate 2021
-
-Your views and aspirations shared at national conversations will lead to more meaningful partnerships between the community and government agencies. 
-
-Check out the infographics for some of the partnership initiatives shared in the COS Debate this year.  
-[COS 2021 - Partnerships Updates Infographics](/files/COS_2021_infographics_digital_poster.pdf){:target="_blank"} 
-
-Also look out for opportunities to participate and play a part for Singapore, together at [Our SG](https://www.sg/opportunities){:target="_blank"} website.
-
-&nbsp;
-
 ![Discuss national issues](/images/speak-header-1.jpg)
 
 ### Opportunities to get involved
@@ -46,6 +33,19 @@ Do your part to build a better Singapore, together! Join us for one of these mea
 		<p><a href="https://go.gov.sg/families-signup" target="_blank">Join the conversations to build a Singapore that is made for families.</a></p>
 	</div>
 </div>
+
+![Partnership Updates from the COS Debate 2021](/images/speak-header-0.jpg)
+
+### Committee of Supply (COS) Debate 2021
+
+Your views and aspirations shared at national conversations will lead to more meaningful partnerships between the community and government agencies. 
+
+Check out the infographics for some of the partnership initiatives shared in the COS Debate this year.  
+[COS 2021 - Partnerships Updates Infographics](/files/COS_2021_infographics_digital_poster.pdf){:target="_blank"} 
+
+Also look out for opportunities to participate and play a part for Singapore, together at [Our SG](https://www.sg/opportunities){:target="_blank"} website.
+
+&nbsp;
 
 ### Emerging Stronger Conversations
 
