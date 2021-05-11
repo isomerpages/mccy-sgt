@@ -97,19 +97,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Busting the Myths of Mental Illness
+
+Every patient needs support and help from those around them. Particularly, patients suffering from mental illness. Yet the stigma and taboo surrounding mental illness force many to keep their conditions under wraps. We can do our part. Start by learning the facts and help to debunk mental illness myths here.
+
+Source: [HealthHub](https://www.healthhub.sg/live-healthy/1733/busting-the-myths-of-mental-illness){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Stress relaxation techniques for better mental wellbeing
 
 “Keep calm and carry on” might be a trope, but managing stress is easier than you think. You can begin reducing stress levels with some breathing exercises, and muscle relaxation techniques to ease tension. Find out how you can relieve stress and improve mental wellbeing with just a few easy steps.
 
 Source: [HealthHub](https://www.healthhub.sg/live-healthy/435/stressrelaxationtechniques){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div>
+<div class="heading-pillar">Finding Support: Jobs</div>
 
-#### Ready to reboot social interactions? Baby steps to get started
+#### Guilt, grief and loneliness from Covid-19: Medical social worker at NCID lends ‘soft touch’ in women-dominated field
 
-After a year of adjusting to the “new normal” – social distancing, mask wearing and working from home – the prospect of returning to face-to-face engagement may provoke some anxiety. As with any significant change to our routine, we just have to take it gradually. Read on to find out more.
+As a medical social worker, Mr Daniel Chee is a rarity. He is in a field where women are deemed to be more suitable. Yet he has no qualms as he finds the work meaningful. Discover how he strives to provide a safe place for griefing and distressed individuals. 
 
-Source: [CNA Lifestyle](https://cnalifestyle.channelnewsasia.com/wellness/ready-to-reboot-social-interactions-baby-steps-to-get-started-14522646){:target="_blank"}
+Source: [Today Online](https://www.todayonline.com/singapore/guilt-grief-and-loneliness-covid-19-medical-social-worker-ncid-lends-soft-touch-women-dominated-field){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -119,13 +127,13 @@ When he left his COO job at a tech start-up in Malaysia as border restrictions k
 
 Source: [Today Online](https://www.todayonline.com/voices/jobseekers-diaries-i-went-being-chief-operating-officer-trainee-amid-covid-19-and-never){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div>
+<div class="heading-pillar">Making Connections</div>
 
-#### How a former policeman upskilled himself to pursue a career in IT
+#### “We gave them grocery vouchers but they gave us an even more valuable gift”
 
-When Darrek Lau, 43, left the police force in 2019, he drove for Grab while looking for a course to upskill for future job opportunities. He jumped at the Software Developer Bootcamp included in the upskilling programme provided by GrabAcademy, and has never looked back since. Find out more.
+Every act of service, however small, impacts both the lives of the giver and the receiver. That’s what four friends discovered when they came together to help needy families at Eunos Crescent during Ramadan. Read on to learn how their Sunday of knocking on doors turned curiosities into smiles.
 
-Source: [The Straits Times](https://www.straitstimes.com/singapore/jobs/how-a-former-policeman-upskilled-himself-to-pursue-a-career-in-it){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/ramadan-grocery-vouchers-valuable-gift/){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
@@ -135,13 +143,13 @@ With remote working becoming the norm, the act of volunteering has also gone dig
 
 Source: [Today Online](https://www.todayonline.com/singapore/volunteering-goes-virtual-more-people-are-giving-their-time){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div>
+<div class="heading-pillar">Building Our Community</div>  
 
-#### Young S’porean family helps teen with autism find parents after taking wrong bus & losing way
+#### Helping the less fortunate craft out self-confidence
 
-As parents of special-needs children, helping them learn to gain independence can be challenging. When Bob Lee realised his autistic son had boarded the wrong bus and was nowhere to be found, he panicked. Find out how the teen was found and how a friendship was forged after that incident.
+As students, Ms Valen Tan and her classmates started a not-for-profit social enterprise for the less fortunate battling life’s challenges. Over time, it has evolved into one that empowers people to build confidence. Learn how a school project became a way of life for the founder and beneficiaries.
 
-Source: [Mothership](https://mothership.sg/2021/04/singaporean-family-teen-autism-take-wrong-bus/){:target="_blank"}
+Source: [The New Paper](https://www.tnp.sg/news/singapore/helping-less-fortunate-craft-out-self-confidence){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
@@ -150,14 +158,6 @@ Source: [Mothership](https://mothership.sg/2021/04/singaporean-family-teen-autis
 No matter how many curveballs life throws at Tan Siew Ling, she lobs them right back. Having lost her sight, both her parents, and then her hearing, she refuses to be defeated. Read about how with some help, she manages to live her life to the fullest of her abilities. 
 
 Source: [The Straits Times](https://www.straitstimes.com/singapore/she-lost-her-sight-and-her-hearing-but-she-never-lost-hope-and-optimism){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### What she thought was a two-hour volunteering stint during circuit breaker has lasted till now
-
-During Circuit Breaker last year, Lim May-Ann contacted a non-profit via a Facebook post asking for volunteers to repair and refurbish laptops for low-income families. Learn more about what she thought would be a straightforward session instead becoming a fruitful journey, with May-Ann heading their community project helping the less-privileged go online. 
-
-Source: [The Straits Times](https://www.straitstimes.com/singapore/what-she-thought-was-a-two-hour-volunteering-stint-during-circuit-breaker-has-lasted-till){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
