@@ -6,9 +6,9 @@ permalink: /
 sections:
     - hero:
         title: Singapore Together
-        subtitle: Together, we will emerge stronger. 
-        button: Read our views
-        url: /speak/
+        subtitle: Together, we will emerge stronger. Let’s care, appreciate and support one another! Learn how Singaporeans are supporting each other during this period of Phase 2 (Heightened Alert).
+        button: Find out more
+        url: /media-centre/
         background: /images/Banner.jpg
         key_highlights:
             - title: Singapore Together
@@ -24,8 +24,8 @@ sections:
               description: Contribute and participate in more community initiatives.
               url: /ideate-and-act/
     - infobar:
-        title: "Let's learn from each other to emerge stronger!"
-        description: "We have now moved to the next phase of the COVID-19 crisis: recovery. It’s time to turn our attention to the ways we can recover from the disruption to our lives and prepare for a new normal."
+        title: "Let’s care, appreciate and support each other during this period in order to emerge stronger!"
+        description: To fight against COVID and minimise transmission, we are currently on Phase 2 (Heightened Alert) with tightened measures from 16 May 2021 through to 13 June 2021. Let’s do more to care and support one another. Contribute your ideas, time, or resources to support the vulnerable amongst us. Appreciate our frontliners who are working hard to keep us safe. If you see a neighbour, colleague, and community in need, do give a helping hand. Together, we can keep safe, stay healthy and emerge stronger as one Singapore! For more resources and information, please click <a href="https://www.sgunited.gov.sg" target="_blank">here</a>.
     - infopic:
         title: Reflect
         subtitle: Encourage Each Other
@@ -51,6 +51,6 @@ sections:
         image: /images/homepage-image-3.jpg
         alt: Ideate and Act
     - resources:
-        title: Featured Stories
+        title: Featured Stories and Initiatives
         button: READ MORE
 ---
