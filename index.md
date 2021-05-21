@@ -8,7 +8,7 @@ sections:
         title: Singapore Together
         subtitle: Together, we will emerge stronger. Let’s care, appreciate and support one another! Learn how Singaporeans are supporting each other during this period of Phase 2 (Heightened Alert).
         button: Find out more
-        url: /media-centre/
+        url: /media-centre/featured-stories/
         background: /images/Banner.jpg
         key_highlights:
             - title: Singapore Together
