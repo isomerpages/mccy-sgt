@@ -7,6 +7,7 @@ permalink: /speak/archives
 ### Archives
 
 | --- | :--- |
+|Finding Support: Well-being | [Stress relaxation techniques for better mental wellbeing](https://www.healthhub.sg/live-healthy/435/stressrelaxationtechniques){:target="_blank"}|
 |Finding Support: Well-being | [Ready to reboot social interactions? Baby steps to get started](https://cnalifestyle.channelnewsasia.com/wellness/ready-to-reboot-social-interactions-baby-steps-to-get-started-14522646){:target="_blank"}|
 |Finding Support: Well-being | [To maintain feelings of happiness, you need to work on it a bit](https://www.straitstimes.com/life/to-maintain-feelings-of-happiness-you-need-to-work-on-it-a-bit){:target="_blank"}|
 |Finding Support: Well-being | [Navigating work in the new normal doesn’t need to be a struggle, here’s how](https://pride.kindness.sg/work-new-normal/){:target="_blank"}|
@@ -45,6 +46,7 @@ permalink: /speak/archives
 |Finding Support: Well-being | [Braving the storm together: supporting our children emotionally through Covid-19](https://www.childrensociety.org.sg/resources/ck/files/covid19_parentips.pdf){:target="_blank"}|
 |Finding Support: Well-being | [Juggling WFH while managing the kids? Here’s help](https://www.gov.sg/article/juggling-wfh-while-managing-the-kids-heres-help){:target="_blank"}|
 |Finding Support: Well-being | [How do we develop mental health resilience?](https://www.healthhub.sg/live-healthy/575/mentalhealth_resilience){:target="_blank"}|
+|Finding Support: Jobs | [Jobseekers’ Diaries: I went from being COO to trainee amid Covid-19 and never looked back](https://www.todayonline.com/voices/jobseekers-diaries-i-went-being-chief-operating-officer-trainee-amid-covid-19-and-never){:target="_blank"}|
 |Finding Support: Jobs | [How a former policeman upskilled himself to pursue a career in IT](https://www.straitstimes.com/singapore/jobs/how-a-former-policeman-upskilled-himself-to-pursue-a-career-in-it){:target="_blank"}|
 |Finding Support: Jobs | [Where the Jobs Are: Shedding image of ‘shorts, boots, floppy hat’, farming sector a pull for youths as S'pore bolsters food security](https://www.todayonline.com/singapore/where-jobs-are-shedding-image-shorts-boots-floppy-hat-farming-sector-pull-youths-spore){:target="_blank"}|
 |Finding Support: Jobs | [Covid-19 took your job? Take advantage of temporary or short-term opportunities to find a new one](https://mothership.sg/2021/02/workforce-singapore-job-hunting/){:target="_blank"}|
@@ -82,6 +84,7 @@ permalink: /speak/archives
 |Finding Support: Jobs | [Versatility To Overcome Life’s Obstacles](https://www.gov.sg/article/versatility-to-overcome-lifes-obstacles){:target="_blank"}|
 |Finding Support: Jobs | [New skills for the new normal: How to upskill from now and beyond](https://content.mycareersfuture.sg/new-skills-new-normal-upskill-now-beyond/){:target="_blank"}|
 |Finding Support: Jobs | [Can You Really #DoWhatYouLove? We Speak to 2 Singaporeans Who Made A Mid-Career Switch](https://blog.moneysmart.sg/career/professional-conversion-programme/){:target="_blank"}|
+|Making Connections | [As volunteering goes virtual, more people are giving their time](https://www.todayonline.com/singapore/volunteering-goes-virtual-more-people-are-giving-their-time){:target="_blank"}|
 |Making Connections | [Young S’porean family helps teen with autism find parents after taking wrong bus & losing way](https://mothership.sg/2021/04/singaporean-family-teen-autism-take-wrong-bus/){:target="_blank"}|
 |Making Connections | [The kampung spirit is real and I found it in this part of Singapore](https://pride.kindness.sg/kampung-spirit-is-real/){:target="_blank"}|
 |Making Connections | [Budget airline staff help as healthcare assistants](https://www.straitstimes.com/singapore/budget-airline-staff-help-as-healthcare-assistants){:target="_blank"}|
@@ -118,6 +121,7 @@ permalink: /speak/archives
 |Making Connections | [Covid-19 has shown that we can be gracious. How do we make it last?](https://www.channelnewsasia.com/news/commentary/covid-19-singapore-gracious-society-kindess-ground-up-12808722?cid=h3_referral_inarticlelinks_24082018_cna){:target="_blank"}|
 |Making Connections | [NTU student volunteers to help hawkers move online](http://soapbox.sg/2020/06/29/ntu-student-help-hawkers/){:target="_blank"}|
 |Making Connections | [Learning New Tech Has No Age Barrier](https://www.gov.sg/article/learning-new-tech-has-no-age-barrier){:target="_blank"}|
+|Building Our Community | [She lost her sight and her hearing but she never lost hope and optimism](https://www.straitstimes.com/singapore/she-lost-her-sight-and-her-hearing-but-she-never-lost-hope-and-optimism){:target="_blank"}|
 |Building Our Community | [What she thought was a two-hour volunteering stint during circuit breaker has lasted till now](https://www.straitstimes.com/singapore/what-she-thought-was-a-two-hour-volunteering-stint-during-circuit-breaker-has-lasted-till){:target="_blank"}|
 |Building Our Community | [Gen Y Speaks: My mum's struggle with tech inspired me to start a digital literacy campaign for seniors](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-my-mum-struggled-tech-she-inspired-me-start-digital-literacy-campaign){:target="_blank"}|
 |Building Our Community | [They sell tissue-paper packs out of need. Yale-NUS students now striving to make them a ‘visible community’](https://www.todayonline.com/singapore/they-sell-tissue-paper-packs-out-need-yale-nus-students-now-striving-make-them-visible){:target="_blank"}|

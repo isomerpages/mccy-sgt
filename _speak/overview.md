@@ -97,19 +97,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### Master The Art of Change for Better Mental Wellness
+
+However well mapped out our lives might have been, we are bound to face life changes. While everyone handles life changes differently, there is one simple formula that works well for all. To grasp this life-enhancing way to live harmoniously with change, read on. 
+
+Source: [HealthHub](https://www.healthhub.sg/live-healthy/222/art_of_change){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Busting the Myths of Mental Illness
 
 Every patient needs support and help from those around them. Particularly, patients suffering from mental illness. Yet the stigma and taboo surrounding mental illness force many to keep their conditions under wraps. We can do our part. Start by learning the facts and help to debunk mental illness myths here.
 
 Source: [HealthHub](https://www.healthhub.sg/live-healthy/1733/busting-the-myths-of-mental-illness){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div>
+<div class="heading-pillar">Finding Support: Jobs</div>
 
-#### Stress relaxation techniques for better mental wellbeing
+#### Jobseekers’ Diaries: I took a leap of faith into the special needs sector and have no regrets
 
-“Keep calm and carry on” might be a trope, but managing stress is easier than you think. You can begin reducing stress levels with some breathing exercises, and muscle relaxation techniques to ease tension. Find out how you can relieve stress and improve mental wellbeing with just a few easy steps.
+In a bleak job market, it takes more than having the right education and experience to have your dream career. Having unwavering passion and a dauntless approach can help along the way. Learn how Ms Isfarzana Putri Isfarizal, a maritime business student, managed to switch to her dream job.
 
-Source: [HealthHub](https://www.healthhub.sg/live-healthy/435/stressrelaxationtechniques){:target="_blank"}
+Source: [Today Online](https://www.todayonline.com/voices/jobseekers-diaries-i-took-leap-faith-special-needs-sector-and-have-no-regrets){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -119,13 +127,13 @@ As a medical social worker, Mr Daniel Chee is a rarity. He is in a field where w
 
 Source: [Today Online](https://www.todayonline.com/singapore/guilt-grief-and-loneliness-covid-19-medical-social-worker-ncid-lends-soft-touch-women-dominated-field){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div>
+<div class="heading-pillar">Making Connections</div>
 
-#### Jobseekers’ Diaries: I went from being COO to trainee amid Covid-19 and never looked back
+#### From reading sessions to career mentoring: How corporate volunteering is evolving beyond Covid-19
 
-When he left his COO job at a tech start-up in Malaysia as border restrictions kicked in, Mr Cheng applied to become a crew member – at a fast food chain. Find out more about how he swam against the current and restarted a new career from scratch, with no regrets.
+We hope for good times but true champions make time for good. In this fast-changing world, some charities and disadvantaged communities are thriving with the rally and support from our remarkable Champions of Good. Read about these champions and how they pivot the art of doing good under trying times.
 
-Source: [Today Online](https://www.todayonline.com/voices/jobseekers-diaries-i-went-being-chief-operating-officer-trainee-amid-covid-19-and-never){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/community/digital-social-initiatives-corporate-volunteering-evolving-beyond-covid19){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
@@ -135,13 +143,13 @@ Every act of service, however small, impacts both the lives of the giver and the
 
 Source: [The Pride](https://pride.kindness.sg/ramadan-grocery-vouchers-valuable-gift/){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div>
+<div class="heading-pillar">Building Our Community</div>  
 
-#### As volunteering goes virtual, more people are giving their time
+#### New community farm that will donate produce to vulnerable residents among Bukit Batok Green Plan initiatives
 
-With remote working becoming the norm, the act of volunteering has also gone digital. The circuit breaker period gave rise to virtual volunteerism, which enables “micro-volunteers” – people who offer help in bursts and give slots of their time to assist in areas like creative work and tech support. Find out more. 
+A new green initiative is doing more than just providing a space for people to cope with Covid-19 stress and anxiety. Other than encouraging residents to join in this environmentally sustainable activity, find out how it intends to do its part to help vulnerable residents within the region. 
 
-Source: [Today Online](https://www.todayonline.com/singapore/volunteering-goes-virtual-more-people-are-giving-their-time){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/environment/new-community-farm-that-will-donate-produce-to-vulnerable-residents-among){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
@@ -150,14 +158,6 @@ Source: [Today Online](https://www.todayonline.com/singapore/volunteering-goes-v
 As students, Ms Valen Tan and her classmates started a not-for-profit social enterprise for the less fortunate battling life’s challenges. Over time, it has evolved into one that empowers people to build confidence. Learn how a school project became a way of life for the founder and beneficiaries.
 
 Source: [The New Paper](https://www.tnp.sg/news/singapore/helping-less-fortunate-craft-out-self-confidence){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### She lost her sight and her hearing but she never lost hope and optimism
-
-No matter how many curveballs life throws at Tan Siew Ling, she lobs them right back. Having lost her sight, both her parents, and then her hearing, she refuses to be defeated. Read about how with some help, she manages to live her life to the fullest of her abilities. 
-
-Source: [The Straits Times](https://www.straitstimes.com/singapore/she-lost-her-sight-and-her-hearing-but-she-never-lost-hope-and-optimism){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
