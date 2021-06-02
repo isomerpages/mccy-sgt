@@ -211,4 +211,4 @@ Share your views on national policies on REACH Chinese WhatsApp Chat Group. Now 
 [Discover more](https://happinessinitiative.sg/stay-strong-sg){:target="_blank"}
 
 The Ministry of National Development is conducting a public consultation on public housing in prime locations. Your views will help shape a public housing model to ensure our HDB towns remain inclusive, affordable and accessible. Share your views by 30 June 2021.
-<br>[Learn more and submit your views.](https://www.reach.gov.sg/participate/public-consultation/ministry-of-national-development/public-consultation-on-public-housing-in-prime-locations){:target="_blank"}
+<br>[Learn more and submit your views](https://www.reach.gov.sg/participate/public-consultation/ministry-of-national-development/public-consultation-on-public-housing-in-prime-locations){:target="_blank"}
