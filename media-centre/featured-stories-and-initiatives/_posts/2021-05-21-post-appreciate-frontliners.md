@@ -19,7 +19,7 @@ permalink: /media-centre/featured-stories/appreciate-frontliners
 
 *	**@sghealthcareheroes** - Pen your thanks to our healthcare workers or share their posts and tag @sghealthcareheroes when you post your IG Stories!
 
-*	**Youthopia SG** - Join in with a comment to show your appreciation to our healthcare frontliners.
+*	**Youthopia SG** - [Join in](https://www.facebook.com/youthopiasg/) with a comment to show your appreciation to our healthcare frontliners.
 
 *	**North West Community Development Council** has helped to distribute care packs, together with 5,000 handwritten cards and 100 social media messages, to 12,000 frontliners at Tan Tock Seng Hospital on 12 May 2021. Head over to its [Facebook page](https://www.facebook.com/nwcdc) to learn more and how they have garnered support in its Project #SGHeroes and other initiatives to build a caring community.
 
