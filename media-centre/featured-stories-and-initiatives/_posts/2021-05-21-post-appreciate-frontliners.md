@@ -10,9 +10,9 @@ permalink: /media-centre/featured-stories/appreciate-frontliners
 
 * **Welcome In My Backyard (WIMBY)** is a volunteer-run campaign that raises awareness in relation to migrant workers, and hopes to create a safe space for our new migrant neighbours and build good relations between migrant workers and our community. Visit [www.wimby.sg](https://www.wimby.sg){:target="_blank"} 
 
-* **Youth Corp Singapore (YCS)** – Join the YCS [for their latest community initiatives](https://www.youthcorps.gov.sg).{:target="_blank"} 
+* **Youth Corp Singapore (YCS)** – Join the YCS [for their latest community initiatives](https://www.youthcorps.gov.sg){:target="_blank"}.
 
-* **Kindness Day 2021** – Read more about Kindness Day 2021 marked on 21 May 2021 on The Pride and some of the ground-up initiatives to show appreciation for those working to making a kinder Singapore. Find out how you can help spread kindness [here](https://pride.kindness.sg/kindness-day-sg-2021/).{:target="_blank"} 
+* **Kindness Day 2021** – Read more about Kindness Day 2021 marked on 21 May 2021 on The Pride and some of the ground-up initiatives to show appreciation for those working to making a kinder Singapore. Find out how you can help spread kindness [here](https://pride.kindness.sg/kindness-day-sg-2021/){:target="_blank"}.
 
 
 ### Give a note of thanks and show your appreciation to our healthcare heroes at these social platforms:
