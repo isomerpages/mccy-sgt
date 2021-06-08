@@ -52,13 +52,6 @@ Learn more about Singaporeans’ perspectives from the SG Together Emerging Stro
 
 ![ESC summary EN](/images/ESC-summary-english.gif){: .img-responsive}
 
-![ESC summary SC](/images/ESC-summary-chinese.gif){: .img-responsive}
-
-![ESC summary ML](/images/ESC-summary-malay.gif){: .img-responsive}
-
-![ESC summary TM](/images/ESC-summary-tamil.gif){: .img-responsive}
-
-
 &nbsp;
 
 ![Read all about them](/images/speak-header-7.jpg)
