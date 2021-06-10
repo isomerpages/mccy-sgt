@@ -1,8 +1,7 @@
 ---
 title: Overview
-description: >-
-  Join Singaporeans from all walks of life as they share their views on national
-  issues. Register now to participate.
+description: Join Singaporeans from all walks of life as they share their views
+  on national issues. Register now to participate.
 permalink: /speak/
 ---
 ![Discuss national issues](/images/speak-header-1.jpg)
@@ -52,13 +51,6 @@ The COVID-19 crisis has brought about changes and challenges for our nation. At 
 Learn more about Singaporeans’ perspectives from the SG Together Emerging Stronger Conversations – A Summary report and infographics.
 
 ![ESC summary EN](/images/ESC-summary-english.gif){: .img-responsive}
-
-![ESC summary SC](/images/ESC-summary-chinese.gif){: .img-responsive}
-
-![ESC summary ML](/images/ESC-summary-malay.gif){: .img-responsive}
-
-![ESC summary TM](/images/ESC-summary-tamil.gif){: .img-responsive}
-
 
 &nbsp;
 
@@ -207,6 +199,9 @@ Share your views on national policies on REACH Chinese WhatsApp Chat Group. Now 
 &nbsp;
 
 ![Give your feedback](/images/speak-header-5.jpg)
+
+The Ministry of National Development is conducting a public consultation on public housing in prime locations. Your views will help shape a public housing model to ensure our HDB towns remain inclusive, affordable and accessible. Share your views by 30 June 2021.
+<br>[Learn more and submit your views](https://www.reach.gov.sg/participate/public-consultation/ministry-of-national-development/public-consultation-on-public-housing-in-prime-locations){:target="_blank"}
 
 'Stay Strong Singapore' campaign is a ground-up initiative by the Happiness Initiative in partnership with MCCY to offer encouragement beyond the circuit breaker. You can also check out the Telegram sticker pack!  
 [Discover more](https://happinessinitiative.sg/stay-strong-sg){:target="_blank"}
