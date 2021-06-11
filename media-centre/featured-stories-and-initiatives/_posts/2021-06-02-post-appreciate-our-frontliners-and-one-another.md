@@ -18,7 +18,7 @@ layout: post
 
 ### Thank our healthcare heroes at these social platforms:
 
-*	**@sghealthcareheroes** - Pen your thanks to our healthcare workers or share their posts and tag @sghealthcareheroes when you post your IG Stories!
+*	**@sghealthcareheroes** - Pen your thanks to our healthcare workers and tag @sghealthcareheroes when you post your IG Stories!
 
 *	**Youthopia SG** - [Join in](https://www.facebook.com/youthopiasg/){:target="_blank"} with a comment to show your appreciation to our healthcare frontliners.
 
