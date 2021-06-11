@@ -8,7 +8,7 @@ layout: post
 
 ### Singapore Together – Inspire, Appreciate, and Support One Another in the Community During Phase 2 (Heightened Alert)
 
-* [**Youth Corp Singapore (YCS)**](https://www.youthcorps.gov.sg){:target="_blank"} – Calling all youths! Join the YCS in their latest initiatives and spend time meaningfully this June holidays. Play a part to create solutions to address mental health gaps in Singapore. Champion for mental wellness through peer support. Head over to their [Facebook page]( https://www.facebook.com/youthcorpssg/){:target="_blank"} for more.
+* [**Youth Corp Singapore (YCS)**](https://www.youthcorps.gov.sg){:target="_blank"} – Calling all youths! Join the YCS in their latest initiatives and spend time meaningfully this June holidays. Play a part to create solutions to address mental health gaps in Singapore. Champion for mental wellness through peer support. Head over to their [Facebook page]( https://www.facebook.com/youthcorpssg/){:target="_blank"} for the latest happenings.
 
 * [**Kindness Day 2021**](https://pride.kindness.sg/kindness-day-sg-2021/){:target="_blank"} – Read more about Kindness Day 2021 marked on 21 May 2021 on The Pride and some of the ground-up initiatives to show appreciation for those working to making a kinder Singapore. Find out how you can help spread kindness [here](https://pride.kindness.sg/kindness-day-sg-2021/){:target="_blank"}
  
