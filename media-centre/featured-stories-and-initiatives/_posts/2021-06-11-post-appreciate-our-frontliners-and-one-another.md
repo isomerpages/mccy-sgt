@@ -18,11 +18,11 @@ layout: post
 
 
 ### Thank our healthcare heroes at these social platforms:
-* **Team Nila** – Join its #ThankYouSG movement with a song, photo post or an appreciation message. Head over to its [Facebook page]( https://www.facebook.com/170118813149118/posts/1878323215661994/){:target="_blank"} to learn how.
+* **Team Nila** – Join its #ThankYouSG movement with a song, photo post or an appreciation message. Head over to its [Facebook page]( https://www.facebook.com/TeamNila/posts/1878323215661994){:target="_blank"} to learn how.
 
 *	**@sghealthcareheroes** - Pen your thanks to our healthcare workers and tag @sghealthcareheroes when you post your IG Stories!
 
-*	**Youthopia SG** - [Join in](https://www.facebook.com/106517704482191/posts/274528057681154/){:target="_blank"} with a comment to show your appreciation to our healthcare frontliners.
+*	**Youthopia SG** - [Join in](https://www.facebook.com/youthopiasg/posts/274528057681154){:target="_blank"} with a comment to show your appreciation to our healthcare frontliners.
 
 *	**North West Community Development Council** has helped to distribute care packs, together with 5,000 handwritten cards and 100 social media messages, to 12,000 frontliners at Tan Tock Seng Hospital on 12 May 2021. Head over to its [Facebook page](https://www.facebook.com/nwcdc){:target="_blank"} to learn more and how they have garnered support in its Project #SGHeroes and other initiatives to build a caring community.
 
