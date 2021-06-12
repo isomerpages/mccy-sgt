@@ -89,19 +89,27 @@ To be fully engaged and participate in national conversations, we need to be fam
 
 <div class="heading-pillar">Finding Support: Well-being</div>
 
+#### As Covid-19 looks to be endemic in Singapore, let’s make empathy endemic too
+
+As we embrace this new normal, it’s time we help raise each other’s spirits too. Online and offline, stories of Singaporeans coming together to help one another are emerging. As well as encouraging. Read on to learn why having empathy during these times will pull everyone through while keeping all of us safe.
+
+Source: [The Pride](https://pride.kindness.sg/covid-endemic-singapore-make-empathy-endemic/){:target="_blank"}
+
+<div class="heading-pillar">Finding Support: Well-being</div>
+
 #### Master The Art of Change for Better Mental Wellness
 
 However well mapped out our lives might have been, we are bound to face life changes. While everyone handles life changes differently, there is one simple formula that works well for all. To grasp this life-enhancing way to live harmoniously with change, read on. 
 
 Source: [HealthHub](https://www.healthhub.sg/live-healthy/222/art_of_change){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Well-being</div>
+<div class="heading-pillar">Finding Support: Jobs</div>
 
-#### Busting the Myths of Mental Illness
+#### “All these years, I thought my mum’s love was not there, so I went out to find it. I was wrong.”
 
-Every patient needs support and help from those around them. Particularly, patients suffering from mental illness. Yet the stigma and taboo surrounding mental illness force many to keep their conditions under wraps. We can do our part. Start by learning the facts and help to debunk mental illness myths here.
+Jason Ngoh isn’t your typical barista. Schooled in the college of hard knocks, this formerly rebellious individual never felt loved or appreciated. That is until a youthful incident at 16 opened his eyes. Discover how love helped him bounce back from his mistakes to start his own business.
 
-Source: [HealthHub](https://www.healthhub.sg/live-healthy/1733/busting-the-myths-of-mental-illness){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/my-mums-love-was-not-there-i-was-wrong/){:target="_blank"}
 
 <div class="heading-pillar">Finding Support: Jobs</div>
 
@@ -111,13 +119,13 @@ In a bleak job market, it takes more than having the right education and experie
 
 Source: [Today Online](https://www.todayonline.com/voices/jobseekers-diaries-i-took-leap-faith-special-needs-sector-and-have-no-regrets){:target="_blank"}
 
-<div class="heading-pillar">Finding Support: Jobs</div>
+<div class="heading-pillar">Making Connections</div>
 
-#### Guilt, grief and loneliness from Covid-19: Medical social worker at NCID lends ‘soft touch’ in women-dominated field
+#### Write to be kind: Penpal initiative matches young people with seniors
 
-As a medical social worker, Mr Daniel Chee is a rarity. He is in a field where women are deemed to be more suitable. Yet he has no qualms as he finds the work meaningful. Discover how he strives to provide a safe place for griefing and distressed individuals. 
+Every individual, especially those whose lives have spanned over decades, has a story worth sharing. When such anecdotes, life experiences and memories are penned down and shared with today’s youths, a kindness movement is born. This is how it started. 
 
-Source: [Today Online](https://www.todayonline.com/singapore/guilt-grief-and-loneliness-covid-19-medical-social-worker-ncid-lends-soft-touch-women-dominated-field){:target="_blank"}
+Source: [The Straits Times](https://www.straitstimes.com/singapore/community/write-to-be-kind-penpal-initiative-matches-youths-with-seniors){:target="_blank"}
 
 <div class="heading-pillar">Making Connections</div>
 
@@ -127,13 +135,13 @@ We hope for good times but true champions make time for good. In this fast-chang
 
 Source: [The Straits Times](https://www.straitstimes.com/singapore/community/digital-social-initiatives-corporate-volunteering-evolving-beyond-covid19){:target="_blank"}
 
-<div class="heading-pillar">Making Connections</div>
+<div class="heading-pillar">Building Our Community</div>  
 
-#### “We gave them grocery vouchers but they gave us an even more valuable gift”
+#### Trash to treasure: Three organisations that upcycle food waste into useful products
 
-Every act of service, however small, impacts both the lives of the giver and the receiver. That’s what four friends discovered when they came together to help needy families at Eunos Crescent during Ramadan. Read on to learn how their Sunday of knocking on doors turned curiosities into smiles.
+Ever heard of upcycling? It’s not a physical exercise but a worthy movement to better handle and repurpose our food resources. After all, food waste is one of Singapore’s largest environmental concerns. It’s time we all do our part. Learn more about upcycling here today.
 
-Source: [The Pride](https://pride.kindness.sg/ramadan-grocery-vouchers-valuable-gift/){:target="_blank"}
+Source: [The Pride](https://pride.kindness.sg/upcycle-food-waste/){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
@@ -142,14 +150,6 @@ Source: [The Pride](https://pride.kindness.sg/ramadan-grocery-vouchers-valuable-
 A new green initiative is doing more than just providing a space for people to cope with Covid-19 stress and anxiety. Other than encouraging residents to join in this environmentally sustainable activity, find out how it intends to do its part to help vulnerable residents within the region. 
 
 Source: [The Straits Times](https://www.straitstimes.com/singapore/environment/new-community-farm-that-will-donate-produce-to-vulnerable-residents-among){:target="_blank"}
-
-<div class="heading-pillar">Building Our Community</div>  
-
-#### Helping the less fortunate craft out self-confidence
-
-As students, Ms Valen Tan and her classmates started a not-for-profit social enterprise for the less fortunate battling life’s challenges. Over time, it has evolved into one that empowers people to build confidence. Learn how a school project became a way of life for the founder and beneficiaries.
-
-Source: [The New Paper](https://www.tnp.sg/news/singapore/helping-less-fortunate-craft-out-self-confidence){:target="_blank"}
 
 <div class="heading-pillar">Building Our Community</div>  
 
