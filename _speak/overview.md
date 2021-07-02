@@ -200,8 +200,7 @@ Share your views on national policies on REACH Chinese WhatsApp Chat Group. Now 
 
 ![Give your feedback](/images/speak-header-5.jpg)
 
-The Ministry of National Development is conducting a public consultation on public housing in prime locations. Your views will help shape a public housing model to ensure our HDB towns remain inclusive, affordable and accessible. Share your views by 30 June 2021.
-<br>[Learn more and submit your views](https://www.reach.gov.sg/participate/public-consultation/ministry-of-national-development/public-consultation-on-public-housing-in-prime-locations){:target="_blank"}
+
 
 'Stay Strong Singapore' campaign is a ground-up initiative by the Happiness Initiative in partnership with MCCY to offer encouragement beyond the circuit breaker. You can also check out the Telegram sticker pack!  
 [Discover more](https://happinessinitiative.sg/stay-strong-sg){:target="_blank"}
