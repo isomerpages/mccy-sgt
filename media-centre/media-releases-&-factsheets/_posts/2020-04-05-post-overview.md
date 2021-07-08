@@ -1,12 +1,12 @@
 ---
 title: Overview
-description: 'One-stop resource for news, press releases, articles, commentary and speeches.'
+description: One-stop resource for news, press releases, articles, commentary and speeches.
 permalink: /media-centre/media-releases-&-factsheets/overview
 ---
-
 ### Media Releases & Factsheets
 
 | --- | :--- |
+|26 June 2021|[Media Release][Build a Caring Fair & Resilient SG Together Amid Pandemic through SG Together AfAs & Partnerships](/files/Media_Release_Build_a_Caring_Fair_and_Resilient_SG_Together_Amid_Pandemic_through_SG_Together_AfAs_and_Partnerships.pdf)
 |9 Feb 2021 |[Media Release] [Singapore Together Emerging Stronger Conversations Report: Singaporeans’ Aspirations To Co-Create A Caring And Resilient Singapore](/files/Media_Release_on_the_SG_Together_Emerging_Stronger_Conversations_(Issued_9_Feb_2021).pdf){:target="_blank" } |
 |12 Jan 2021 |[Factsheet] [Second Singapore Together Emerging Stronger Conversations For The Malay/Muslim Community Conducted Under CiptaSama@M³](/files/Media_Factsheet_on_the_SG_Together_Emerging_Stronger_Conversations_With_CiptaSama_M3_(Issued_12_Jan_2021).pdf){:target="_blank" } |
 |7 Jan 2021 |[Factsheet] [First Singapore Together Emerging Stronger Conversations For The Malay/Muslim Community Conducted Under CiptaSama@M³](/files/Media_Factsheet_on_the_SG_Together_Emerging_Stronger_Conversations_With_CiptaSama_M3_(Issued_7_Jan_2021).pdf){:target="_blank"} |
