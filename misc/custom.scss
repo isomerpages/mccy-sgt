@@ -408,3 +408,10 @@ a.link-icon-block[href$=".pdf"] {
   width: 75%;
   margin: 1.3rem 0.6rem;
 }
+
+.bp-hero-body p {
+  a {
+    color: #fff;
+    text-decoration: underline;
+  }
+}
