@@ -204,6 +204,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 #notification-bar {
   background: #FFEA1E !important;
+  h6 {
+    color: #000 !important;
+  }
 }
 
 #key-highlights{
