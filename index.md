@@ -7,7 +7,7 @@ notification: We’re moving! From 23 Aug 2021, we can be found at Our SG (<a hr
 sections:
     - hero:
         title: Singapore Together
-        subtitle: Together, we will emerge stronger. Let’s care, appreciate and support one another! Learn how Singaporeans are continuing to support each other during this period of Phase 2 (Heightened Alert) at our new home <br/>Our SG (<a href="https://www.sg">www.sg</a>).
+        subtitle: Together, we will emerge stronger. Let’s care, appreciate and support one another! Learn how Singaporeans are continuing to support each other during this period of Phase 2 (Heightened Alert) at our new home –<br/>Our SG (<a href="https://www.sg">www.sg</a>).
         button: Find out more
         url: /media-centre/featured-stories-and-initiatives
         background: /images/Banner.jpg
