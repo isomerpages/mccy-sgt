@@ -3,10 +3,11 @@ layout: homepage
 title: Singapore Together
 description: Singapore Together is a movement for all Singaporeans to work together to build our shared future. Join us.
 permalink: /
+notification: We’re moving! From 23 Aug 2021, we can be found at Our SG (<a href="https://www.sg">www.sg</a>). From volunteering to partnering activities to starting your own ground-up SG Together community initiative, there is something for everyone. Hope to see you soon!
 sections:
     - hero:
         title: Singapore Together
-        subtitle: Together, we will emerge stronger. Let’s care, appreciate and support one another! Learn how Singaporeans are supporting each other during this period of Phase 2 (Heightened Alert).
+        subtitle: Together, we will emerge stronger. Let’s care, appreciate and support one another! Learn how Singaporeans are continuing to support each other during this period of Phase 2 (Heightened Alert) at our new home –<br/>Our SG (<a href="https://www.sg">www.sg</a>).
         button: Find out more
         url: /media-centre/featured-stories-and-initiatives
         background: /images/Banner.jpg
@@ -25,7 +26,7 @@ sections:
               url: /ideate-and-act/
     - infobar:
         title: "Let’s care, appreciate and support each other during this period in order to emerge stronger!"
-        description: To fight against COVID and minimise transmission, we are currently on Phase 2 (Heightened Alert) with tightened measures from 16 May 2021 through to 13 June 2021. Let’s do more to care and support one another. Contribute your ideas, time, or resources to support the vulnerable amongst us. Appreciate our frontliners who are working hard to keep us safe. If you see a neighbour, colleague, and community in need, do give a helping hand. Together, we can keep safe, stay healthy and emerge stronger as one Singapore! For more resources and information, please click <a href="https://www.sgunited.gov.sg" target="_blank">here</a>.
+        description: To fight against COVID and minimise transmission, we are currently on Phase 2 (Heightened Alert) with further tightened measures. Let’s do more to care and support one another. Contribute your ideas, time, or resources to support the vulnerable amongst us. Appreciate our frontliners who are working hard to keep us safe. If you see a neighbour, colleague, and community in need, do give a helping hand. Together, we can keep safe, stay healthy and emerge stronger as one Singapore! For more resources and information, please click <a href="https://www.sgunited.gov.sg" target="_blank">here</a>.
     - infopic:
         title: Reflect
         subtitle: Encourage Each Other

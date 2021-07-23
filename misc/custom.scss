@@ -203,7 +203,10 @@ $desktop: 960px + (2 * $gap) !default;
 // Homepage
 
 #notification-bar {
-  background: $primary !important;
+  background: #FFEA1E !important;
+  h6 {
+    color: #000 !important;
+  }
 }
 
 #key-highlights{
@@ -407,4 +410,11 @@ a.link-icon-block[href$=".pdf"] {
 .flex-paragraph {
   width: 75%;
   margin: 1.3rem 0.6rem;
+}
+
+.bp-hero-body p {
+  a {
+    color: #fff;
+    text-decoration: underline;
+  }
 }
