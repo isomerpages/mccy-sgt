@@ -3,11 +3,11 @@ layout: homepage
 title: Singapore Together
 description: Singapore Together is a movement for all Singaporeans to work together to build our shared future. Join us.
 permalink: /
-notification: We’re moving! From 23 Aug 2021, we can be found at Our SG (<a href="https://www.sg">www.sg</a>). From volunteerism to partnering activities to starting your own ground-up SG Together community initiative, there is something for everyone. Hope to see you soon!
+notification: We’re moving! From 23 Aug 2021, we can be found at Our SG (<a href="https://www.sg">www.sg</a>). From volunteering to partnering activities to starting your own ground-up SG Together community initiative, there is something for everyone. Hope to see you soon!
 sections:
     - hero:
         title: Singapore Together
-        subtitle: Together, we will emerge stronger. Let’s care, appreciate and support one another! Learn how Singaporeans are continuing to support each other during this period of Phase 2 (Heightened Alert) at our new home Our SG (<a href="https://www.sg">www.sg</a>).
+        subtitle: Together, we will emerge stronger. Let’s care, appreciate and support one another! Learn how Singaporeans are continuing to support each other during this period of Phase 2 (Heightened Alert) at our new home <br/>Our SG (<a href="https://www.sg">www.sg</a>).
         button: Find out more
         url: /media-centre/featured-stories-and-initiatives
         background: /images/Banner.jpg
